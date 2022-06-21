@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aldo Degollado</h1>
 <h3 align="center">A passionate videogame developer from Mexico.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=diplex09&label=Profile%20views&color=0e75b6&style=flat" alt="diplex09" /> </p>
-
 - 🔭 I’m currently studying a **B.S. in Computer Science @ Tec de Monterrey**
 
 - 📫 How to reach me **aldodegollado@hotmail.com**
