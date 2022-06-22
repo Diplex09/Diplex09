@@ -23,5 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diplex09&show_icons=true&locale=en&layout=compact" alt="diplex09" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diplex09&show_icons=true&locale=en" alt="diplex09" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diplex09&" alt="diplex09" /></p>
