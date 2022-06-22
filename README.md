@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aldo Degollado</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" height="35px">, I'm Aldo Degollado</h1>
 <h3 align="center">A passionate videogame developer from Mexico.</h3>
 
 - 🔭 I’m currently studying a **B.S. in Computer Science @ Tec de Monterrey**
@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I support Cruz Azul**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: </h3>
 <p align="left">
 <a href="https://twitter.com/aldodegollado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aldodegollado" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aldo-alejandro-degollado-padilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aldo-alejandro-degollado-padilla" height="30" width="40" /></a>
