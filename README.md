@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/aldo-alejandro-degollado-padilla/](https://www.linkedin.com/in/aldo-alejandro-degollado-padilla/)
 
-- ⚡ Fun fact **I support Cruz Azul**
+- ⚡ Fun fact: **I support Cruz Azul**
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
