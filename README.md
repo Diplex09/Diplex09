@@ -24,20 +24,24 @@
 </h3>
 
 <p align="center">
-  <a href="https://twitter.com/aldodegollado" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aldodegollado" height="30" width="40" />
+  <a href="mailto:aldodegollado@hotmail.com" target="blank">
+    <img align="center" src="https://shields.io/badge/%F0%9F%93%AC%20aldodegollado@hotmail.com-beige?style=for-the-badge" alt="aldoalejandro.degolladopadilla"/>
+  </a>
+  
+  <a href="https://fb.com/aldoalejandro.degolladopadilla" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="aldoalejandro.degolladopadilla"/>
   </a>
   
   <a href="https://linkedin.com/in/aldo-alejandro-degollado-padilla" target="blank">
     <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="aldo-alejandro-degollado-padilla"/>
   </a>
   
-  <a href="https://fb.com/aldoalejandro.degolladopadilla" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aldoalejandro.degolladopadilla" height="30" width="40" />
+  <a href="https://twitter.com/aldodegollado" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="aldodegollado"/>
   </a>
   
   <a href="https://instagram.com/aldodegollado" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aldodegollado" height="30" width="40" />
+    <img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="aldodegollado"/>
   </a>
   
   <img align="center" src="https://dcbadge.vercel.app/api/shield/219490225481580544" alt="aldodegollado"/>
