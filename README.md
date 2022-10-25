@@ -29,7 +29,7 @@
   </a>
   
   <a href="https://linkedin.com/in/aldo-alejandro-degollado-padilla" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aldo-alejandro-degollado-padilla" height="30" width="40" />
+    <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="aldo-alejandro-degollado-padilla"/>
   </a>
   
   <a href="https://fb.com/aldoalejandro.degolladopadilla" target="blank">
@@ -39,6 +39,8 @@
   <a href="https://instagram.com/aldodegollado" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aldodegollado" height="30" width="40" />
   </a>
+  
+  <img align="center" src="https://dcbadge.vercel.app/api/shield/219490225481580544" alt="aldodegollado"/>
 </p>
 
 
@@ -46,7 +48,7 @@
   Languages and Tools:
 </h3>
 
-<p align="left">
+<p align="center">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
   </a>
@@ -153,8 +155,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diplex09&show_icons=true&locale=en" alt="diplex09" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diplex09&theme=tokyonight" alt="diplex09" /></p>
-
-![](https://dcbadge.vercel.app/api/shield/219490225481580544)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Aldo+%F0%9F%91%8B;I'm+a+mexican+game+developer+%F0%9F%8E%AE;I+support+Cruz+Azul+%F0%9F%92%99)](https://git.io/typing-svg)
 
