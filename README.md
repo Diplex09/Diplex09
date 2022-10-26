@@ -167,7 +167,7 @@
 
 <details>
   <summary> 🧬 3D Stats</summary>
-  ![My Stats](./profile-3d-contrib/profile-gitblock.svg)
+  ![MyStats](./profile-3d-contrib/profile-green-animate.svg)
 </details>
 
 <details>
