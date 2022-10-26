@@ -19,9 +19,9 @@
 - ⚡ Fun fact: **I support Cruz Azul**
 
 
-<h3 align="left">
+<h2 align="left">
   Connect with me: 
-</h3>
+</h2>
 
 <p align="center">
   <a href="mailto:aldodegollado@hotmail.com" target="blank">
@@ -41,7 +41,7 @@
   <a href="https://instagram.com/aldodegollado" target="blank">
     <img align="center" img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="aldodegollado"/></a>
   
-  <img align="center" img alt="Discord" title="Discord" src="https://dcbadge.vercel.app/api/shield/219490225481580544" alt="aldodegollado"/>
+  <img align="center" img alt="Discord" title="Discord" src="https://dcbadge.vercel.app/api/shield/219490225481580544"/>
 </p>
 
 
@@ -147,7 +147,16 @@
   </a>
 </p>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/diplex09/diplex09/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/diplex09/diplex09/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+<h3 align="left">
+  Contribution graph:
+</h3>
+
+<p align="center">
+  <img align="center" img alt="Discord" title="Discord" src="https://raw.githubusercontent.com/diplex09/diplex09/output/github-contribution-grid-snake.svg#gh-light-mode-only"/>
+
+  <img align="center" img alt="Discord" title="Discord" src="https://raw.githubusercontent.com/diplex09/diplex09/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
+</p>
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diplex09&layout=compact&langs_count=10&hide=jupyter+notebook,html,makefile" alt="diplex09"/>
