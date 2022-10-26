@@ -167,13 +167,15 @@
 
 <details>
   <summary> 🧬 3D Stats</summary>
-  ![MyStats](./profile-3d-contrib/profile-green-animate.svg)
+  
+  ![My Stats](./profile-3d-contrib/profile-season-animate.svg#gh-light-mode-only)
+  ![My Stats](./profile-3d-contrib/profile-night-green.svg#gh-dark-mode-only)
 </details>
 
 <details>
   <summary>💼 Top languages</summary>
   <p align="center">
-    <img align="center" title="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diplex09&layout=compact&langs_count=10&hide=jupyter+notebook,html,makefile&theme=tokyonight" alt="top languages" />
+    <img align="center" alt="top languages" title="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diplex09&layout=compact&langs_count=10&hide=jupyter+notebook,html,makefile&theme=tokyonight" />
   </p>
 </details> 
  
@@ -187,14 +189,14 @@
 <details>
 <summary> 📈Contribution Graph</summary>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="github activity graph" src="https://activity-graph.herokuapp.com/graph?username=Diplex09&area=true&hide_border=true&bg_color=000&line=FFFFFF&point=333333&color=FFFFFF&area_color=FFFFFF">
+    <img alt="github activity graph" src="https://activity-graph.herokuapp.com/graph?username=Diplex09&theme=tokyo-night" />
 </a>
 </details>
 
 <details>
   <summary>🏆 Achievements</summary>
   <p align="center">
-    <img alt="Github achievements" src="https://github-profile-trophy.vercel.app/?username=diplex09&theme=nord" alt="github achievements">
+    <img alt="Github achievements" src="https://github-profile-trophy.vercel.app/?username=diplex09&theme=nord" alt="github achievements" />
   </p>
 </details>
 
@@ -202,13 +204,14 @@
 
 
 <h2 align="left">
-  Contribution graph:
+  Watch a 🐍 eat my contribution graph:
 </h2>
 
 <p align="center">
-  <img align="center" img alt="Snake eating contribution graph" title="Snake eating contribution graph" src="https://raw.githubusercontent.com/diplex09/diplex09/output/github-contribution-grid-snake.svg#gh-light-mode-only"/>
-  <img align="center" img alt="Snake eating contribution graph" title="Snake eating contribution graph" src="https://raw.githubusercontent.com/diplex09/diplex09/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
+  <img align="center" img alt="Snake eating contribution graph" title="Snake eating contribution graph" src="https://raw.githubusercontent.com/diplex09/diplex09/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
+  <img align="center" img alt="Snake eating contribution graph" title="Snake eating contribution graph" src="https://raw.githubusercontent.com/diplex09/diplex09/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
 </p>
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Aldo+%F0%9F%91%8B;I'm+a+mexican+game+developer+%F0%9F%8E%AE;I+support+Cruz+Azul+%F0%9F%92%99)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hi!+I'm+Aldo+%F0%9F%91%8B;I'm+a+mexican+%F0%9F%91%BE+game+developer+%F0%9F%8E%AE;I'm+a+computer+science+student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I'm+a+big+soccer+fan+%E2%9A%BD;I+love+challenges!+%F0%9F%8F%86)](https://git.io/typing-svg)
