@@ -25,26 +25,23 @@
 
 <p align="center">
   <a href="mailto:aldodegollado@hotmail.com" target="blank">
-    <img align="center" src="https://shields.io/badge/%F0%9F%93%AC%20aldodegollado@hotmail.com-beige?style=for-the-badge" alt="aldoalejandro.degolladopadilla"/>
-  </a>
-  
-  <a href="https://fb.com/aldoalejandro.degolladopadilla" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="aldoalejandro.degolladopadilla"/>
-  </a>
+    <img align="center" img alt="Email" title="Email" src="https://shields.io/badge/%F0%9F%93%AC%20aldodegollado@hotmail.com-beige?style=for-the-badge" alt="aldoalejandro.degolladopadilla"/></a>
   
   <a href="https://linkedin.com/in/aldo-alejandro-degollado-padilla" target="blank">
-    <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="aldo-alejandro-degollado-padilla"/>
-  </a>
+    <img align="center" img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="aldo-alejandro-degollado-padilla"/></a>
+</p>
+  
+<p align="center">
+  <a href="https://fb.com/aldoalejandro.degolladopadilla" target="blank">
+    <img align="center" img alt="Facebook" title="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="aldoalejandro.degolladopadilla"/></a>
   
   <a href="https://twitter.com/aldodegollado" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="aldodegollado"/>
-  </a>
+    <img align="center" img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="aldodegollado"/></a>
   
   <a href="https://instagram.com/aldodegollado" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="aldodegollado"/>
-  </a>
+    <img align="center" img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="aldodegollado"/></a>
   
-  <img align="center" src="https://dcbadge.vercel.app/api/shield/219490225481580544" alt="aldodegollado"/>
+  <img align="center" img alt="Discord" title="Discord" src="https://dcbadge.vercel.app/api/shield/219490225481580544" alt="aldodegollado"/>
 </p>
 
 
@@ -161,3 +158,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diplex09&theme=tokyonight" alt="diplex09" /></p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Aldo+%F0%9F%91%8B;I'm+a+mexican+game+developer+%F0%9F%8E%AE;I+support+Cruz+Azul+%F0%9F%92%99)](https://git.io/typing-svg)
+
+<a href="https://heroku.com/"><img alt="Powered by Heroku" title="Powered by Heroku" src="https://img.shields.io/badge/-Powered%20by%20Heroku-6567a5?style=for-the-badge&logo=heroku&logoColor=white"/></a>
