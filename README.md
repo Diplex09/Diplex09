@@ -52,57 +52,58 @@
 
 
 <h2 align="left">
-  💻 Programming languages:
+  💻 Programming and markup languages:
 </h2>
 
 <p align="center">
   <a href="https://www.w3schools.com/cpp/cpp_intro.asp" target="blank">
     <img alt="C++" title="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge" /></a>
   <img alt="3 years" src="https://img.shields.io/badge/3%20years-69b34c?style=for-the-badge" />
-  
   <br>
-  
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="blank">
     <img alt="C#" title="C#" src="https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&logoColor=fff&style=for-the-badge" /></a>
   <img alt="3 years" src="https://img.shields.io/badge/3%20years-69b34c?style=for-the-badge" />
-  
   <br>
-  
   <a href="https://www.python.org/" target="blank">
-    <img alt="Python" title="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" /></a>
+    <img alt="Python" title="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=FFC107&style=for-the-badge" /></a>
+  <a href="https://www.python.org/" target="blank">
+    <img alt="Python" title="Python" src="https://img.shields.io/badge/Python-FFC107?logo=python&logoColor=3776AB&style=for-the-badge" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank">
+    <img alt="Python" title="Python" src="https://custom-icon-badges.demolab.com/badge/Python-3776AB.svg?logo=python-color&style=for-the-badge" /></a>
   <img alt="2 years" src="https://img.shields.io/badge/2%20years-acb334?style=for-the-badge" />
-  
   <br>
-  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank">
+    <img alt="HTML5" title="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank">
+    <img alt="CSS3" title="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
+  <img alt="1 years" src="https://img.shields.io/badge/1%20year-fab733?style=for-the-badge" />
+  <br>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank">
     <img alt="JavaScript" title="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank">
+    <img alt="JavaScript" title="JavaScript" src="https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=F7DF1E&style=for-the-badge#gh-dark-mode-only" /></a>
   <img alt="1 years" src="https://img.shields.io/badge/1%20year-fab733?style=for-the-badge" />
-  
   <br>
-  
   <a href="https://developer.apple.com/swift/" target="blank">
     <img alt="Swift" title="Swift" src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=fff&style=for-the-badge" /></a>
+  <a href="https://developer.apple.com/swift/" target="blank">
+    <img alt="Swift" title="Swift" src="https://img.shields.io/badge/Swift-fff?logo=swift&logoColor=F05138&style=for-the-badge" /></a>
   <img alt="6 months" src="https://img.shields.io/badge/6%20months-ff8e15?style=for-the-badge" />
-  
   <br>
-  
   <a href="https://www.r-project.org/" target="blank">
     <img alt="R" title="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" /></a>
   <img alt="Beginner (proficient)" src="https://img.shields.io/badge/beginner%20(proficient)-ff4e11?style=for-the-badge" />
-  
   <br>
-  
   <a href="https://www.typescriptlang.org/" target="blank">
     <img alt="TypeScript" title="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge" /></a>
+  <a href="https://www.typescriptlang.org/" target="blank">
+    <img alt="TypeScript" title="TypeScript" src="https://img.shields.io/badge/TypeScript-fff?logo=typescript&logoColor=3178C6&style=for-the-badge" /></a>
   <img alt="Beginner (proficient)" src="https://img.shields.io/badge/beginner%20(proficient)-ff4e11?style=for-the-badge" />
-  
   <br>
-  
   <a href="https://www.java.com" target="blank">
-    <img alt="Java" title="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /></a>
+    <img alt="Java" title="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white&style=for-the-badge" /></a>
   <img alt="Learning" src="https://img.shields.io/badge/Learning...-ff0d0d?style=for-the-badge" />
-
-<br>
+  <br>
 </p>
 
 
@@ -112,6 +113,14 @@
 </h2>
   
 <p align="center">
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
+    <img src="https://custom-icon-badges.demolab.com/badge/Matlab-0076A8.svg?logo=matlab-color&style=for-the-badge" alt="Matlab" />
+  </a>
+  
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
+    <img src="https://custom-icon-badges.demolab.com/badge/Matlab-0076A8.svg?logo=matlab-black-and-white&logoColor=white&style=for-the-badge" alt="Matlab" />
+  </a>
+  
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" />
   </a>
