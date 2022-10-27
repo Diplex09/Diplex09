@@ -71,10 +71,6 @@
   <!--- Python --->
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img alt="Python" title="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=FFC107&style=for-the-badge" /></a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img alt="Python" title="Python" src="https://img.shields.io/badge/Python-FFC107?logo=python&logoColor=3776AB&style=for-the-badge" /></a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img alt="Python" title="Python" src="https://custom-icon-badges.demolab.com/badge/Python-3776AB.svg?logo=python-color&style=for-the-badge" /></a>
   <img alt="2 years" src="https://img.shields.io/badge/2%20years-acb334?style=for-the-badge" />
   <br>
   
@@ -99,8 +95,6 @@
   <!--- Matlab --->
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
     <img alt="Matlab" title="Matlab" src="https://custom-icon-badges.demolab.com/badge/Matlab-0076A8.svg?logo=matlab-color&style=for-the-badge" /></a>
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
-    <img alt="Matlab" title="Matlab" src="https://custom-icon-badges.demolab.com/badge/Matlab-0076A8.svg?logo=matlab-black-and-white&logoColor=white&style=for-the-badge" /></a>
   <img alt="1 years" src="https://img.shields.io/badge/1%20year-fab733?style=for-the-badge" />
   <br>
   
@@ -278,8 +272,8 @@
   <summary>💼 Top languages</summary>
   <p align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=diplex09&layout=compact&langs_count=10&theme=tokyonight&hide=jupyter+notebook,html,makefile">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=diplex09&layout=compact&langs_count=10&theme=tokyonight&hide=jupyter+notebook,html,makefile">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=diplex09&layout=compact&langs_count=10&theme=tokyonight&hide=jupyter+notebook%2chtml%2cmakefile">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=diplex09&layout=compact&langs_count=10&hide=jupyter+notebook%2chtml%2cmakefile">
       <img alt="Top languages" title="Top languages" src="" />
     </picture>
   </p>
