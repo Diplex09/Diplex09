@@ -56,14 +56,19 @@
 </h2>
 
 <p align="center">
+  <!--- C++ --->
   <a href="https://www.w3schools.com/cpp/cpp_intro.asp" target="_blank" rel="noreferrer">
     <img alt="C++" title="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge" /></a>
   <img alt="3 years" src="https://img.shields.io/badge/3%20years-69b34c?style=for-the-badge" />
   <br>
+  
+  <!--- C# --->
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img alt="C#" title="C#" src="https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&logoColor=fff&style=for-the-badge" /></a>
   <img alt="3 years" src="https://img.shields.io/badge/3%20years-69b34c?style=for-the-badge" />
   <br>
+  
+  <!--- Python --->
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img alt="Python" title="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=FFC107&style=for-the-badge" /></a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
@@ -72,40 +77,58 @@
     <img alt="Python" title="Python" src="https://custom-icon-badges.demolab.com/badge/Python-3776AB.svg?logo=python-color&style=for-the-badge" /></a>
   <img alt="2 years" src="https://img.shields.io/badge/2%20years-acb334?style=for-the-badge" />
   <br>
+  
+  <!--- HTML5 y CSS3 --->
   <a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer">
     <img alt="HTML5" title="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
   <a href="https://www.w3schools.com/css/default.asp" target="_blank" rel="noreferrer">
     <img alt="CSS3" title="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
   <img alt="1 years" src="https://img.shields.io/badge/1%20year-fab733?style=for-the-badge" />
   <br>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img alt="JavaScript" title="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img alt="JavaScript" title="JavaScript" src="https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=F7DF1E&style=for-the-badge#gh-dark-mode-only" /></a>
+  
+  <!--- JavaScript --->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=F7DF1E&style=for-the-badge">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+      <img alt="JavaScript" title="JavaScript" src="https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=F7DF1E&style=for-the-badge#gh-dark-mode-only"></a>
+  </picture>
   <img alt="1 years" src="https://img.shields.io/badge/1%20year-fab733?style=for-the-badge" />
   <br>
+  
+  <!--- Matlab --->
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
     <img alt="Matlab" title="Matlab" src="https://custom-icon-badges.demolab.com/badge/Matlab-0076A8.svg?logo=matlab-color&style=for-the-badge" /></a>
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
     <img alt="Matlab" title="Matlab" src="https://custom-icon-badges.demolab.com/badge/Matlab-0076A8.svg?logo=matlab-black-and-white&logoColor=white&style=for-the-badge" /></a>
   <img alt="1 years" src="https://img.shields.io/badge/1%20year-fab733?style=for-the-badge" />
   <br>
+  
+  <!--- Swift --->
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
     <img alt="Swift" title="Swift" src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=fff&style=for-the-badge" /></a>
   <img alt="6 months" src="https://img.shields.io/badge/6%20months-ff8e15?style=for-the-badge" />
   <br>
+  
+  <!--- SQL --->
   <a href="https://www.w3schools.com/sql/sql_intro.asp" target="_blank" rel="noreferrer">
     <img alt="Sql" title="Sql" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white&style=for-the-badge" /></a>
   <img alt="6 months" src="https://img.shields.io/badge/6%20months-ff8e15?style=for-the-badge" />
   <br>
+  
+  <!--- R --->
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
     <img alt="R" title="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" /></a>
   <img alt="Beginner (proficient)" src="https://img.shields.io/badge/beginner%20(proficient)-ff4e11?style=for-the-badge" />
   <br>
+  
+  <!--- TypeScript --->
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img alt="TypeScript" title="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge" /></a>
   <img alt="Beginner (proficient)" src="https://img.shields.io/badge/beginner%20(proficient)-ff4e11?style=for-the-badge" />
   <br>
+  
+  <!--- Java --->
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img alt="Java" title="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white&style=for-the-badge" /></a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
@@ -239,16 +262,22 @@
 </details>
 
 <details>
-  <summary>🧬 3D Stats</summary>
-  
-  ![My Stats](./profile-3d-contrib/profile-season-animate.svg#gh-light-mode-only)
-  ![My Stats](./profile-3d-contrib/profile-night-green.svg#gh-dark-mode-only)
+  <summary>🧬 3D Stats</summary> 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season-animate.svg">
+    <img alt="3D contribution stats" title="3D contribution graph" src="./profile-3d-contrib/profile-season-animate.svg">
+  </picture>
 </details>
 
 <details>
   <summary>💼 Top languages</summary>
   <p align="center">
-    <img align="center" alt="top languages" title="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diplex09&layout=compact&langs_count=10&hide=jupyter+notebook,html,makefile&theme=tokyonight" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=diplex09&layout=compact&langs_count=10&hide=jupyter+notebook,html,makefile&theme=tokyonight">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=diplex09&layout=compact&langs_count=10&hide=jupyter+notebook,html,makefile">
+      <img alt="Top languages" title="Top languages" src="">
+    </picture>
   </p>
 </details> 
  
@@ -302,3 +331,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hi!+I'm+Aldo+%F0%9F%91%8B;I'm+Mexican+%F0%9F%8C%AE%F0%9F%87%B2%F0%9F%87%BD;I'm+a+computer+science+student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I'm+a+%F0%9F%91%BE+game+developer+%F0%9F%8E%AE;I'm+a+big+soccer+fan+%E2%9A%BD;I+love+challenges!+%F0%9F%8F%86)](https://git.io/typing-svg)
 <br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arimo&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hi!+I'm+Aldo+%F0%9F%91%8B;I'm+Mexican+%F0%9F%8C%AE%F0%9F%87%B2%F0%9F%87%BD;I'm+a+computer+science+student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I'm+a+%F0%9F%91%BE+game+developer+%F0%9F%8E%AE;I'm+a+big+soccer+fan+%E2%9A%BD;I+love+challenges!+%F0%9F%8F%86)](https://git.io/typing-svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/DeepL-fff.svg?logo=deepl&logoColor=0F2B46&style=for-the-badge">
+  <source media="(prefers-color-scheme: light)" srcset="https://custom-icon-badges.demolab.com/badge/DeepL-0F2B46.svg?logo=deepl&logoColor=white&style=for-the-badge">
+  <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://custom-icon-badges.demolab.com/badge/DeepL-0F2B46.svg?logo=deepl&logoColor=white&style=for-the-badge">
+</picture>
