@@ -87,12 +87,12 @@
   <br>
   
   <!--- JavaScript --->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=F7DF1E&style=for-the-badge">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img alt="JavaScript" title="JavaScript" src="https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=F7DF1E&style=for-the-badge#gh-dark-mode-only"></a>
-  </picture>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=F7DF1E&style=for-the-badge">
+      <img alt="JavaScript" title="JavaScript" src="https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=F7DF1E&style=for-the-badge">
+    </picture></a>
   <img alt="1 years" src="https://img.shields.io/badge/1%20year-fab733?style=for-the-badge" />
   <br>
   
@@ -257,7 +257,11 @@
 <details>
   <summary>📊 General Stats</summary>
   <p align="center">
-    <img align="center" title="General stats" src="https://github-readme-stats.vercel.app/api?username=diplex09&show_icons=true&locale=en&theme=tokyonight" alt="general stats" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=diplex09&show_icons=true&locale=en&theme=tokyonight">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=diplex09&show_icons=true&locale=en">
+      <img align="center" alt="General stats" title="General stats" src="https://github-readme-stats.vercel.app/api?username=diplex09&show_icons=true&locale=en" />
+    </picture>
   </p>
 </details>
 
@@ -266,7 +270,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg">
     <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season-animate.svg">
-    <img alt="3D contribution stats" title="3D contribution graph" src="./profile-3d-contrib/profile-season-animate.svg">
+    <img alt="3D contribution stats" title="3D contribution graph" src="./profile-3d-contrib/profile-season-animate.svg" />
   </picture>
 </details>
 
@@ -274,9 +278,9 @@
   <summary>💼 Top languages</summary>
   <p align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=diplex09&layout=compact&langs_count=10&hide=jupyter+notebook,html,makefile&theme=tokyonight">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=diplex09&layout=compact&langs_count=10&hide=jupyter+notebook,html,makefile">
-      <img alt="Top languages" title="Top languages" src="">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=diplex09&layout=compact&langs_count=10&theme=tokyonight&hide=jupyter+notebook,html,makefile">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=diplex09&layout=compact&langs_count=10&theme=tokyonight&hide=jupyter+notebook,html,makefile">
+      <img alt="Top languages" title="Top languages" src="" />
     </picture>
   </p>
 </details> 
@@ -284,7 +288,11 @@
 <details> 
   <summary> :fire: Streak stats</summary>
   <p align="center">
-    <img align="center" title="Streak stats" height=180em src="https://github-readme-streak-stats.herokuapp.com/?user=diplex09&theme=tokyonight" alt="streak stats" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=diplex09&theme=tokyonight">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=diplex09">
+      <img align="center" alt="Streak stats" title="Streak stats" height=180em src="https://github-readme-streak-stats.herokuapp.com/?user=diplex09" />
+    </picture>
   </p>
 </details>
 
@@ -298,7 +306,11 @@
 <details>
   <summary>🏆 Achievements</summary>
   <p align="center">
-    <img alt="Github achievements" src="https://github-profile-trophy.vercel.app/?username=diplex09&theme=nord" alt="github achievements" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=diplex09&theme=nord">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=diplex09">
+      <img align="center" alt="Github achievements" title="Github achievements" height=180em src="https://github-profile-trophy.vercel.app/?username=diplex09" />
+    </picture>
   </p>
 </details>
 
@@ -332,8 +344,9 @@
 <br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arimo&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hi!+I'm+Aldo+%F0%9F%91%8B;I'm+Mexican+%F0%9F%8C%AE%F0%9F%87%B2%F0%9F%87%BD;I'm+a+computer+science+student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I'm+a+%F0%9F%91%BE+game+developer+%F0%9F%8E%AE;I'm+a+big+soccer+fan+%E2%9A%BD;I+love+challenges!+%F0%9F%8F%86)](https://git.io/typing-svg)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/DeepL-fff.svg?logo=deepl&logoColor=0F2B46&style=for-the-badge">
-  <source media="(prefers-color-scheme: light)" srcset="https://custom-icon-badges.demolab.com/badge/DeepL-0F2B46.svg?logo=deepl&logoColor=white&style=for-the-badge">
-  <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://custom-icon-badges.demolab.com/badge/DeepL-0F2B46.svg?logo=deepl&logoColor=white&style=for-the-badge">
-</picture>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/DeepL-fff.svg?logo=deepl&logoColor=0F2B46&style=for-the-badge">
+    <source media="(prefers-color-scheme: light)" srcset="https://custom-icon-badges.demolab.com/badge/DeepL-0F2B46.svg?logo=deepl&logoColor=fff&style=for-the-badge">
+    <img alt="DeepL" title="DeepL" src="">
+  </picture></a>
