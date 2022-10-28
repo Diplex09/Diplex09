@@ -98,16 +98,32 @@
   <img alt="1 years" src="https://img.shields.io/badge/1%20year-fab733?style=for-the-badge" />
   <br>
   
+  <!--- SQL --->
+  <a href="https://www.w3schools.com/sql/sql_intro.asp" target="_blank" rel="noreferrer">
+    <img alt="Sql" title="Sql" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white&style=for-the-badge" /></a>
+  <img alt="6 months" src="https://img.shields.io/badge/6%20months-ff8e15?style=for-the-badge" />
+  <br>
+  
   <!--- Swift --->
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
     <img alt="Swift" title="Swift" src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=fff&style=for-the-badge" /></a>
   <img alt="6 months" src="https://img.shields.io/badge/6%20months-ff8e15?style=for-the-badge" />
   <br>
   
-  <!--- SQL --->
-  <a href="https://www.w3schools.com/sql/sql_intro.asp" target="_blank" rel="noreferrer">
-    <img alt="Sql" title="Sql" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white&style=for-the-badge" /></a>
-  <img alt="6 months" src="https://img.shields.io/badge/6%20months-ff8e15?style=for-the-badge" />
+  <!--- MARIE --->
+  <a href="http://samples.jbpub.com/9781449600068/00068_ch04_null3e.pdf" target="_blank" rel="noreferrer">
+    <img alt="MARIE" title="MARIE" src="https://custom-icon-badges.demolab.com/badge/MARIE-404040.svg?style=for-the-badge" /></a>
+  <img alt="Beginner (proficient)" src="https://img.shields.io/badge/beginner%20(proficient)-ff4e11?style=for-the-badge" />
+  <br>
+  
+  <!--- Markdown --->
+  <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Markdown-fff.svg?logo=Markdown&logoColor=000000&style=for-the-badge">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Markdown-000000.svg?logo=Markdown&logoColor=white&style=for-the-badge">
+    <img alt="Marckdown" title="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=Markdown&logoColor=white&style=for-the-badge">
+  </picture></a>
+  <img alt="Beginner (proficient)" src="https://img.shields.io/badge/beginner%20(proficient)-ff4e11?style=for-the-badge" />
   <br>
   
   <!--- R --->
@@ -125,7 +141,6 @@
   <!--- Java --->
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img alt="Java" title="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
   <img alt="Learning" src="https://img.shields.io/badge/Learning...-ff0d0d?style=for-the-badge" />
   <br>
 </p>
