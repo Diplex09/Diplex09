@@ -81,7 +81,7 @@
   
   <!--- Python --->
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img alt="Python" title="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=FFC107&style=for-the-badge" /></a>
+    <img alt="Python" title="Python" src="https://custom-icon-badges.demolab.com/badge/Python-254F72.svg?logo=python-color2&style=for-the-badge" /></a>
   <img alt="2 years" src="https://img.shields.io/badge/2%20years-acb334?style=for-the-badge" />
   <br>
   
@@ -151,7 +151,11 @@
   
   <!--- Java --->
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img alt="Java" title="Java" src="https://custom-icon-badges.demolab.com/badge/Java-3A75B0.svg?logo=java&logoColor=white&style=for-the-badge" /></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/Java-fff.svg?logo=java-color&style=for-the-badge">
+    <source media="(prefers-color-scheme: light)" srcset="https://custom-icon-badges.demolab.com/badge/Java-3A75B0.svg?logo=java&logoColor=white&style=for-the-badge">
+    <img alt="Java" title="Java" src="https://custom-icon-badges.demolab.com/badge/Java-3A75B0.svg?logo=java&logoColor=white&style=for-the-badge">
+  </picture></a>
   <img alt="Learning" src="https://img.shields.io/badge/Learning...-ff0d0d?style=for-the-badge" />
 </p>
 
@@ -171,7 +175,7 @@
   
   <!--- CMake --->
   <a href="https://cmake.org/" target="_blank" rel="noreferrer">
-    <img alt="CMake" title="CMake" src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" /></a>
+    <img alt="CMake" title="CMake" src="https://custom-icon-badges.demolab.com/badge/CMake-456E93.svg?logo=cmake-color&style=for-the-badge" /></a>
   
   <!--- Flask --->
   <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank" rel="noreferrer">
@@ -196,8 +200,8 @@
   <!--- NumPy --->
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Numpy-4D77CF?logo=numpy&logoColor=013243&style=for-the-badge">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=4D77CF&style=for-the-badge">
+    <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/NumPy-fff.svg?logo=numpy-color&style=for-the-badge">
+    <source media="(prefers-color-scheme: light)" srcset="https://custom-icon-badges.demolab.com/badge/NumPy-013243.svg?logo=numpy-color&style=for-the-badge">
     <img alt="NumPy" title="NumPy" src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=4D77CF&style=for-the-badge">
   </picture></a>
   
