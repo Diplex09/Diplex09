@@ -155,7 +155,7 @@
   
   <!--- Java --->
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img alt="Java" title="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white&style=for-the-badge" /></a>
+    <img alt="Java" title="Java" src="https://custom-icon-badges.demolab.com/badge/Java-3A75B0.svg?logo=java&logoColor=white&style=for-the-badge" /></a>
   <img alt="Learning" src="https://img.shields.io/badge/Learning...-ff0d0d?style=for-the-badge" />
 </p>
 
@@ -169,11 +169,25 @@
 </h3>
   
 <p align="center">
+  <!--- Arduino --->
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img alt="Arduino" title="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" /></a>
   
+  <!--- CMake --->
   <a href="https://cmake.org/" target="_blank" rel="noreferrer">
     <img alt="CMake" title="CMake" src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" /></a>
+  
+  <!--- Material-UI --->
+  <a href="https://mui.com/" target="_blank" rel="noreferrer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/MaterialUI-fff.svg?logo=materialui&logoColor=007FFF&style=for-the-badge">
+    <source media="(prefers-color-scheme: light)" srcset="https://custom-icon-badges.demolab.com/badge/Material%20UI-007FFF.svg?logo=materialui&logoColor=white&style=for-the-badge">
+    <img alt="MaterialUI" title="MaterialUI" src="https://custom-icon-badges.demolab.com/badge/Material%2DUI-007FFF.svg?logo=materialui&logoColor=white&style=for-the-badge">
+  </picture></a>
+  
+  <!--- NumPy --->
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img alt="NumPy" title="NumPy" src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=4D77CF&style=for-the-badge" /></a>
   
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
