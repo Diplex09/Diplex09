@@ -53,12 +53,8 @@
   <br>
   
   <!--- Steam --->
-  <a href="https://steamcommunity.com/id/diplex_/" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Steam-fff.svg?logo=Steam&logoColor=2A475E&style=for-the-badge">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Steam-2A475E.svg?logo=Steam&logoColor=white&style=for-the-badge">
-      <img alt="Steam" title="Steam" src="https://img.shields.io/badge/Steam-2A475E.svg?logo=Steam&logoColor=white&style=for-the-badge">
-    </picture></a>
+  <a href="https://steamcommunity.com/id/diplex_/" target="blank">
+    <img alt="Steam" title="Steam" src="https://img.shields.io/badge/Steam-2A475E.svg?logo=Steam&logoColor=white&style=for-the-badge" /></a>
   
   <!--- Xbox --->
   <a href="https://account.xbox.com/es-mx/Profile?xr=mebarnav" target="blank">
@@ -177,17 +173,33 @@
   <a href="https://cmake.org/" target="_blank" rel="noreferrer">
     <img alt="CMake" title="CMake" src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" /></a>
   
-  <!--- Material-UI --->
+  <!--- Flask --->
+  <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank" rel="noreferrer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Flask-fff?logo=flask&logoColor=black&style=for-the-badge">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge">
+    <img alt="Flask" title="Flask" src="https://custom-icon-badges.demolab.com/badge/Material%20UI-007FFF.svg?logo=materialui&logoColor=white&style=for-the-badge">
+  </picture></a>
+  
+  <!--- GitHub Actions --->
+  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
+    <img alt="GitHub Actions" title="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?logo=GitHub-Actions&logoColor=white&style=for-the-badge" /></a>
+  
+  <!--- Material UI --->
   <a href="https://mui.com/" target="_blank" rel="noreferrer">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/MaterialUI-fff.svg?logo=materialui&logoColor=007FFF&style=for-the-badge">
+    <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/Material%20UI-fff.svg?logo=materialui&logoColor=007FFF&style=for-the-badge">
     <source media="(prefers-color-scheme: light)" srcset="https://custom-icon-badges.demolab.com/badge/Material%20UI-007FFF.svg?logo=materialui&logoColor=white&style=for-the-badge">
-    <img alt="MaterialUI" title="MaterialUI" src="https://custom-icon-badges.demolab.com/badge/Material%2DUI-007FFF.svg?logo=materialui&logoColor=white&style=for-the-badge">
+    <img alt="Material UI" title="Material UI" src="https://custom-icon-badges.demolab.com/badge/Material%20UI-007FFF.svg?logo=materialui&logoColor=white&style=for-the-badge">
   </picture></a>
   
   <!--- NumPy --->
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img alt="NumPy" title="NumPy" src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=4D77CF&style=for-the-badge" /></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Numpy-4D77CF?logo=numpy&logoColor=013243&style=for-the-badge">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=4D77CF&style=for-the-badge">
+    <img alt="NumPy" title="NumPy" src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=4D77CF&style=for-the-badge">
+  </picture></a>
   
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
