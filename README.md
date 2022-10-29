@@ -276,6 +276,14 @@
       <img alt="Firebase" title="Firebase" src="https://custom-icon-badges.demolab.com/badge/Firebase-1A73E8.svg?logo=firebase-color&style=for-the-badge">
     </picture></a>
   
+  <!--- IBM Cloud --->
+  <a href="https://cloud.ibm.com/" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/IBM%20Cloud-fff.svg?logo=ibm-cloud-color&style=for-the-badge">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/IBM%20Cloud-000.svg?logo=ibm-cloud&logoColor=white&style=for-the-badge">
+      <img alt="IBM Cloud" title="IBM Cloud" src="https://img.shields.io/badge/IBM%20Cloud-000.svg?logo=ibm-cloud&logoColor=white&style=for-the-badge">
+    </picture></a>
+  
   <!--- Arduino --->
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img alt="Arduino" title="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" /></a>
