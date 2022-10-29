@@ -63,7 +63,7 @@
 
 
 <h2 align="left">
-  💻 Programming and markup languages:
+  💻 Programming, scripting and markup languages:
 </h2>
 
 <p align="center">
@@ -149,6 +149,12 @@
   <img alt="Beginner (proficient)" src="https://img.shields.io/badge/beginner%20(proficient)-ff4e11?style=for-the-badge" />
   <br>
   
+  <!--- CMake --->
+  <a href="https://cmake.org/" target="_blank" rel="noreferrer">
+    <img alt="CMake" title="CMake" src="https://custom-icon-badges.demolab.com/badge/CMake-456E93.svg?logo=cmake-color&style=for-the-badge" /></a>
+  <img alt="Learning" src="https://img.shields.io/badge/Learning...-ff0d0d?style=for-the-badge" />
+  <br>
+  
   <!--- Java --->
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <picture>
@@ -172,10 +178,6 @@
   <!--- Arduino --->
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img alt="Arduino" title="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" /></a>
-  
-  <!--- CMake --->
-  <a href="https://cmake.org/" target="_blank" rel="noreferrer">
-    <img alt="CMake" title="CMake" src="https://custom-icon-badges.demolab.com/badge/CMake-456E93.svg?logo=cmake-color&style=for-the-badge" /></a>
   
   <!--- Flask --->
   <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank" rel="noreferrer">
@@ -205,11 +207,29 @@
       <img alt="Material UI" title="Material UI" src="https://custom-icon-badges.demolab.com/badge/Material%20UI-007FFF.svg?logo=materialui&logoColor=white&style=for-the-badge">
     </picture></a>
   
+  <!--- Matplotlib --->
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+    <img alt="Matplotlib" title="Matplotlib" src="https://custom-icon-badges.demolab.com/badge/Matplotlib-11557C.svg?logo=matplotlib&style=for-the-badge">
+  </a>
+  
+  <!--- NPM --->
+  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
+    <img alt="NPM" title="NPM" src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge">
+  </a>
+  
   <!--- NumPy --->
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
     <img alt="NumPy" title="NumPy" src="https://custom-icon-badges.demolab.com/badge/NumPy-013243.svg?logo=numpy-color&style=for-the-badge">
   </a>
   
+  <!--- OpenCV --->
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/OpenCV-fff.svg?logo=opencv-color&style=for-the-badge">
+      <source media="(prefers-color-scheme: light)" srcset="https://custom-icon-badges.demolab.com/badge/OpenCV-006CFF.svg?logo=opencv-color&style=for-the-badge">
+      <img alt="OpenCV" title="OpenCV" src="https://custom-icon-badges.demolab.com/badge/OpenCV-006CFF.svg?logo=opencv-color&style=for-the-badge">
+    </picture></a>
+    
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
   </a>
