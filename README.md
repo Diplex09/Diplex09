@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=diplex09.diplex09" alt="visitor badge"/>
+  <img alt="Visitor badge" Title="Visitors badge" src="https://visitor-badge.laobi.icu/badge?page_id=diplex09.diplex09"/>
 </p>
 
 - 🔭 I’m currently studying a **B.S. in Computer Science @ Tec de Monterrey**
@@ -27,28 +27,43 @@
 </h2>
 
 <p align="center">
+  <!--- Mail --->
   <a href="mailto:aldodegollado@hotmail.com" target="blank">
-    <img align="center" img alt="Email" title="Email" src="https://shields.io/badge/%F0%9F%93%AC%20aldodegollado@hotmail.com-beige?style=for-the-badge" /></a>
-  
+    <img alt="Email" title="Email" src="https://shields.io/badge/%F0%9F%93%AC%20aldodegollado@hotmail.com-beige?style=for-the-badge" /></a>
+
+  <!--- LinkedIn --->
   <a href="https://linkedin.com/in/aldo-alejandro-degollado-padilla" target="blank">
-    <img align="center" img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+    <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <br>
   
-<p align="center">
+  <!--- Discord --->
+  <img alt="Discord" title="Discord" src="https://dcbadge.vercel.app/api/shield/219490225481580544" />
+  
+  <!--- Facebook --->
   <a href="https://fb.com/aldoalejandro.degolladopadilla" target="blank">
-    <img align="center" img alt="Facebook" title="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
+    <img alt="Facebook" title="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge" /></a>
   
-  <a href="https://twitter.com/aldodegollado" target="blank">
-    <img align="center" img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
-  
+  <!--- Instagram --->
   <a href="https://instagram.com/aldodegollado" target="blank">
-    <img align="center" img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+    <img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" /></a>
   
-  <img align="center" img alt="Discord" title="Discord" src="https://dcbadge.vercel.app/api/shield/219490225481580544" />
+  <!--- Twitter --->
+  <a href="https://twitter.com/aldodegollado" target="blank">
+    <img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge" /></a>
+  <br>
+  
+  <!--- Steam --->
+  <a href="https://steamcommunity.com/id/diplex_/" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Steam-fff.svg?logo=Steam&logoColor=2A475E&style=for-the-badge">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Steam-2A475E.svg?logo=Steam&logoColor=white&style=for-the-badge">
+      <img alt="Steam" title="Steam" src="https://img.shields.io/badge/Steam-2A475E.svg?logo=Steam&logoColor=white&style=for-the-badge">
+    </picture></a>
+  
+  <!--- Xbox --->
+  <a href="https://account.xbox.com/es-mx/Profile?xr=mebarnav" target="blank">
+    <img alt="Xbox" title="Xbox" src="https://img.shields.io/badge/Xbox-107C10.svg?logo=Xbox&logoColor=white&style=for-the-badge" /></a>
 </p>
-
-<br>
-
 
 
 <h2 align="left">
@@ -142,9 +157,7 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img alt="Java" title="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white&style=for-the-badge" /></a>
   <img alt="Learning" src="https://img.shields.io/badge/Learning...-ff0d0d?style=for-the-badge" />
-  <br>
 </p>
-
 
 
 <h2 align="left">
@@ -254,9 +267,6 @@
     <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40" /> 
   </a>
 </p>
-
-<br>
-
 
 
 <h2 align="left">
