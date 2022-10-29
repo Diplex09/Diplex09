@@ -171,14 +171,10 @@
 </h2>
 
 <h3 align="left">
-  🧰 Frameworks and libraries:
+  🧰 Frameworks and libraries
 </h3>
   
-<p align="center">
-  <!--- Arduino --->
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img alt="Arduino" title="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" /></a>
-  
+<p align="center">  
   <!--- Flask --->
   <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank" rel="noreferrer">
     <picture>
@@ -189,11 +185,8 @@
   
   <!--- GitHub Actions --->
   <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub%20Actions-fff.svg?logo=GitHub-Actions&logoColor=2088FF&style=for-the-badge">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?logo=GitHub-Actions&logoColor=white&style=for-the-badge">
-      <img alt="GitHub Actions" title="GitHub Actions" src="https://custom-icon-badges.demolab.com/badge/Material%20UI-007FFF.svg?logo=materialui&logoColor=white&style=for-the-badge">
-    </picture></a>
+    <img alt="GitHub Actions" title="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?logo=GitHub-Actions&logoColor=white&style=for-the-badge">
+  </a>
   
   <!--- Ionic --->
   <a href="https://ionicframework.com/" target="_blank" rel="noreferrer">
@@ -224,12 +217,45 @@
   
   <!--- OpenCV --->
   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+    <img alt="OpenCV" title="OpenCV" src="https://custom-icon-badges.demolab.com/badge/OpenCV-006CFF.svg?logo=opencv-color&style=for-the-badge">
+  </a>
+  
+  <!--- OpenGL --->
+  <a href="https://www.opengl.org/" target="_blank" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/OpenCV-fff.svg?logo=opencv-color&style=for-the-badge">
-      <source media="(prefers-color-scheme: light)" srcset="https://custom-icon-badges.demolab.com/badge/OpenCV-006CFF.svg?logo=opencv-color&style=for-the-badge">
-      <img alt="OpenCV" title="OpenCV" src="https://custom-icon-badges.demolab.com/badge/OpenCV-006CFF.svg?logo=opencv-color&style=for-the-badge">
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/OpenGL-fff.svg?logo=opengl&logoColor=5586A5&style=for-the-badge">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/OpenGL-5586A5.svg?logo=opengl&logoColor=fff&style=for-the-badge">
+      <img alt="OpenGL" title="OpenGL" src="https://img.shields.io/badge/OpenGL-5586A5.svg?logo=opengl&logoColor=fff&style=for-the-badge">
     </picture></a>
-    
+  
+  <!--- Pandas --->
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img alt="Pandas" title="Pandas" src="https://custom-icon-badges.demolab.com/badge/Pandas-130654.svg?logo=pandas-white&style=for-the-badge">
+  </a>
+  
+  <!--- React --->
+  <a href="https://es.reactjs.org/" target="_blank" rel="noreferrer">
+    <img alt="React" title="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  </a>
+  
+  <!--- Three.js --->
+  <a href="https://threejs.org/" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/Three.js-fff.svg?logo=three.js&logoColor=black&style=for-the-badge">
+      <source media="(prefers-color-scheme: light)" srcset="https://custom-icon-badges.demolab.com/badge/Three.js-000.svg?logo=three.js&logoColor=white&style=for-the-badge">
+      <img alt="Three.js" title="Three.js" src="https://custom-icon-badges.demolab.com/badge/Three.js-000.svg?logo=three.js&logoColor=white&style=for-the-badge">
+    </picture></a>
+</p>
+
+<h3 align="left">
+  🗄️ Databases, cloud storage and cloud hosting
+</h3>
+
+<p align="center">
+  <!--- Arduino --->
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+    <img alt="Arduino" title="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" /></a>
+  
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
   </a>
@@ -325,7 +351,7 @@
 
 
 <h2 align="left">
-  :octocat: My GitHub Stats
+  :octocat: My GitHub Stats:
 </h2>
 
 <details>
