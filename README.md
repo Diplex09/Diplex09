@@ -284,9 +284,25 @@
       <img alt="IBM Cloud" title="IBM Cloud" src="https://img.shields.io/badge/IBM%20Cloud-000.svg?logo=ibm-cloud&logoColor=white&style=for-the-badge">
     </picture></a>
   
+  <!--- iCloud --->
+  <a href="https://www.icloud.com/" target="_blank" rel="noreferrer">
+    <img alt="iCloud" title="iCloud" src="https://custom-icon-badges.demolab.com/badge/-iCloud-93ddfb?logo=icloud-color&style=for-the-badge" /></a>
+  
+  <!--- OneDrive --->
+  <a href="https://onedrive.live.com/" target="_blank" rel="noreferrer">
+    <img alt="OneDrive" title="OneDrive" src="https://custom-icon-badges.demolab.com/badge/-OneDrive-0849B1?logo=onedrive&style=for-the-badge" /></a>
+  
+  <!--- MongoDB --->
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MongoDB-00EE64?style=for-the-badge&logo=mongodb&logoColor=white">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/MongoDB-011E2A?style=for-the-badge&logo=mongodb&logoColor=white">
+      <img alt="MongoDB" title="MongoDB" src="https://img.shields.io/badge/MongoDB-011E2A?style=for-the-badge&logo=mongodb&logoColor=white">
+    </picture></a>
+  
   <!--- Arduino --->
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img alt="Arduino" title="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" /></a>
+    <img alt="Arduino" title="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white&style=for-the-badge" /></a>
   
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
