@@ -129,11 +129,11 @@
   
   <!--- Markdown --->
   <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Markdown-fff.svg?logo=Markdown&logoColor=000000&style=for-the-badge">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Markdown-000000.svg?logo=Markdown&logoColor=white&style=for-the-badge">
-    <img alt="Marckdown" title="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=Markdown&logoColor=white&style=for-the-badge">
-  </picture></a>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Markdown-fff.svg?logo=Markdown&logoColor=000000&style=for-the-badge">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Markdown-000000.svg?logo=Markdown&logoColor=white&style=for-the-badge">
+      <img alt="Marckdown" title="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=Markdown&logoColor=white&style=for-the-badge">
+    </picture></a>
   <img alt="Beginner (proficient)" src="https://img.shields.io/badge/beginner%20(proficient)-ff4e11?style=for-the-badge" />
   <br>
   
@@ -151,11 +151,11 @@
   
   <!--- Java --->
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/Java-fff.svg?logo=java-color&style=for-the-badge">
-    <source media="(prefers-color-scheme: light)" srcset="https://custom-icon-badges.demolab.com/badge/Java-3A75B0.svg?logo=java&logoColor=white&style=for-the-badge">
-    <img alt="Java" title="Java" src="https://custom-icon-badges.demolab.com/badge/Java-3A75B0.svg?logo=java&logoColor=white&style=for-the-badge">
-  </picture></a>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/Java-fff.svg?logo=java-color&style=for-the-badge">
+      <source media="(prefers-color-scheme: light)" srcset="https://custom-icon-badges.demolab.com/badge/Java-3A75B0.svg?logo=java&logoColor=white&style=for-the-badge">
+      <img alt="Java" title="Java" src="https://custom-icon-badges.demolab.com/badge/Java-3A75B0.svg?logo=java&logoColor=white&style=for-the-badge">
+    </picture></a>
   <img alt="Learning" src="https://img.shields.io/badge/Learning...-ff0d0d?style=for-the-badge" />
 </p>
 
@@ -179,31 +179,36 @@
   
   <!--- Flask --->
   <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank" rel="noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Flask-fff?logo=flask&logoColor=black&style=for-the-badge">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge">
-    <img alt="Flask" title="Flask" src="https://custom-icon-badges.demolab.com/badge/Material%20UI-007FFF.svg?logo=materialui&logoColor=white&style=for-the-badge">
-  </picture></a>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Flask-fff?logo=flask&logoColor=black&style=for-the-badge">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge">
+      <img alt="Flask" title="Flask" src="https://custom-icon-badges.demolab.com/badge/Material%20UI-007FFF.svg?logo=materialui&logoColor=white&style=for-the-badge">
+    </picture></a>
   
   <!--- GitHub Actions --->
   <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
-    <img alt="GitHub Actions" title="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?logo=GitHub-Actions&logoColor=white&style=for-the-badge" /></a>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub%20Actions-fff.svg?logo=GitHub-Actions&logoColor=2088FF&style=for-the-badge">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?logo=GitHub-Actions&logoColor=white&style=for-the-badge">
+      <img alt="GitHub Actions" title="GitHub Actions" src="https://custom-icon-badges.demolab.com/badge/Material%20UI-007FFF.svg?logo=materialui&logoColor=white&style=for-the-badge">
+    </picture></a>
+  
+  <!--- Ionic --->
+  <a href="https://ionicframework.com/" target="_blank" rel="noreferrer">
+    <img alt="Ionic" title="Ionic" src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" /></a>
   
   <!--- Material UI --->
   <a href="https://mui.com/" target="_blank" rel="noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/Material%20UI-fff.svg?logo=materialui&logoColor=007FFF&style=for-the-badge">
-    <source media="(prefers-color-scheme: light)" srcset="https://custom-icon-badges.demolab.com/badge/Material%20UI-007FFF.svg?logo=materialui&logoColor=white&style=for-the-badge">
-    <img alt="Material UI" title="Material UI" src="https://custom-icon-badges.demolab.com/badge/Material%20UI-007FFF.svg?logo=materialui&logoColor=white&style=for-the-badge">
-  </picture></a>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/Material%20UI-fff.svg?logo=materialui&logoColor=007FFF&style=for-the-badge">
+      <source media="(prefers-color-scheme: light)" srcset="https://custom-icon-badges.demolab.com/badge/Material%20UI-007FFF.svg?logo=materialui&logoColor=white&style=for-the-badge">
+      <img alt="Material UI" title="Material UI" src="https://custom-icon-badges.demolab.com/badge/Material%20UI-007FFF.svg?logo=materialui&logoColor=white&style=for-the-badge">
+    </picture></a>
   
   <!--- NumPy --->
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/NumPy-fff.svg?logo=numpy-color&style=for-the-badge">
-    <source media="(prefers-color-scheme: light)" srcset="https://custom-icon-badges.demolab.com/badge/NumPy-013243.svg?logo=numpy-color&style=for-the-badge">
-    <img alt="NumPy" title="NumPy" src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=4D77CF&style=for-the-badge">
-  </picture></a>
+    <img alt="NumPy" title="NumPy" src="https://custom-icon-badges.demolab.com/badge/NumPy-013243.svg?logo=numpy-color&style=for-the-badge">
+  </a>
   
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
