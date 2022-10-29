@@ -235,7 +235,7 @@
   
   <!--- React --->
   <a href="https://es.reactjs.org/" target="_blank" rel="noreferrer">
-    <img alt="React" title="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <img alt="React" title="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge">
   </a>
   
   <!--- Three.js --->
@@ -252,6 +252,30 @@
 </h3>
 
 <p align="center">
+  <!--- Dropbox --->
+  <a href="https://www.dropbox.com/es/" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Dropbox-fff?logo=dropbox&logoColor=0061FE&style=for-the-badge">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Dropbox-0061FE?logo=dropbox&style=for-the-badge">
+      <img alt="Dropbox" title="Dropbox" src="https://img.shields.io/badge/Dropbox-0061FE?logo=dropbox&style=for-the-badge">
+    </picture></a>
+  
+  <!--- Google Drive --->
+  <a href="https://www.google.com/intl/es/drive/" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/Google%20Drive-fff.svg?logo=google-drive-color&style=for-the-badge">
+      <source media="(prefers-color-scheme: light)" srcset="https://custom-icon-badges.demolab.com/badge/Google%20Drive-6783C5.svg?logo=google-drive-color&style=for-the-badge">
+      <img alt="Google Drive" title="Google Drive" src="https://custom-icon-badges.demolab.com/badge/Google%20Drive-6783C5.svg?logo=google-drive-color&style=for-the-badge">
+    </picture></a>
+  
+  <!--- Firebase --->
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/Firebase-fff.svg?logo=firebase-color&style=for-the-badge">
+      <source media="(prefers-color-scheme: light)" srcset="https://custom-icon-badges.demolab.com/badge/Firebase-1A73E8.svg?logo=firebase-color&style=for-the-badge">
+      <img alt="Firebase" title="Firebase" src="https://custom-icon-badges.demolab.com/badge/Firebase-1A73E8.svg?logo=firebase-color&style=for-the-badge">
+    </picture></a>
+  
   <!--- Arduino --->
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img alt="Arduino" title="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" /></a>
