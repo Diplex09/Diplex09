@@ -272,7 +272,7 @@
   
   <!--- IBM Cloud --->
   <a href="https://cloud.ibm.com/" target="_blank" rel="noreferrer">
-    <img alt="IBM Cloud" title="IBM Cloud" src="https://custom-icon-badges.demolab.com/badge/IBM%20Cloud-000.svg?logo=ibm-cloud&logoColor=white&style=for-the-badge"></a>
+    <img alt="IBM Cloud" title="IBM Cloud" src="https://img.shields.io/badge/IBM%20Cloud-000.svg?logo=ibm-cloud&logoColor=white&style=for-the-badge"></a>
   
   <!--- iCloud --->
   <a href="https://www.icloud.com/" target="_blank" rel="noreferrer">
