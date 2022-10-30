@@ -146,7 +146,7 @@
   <!--- Scheme --->
   <a href="https://scheme.com/" target="_blank" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/Scheme-fff.svg?logo=schemee&style=for-the-badge">
+      <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/Scheme-fff.svg?logo=scheme&style=for-the-badge">
       <source media="(prefers-color-scheme: light)" srcset="https://custom-icon-badges.demolab.com/badge/Scheme-000.svg?logo=scheme-white&style=for-the-badge">
       <img alt="Scheme" title="Scheme" src="https://custom-icon-badges.demolab.com/badge/Scheme-000.svg?logo=scheme&logColor=white&style=for-the-badge">
     </picture></a>
