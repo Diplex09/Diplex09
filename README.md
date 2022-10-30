@@ -143,6 +143,16 @@
   <img alt="Beginner (proficient)" src="https://img.shields.io/badge/beginner%20(proficient)-ff4e11?style=for-the-badge" />
   <br>
   
+  <!--- Scheme --->
+  <a href="https://scheme.com/" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/Scheme-fff.svg?logo=schemee&style=for-the-badge">
+      <source media="(prefers-color-scheme: light)" srcset="https://custom-icon-badges.demolab.com/badge/Scheme-000.svg?logo=scheme-white&style=for-the-badge">
+      <img alt="Scheme" title="Scheme" src="https://custom-icon-badges.demolab.com/badge/Scheme-000.svg?logo=scheme&logColor=white&style=for-the-badge">
+    </picture></a>
+  <img alt="Beginner (proficient)" src="https://img.shields.io/badge/beginner%20(proficient)-ff4e11?style=for-the-badge" />
+  <br>
+  
   <!--- TypeScript --->
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img alt="TypeScript" title="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge" /></a>
@@ -163,6 +173,13 @@
       <img alt="Java" title="Java" src="https://custom-icon-badges.demolab.com/badge/Java-3A75B0.svg?logo=java&logoColor=white&style=for-the-badge">
     </picture></a>
   <img alt="Learning" src="https://img.shields.io/badge/Learning...-ff0d0d?style=for-the-badge" />
+  <br>
+  
+  <!--- PowerShell --->
+  <a href="https://learn.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.2" target="_blank" rel="noreferrer">
+    <img alt="PowerShell" title="PowerShell" src="https://img.shields.io/badge/powershell-4376CF?logo=powershell&logoColor=white&style=for-the-badge" /></a>
+  <img alt="Learning" src="https://img.shields.io/badge/Learning...-ff0d0d?style=for-the-badge" />
+  <br>
 </p>
 
 
@@ -185,8 +202,7 @@
   
   <!--- GitHub Actions --->
   <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
-    <img alt="GitHub Actions" title="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?logo=GitHub-Actions&logoColor=white&style=for-the-badge">
-  </a>
+    <img alt="GitHub Actions" title="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?logo=GitHub-Actions&logoColor=white&style=for-the-badge"></a>
   
   <!--- Ionic --->
   <a href="https://ionicframework.com/" target="_blank" rel="noreferrer">
@@ -202,41 +218,31 @@
   
   <!--- Matplotlib --->
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img alt="Matplotlib" title="Matplotlib" src="https://custom-icon-badges.demolab.com/badge/Matplotlib-11557C.svg?logo=matplotlib&style=for-the-badge">
-  </a>
+    <img alt="Matplotlib" title="Matplotlib" src="https://custom-icon-badges.demolab.com/badge/Matplotlib-11557C.svg?logo=matplotlib&style=for-the-badge"></a>
   
   <!--- NPM --->
   <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-    <img alt="NPM" title="NPM" src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge">
-  </a>
+    <img alt="NPM" title="NPM" src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge"></a>
   
   <!--- NumPy --->
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img alt="NumPy" title="NumPy" src="https://custom-icon-badges.demolab.com/badge/NumPy-013243.svg?logo=numpy-color&style=for-the-badge">
-  </a>
+    <img alt="NumPy" title="NumPy" src="https://custom-icon-badges.demolab.com/badge/NumPy-013243.svg?logo=numpy-color&style=for-the-badge"></a>
   
   <!--- OpenCV --->
   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img alt="OpenCV" title="OpenCV" src="https://custom-icon-badges.demolab.com/badge/OpenCV-006CFF.svg?logo=opencv-color&style=for-the-badge">
-  </a>
+    <img alt="OpenCV" title="OpenCV" src="https://custom-icon-badges.demolab.com/badge/OpenCV-006CFF.svg?logo=opencv-color&style=for-the-badge"></a>
   
   <!--- OpenGL --->
   <a href="https://www.opengl.org/" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/OpenGL-fff.svg?logo=opengl&logoColor=5586A5&style=for-the-badge">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/OpenGL-5586A5.svg?logo=opengl&logoColor=fff&style=for-the-badge">
-      <img alt="OpenGL" title="OpenGL" src="https://img.shields.io/badge/OpenGL-5586A5.svg?logo=opengl&logoColor=fff&style=for-the-badge">
-    </picture></a>
+    <img alt="OpenGL" title="OpenGL" src="https://img.shields.io/badge/OpenGL-5586A5.svg?logo=opengl&logoColor=fff&style=for-the-badge"></a>
   
   <!--- Pandas --->
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img alt="Pandas" title="Pandas" src="https://custom-icon-badges.demolab.com/badge/Pandas-130654.svg?logo=pandas-white&style=for-the-badge">
-  </a>
+    <img alt="Pandas" title="Pandas" src="https://custom-icon-badges.demolab.com/badge/Pandas-130654.svg?logo=pandas-white&style=for-the-badge"></a>
   
   <!--- React --->
   <a href="https://es.reactjs.org/" target="_blank" rel="noreferrer">
-    <img alt="React" title="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge">
-  </a>
+    <img alt="React" title="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge"></a>
   
   <!--- Three.js --->
   <a href="https://threejs.org/" target="_blank" rel="noreferrer">
@@ -254,35 +260,19 @@
 <p align="center">
   <!--- Dropbox --->
   <a href="https://www.dropbox.com/es/" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Dropbox-fff?logo=dropbox&logoColor=0061FE&style=for-the-badge">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Dropbox-0061FE?logo=dropbox&style=for-the-badge">
-      <img alt="Dropbox" title="Dropbox" src="https://img.shields.io/badge/Dropbox-0061FE?logo=dropbox&style=for-the-badge">
-    </picture></a>
+      <img alt="Dropbox" title="Dropbox" src="https://img.shields.io/badge/Dropbox-0061FE?logo=dropbox&style=for-the-badge"></a>
   
   <!--- Google Drive --->
   <a href="https://www.google.com/intl/es/drive/" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/Google%20Drive-fff.svg?logo=google-drive-color&style=for-the-badge">
-      <source media="(prefers-color-scheme: light)" srcset="https://custom-icon-badges.demolab.com/badge/Google%20Drive-6783C5.svg?logo=google-drive-color&style=for-the-badge">
-      <img alt="Google Drive" title="Google Drive" src="https://custom-icon-badges.demolab.com/badge/Google%20Drive-6783C5.svg?logo=google-drive-color&style=for-the-badge">
-    </picture></a>
+    <img alt="Google Drive" title="Google Drive" src="https://custom-icon-badges.demolab.com/badge/Google%20Drive-6783C5.svg?logo=google-drive-color&style=for-the-badge"></a>
   
   <!--- Firebase --->
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/Firebase-fff.svg?logo=firebase-color&style=for-the-badge">
-      <source media="(prefers-color-scheme: light)" srcset="https://custom-icon-badges.demolab.com/badge/Firebase-1A73E8.svg?logo=firebase-color&style=for-the-badge">
-      <img alt="Firebase" title="Firebase" src="https://custom-icon-badges.demolab.com/badge/Firebase-1A73E8.svg?logo=firebase-color&style=for-the-badge">
-    </picture></a>
+    <img alt="Firebase" title="Firebase" src="https://custom-icon-badges.demolab.com/badge/Firebase-1A73E8.svg?logo=firebase-color&style=for-the-badge"></a>
   
   <!--- IBM Cloud --->
   <a href="https://cloud.ibm.com/" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/IBM%20Cloud-fff.svg?logo=ibm-cloud-color&style=for-the-badge">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/IBM%20Cloud-000.svg?logo=ibm-cloud&logoColor=white&style=for-the-badge">
-      <img alt="IBM Cloud" title="IBM Cloud" src="https://img.shields.io/badge/IBM%20Cloud-000.svg?logo=ibm-cloud&logoColor=white&style=for-the-badge">
-    </picture></a>
+    <img alt="IBM Cloud" title="IBM Cloud" src="https://custom-icon-badges.demolab.com/badge/IBM%20Cloud-000.svg?logo=ibm-cloud&logoColor=white&style=for-the-badge"></a>
   
   <!--- iCloud --->
   <a href="https://www.icloud.com/" target="_blank" rel="noreferrer">
@@ -308,9 +298,21 @@
       <img alt="MySQL" title="MySQL" src="https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white">
     </picture></a>
   
-  <!--- Arduino --->
+  <!--- PostgreSQL --->
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img alt="PostgreSQL" title="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" /></a>
+</p>
+
+
+<h3 align="left">
+  ⌨️ IDEs, editors and game engines
+</h3>
+
+<p align="center">
+  
+  <!--- Arduino IDE --->
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img alt="Arduino" title="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white&style=for-the-badge" /></a>
+    <img alt="Arduino IDE" title="Arduino IDE" src="https://img.shields.io/badge/-Arduino%20IDE-00979D?logo=Arduino&logoColor=white&style=for-the-badge" /></a>
   
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
