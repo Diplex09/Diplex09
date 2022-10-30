@@ -300,6 +300,14 @@
       <img alt="MongoDB" title="MongoDB" src="https://img.shields.io/badge/MongoDB-011E2A?style=for-the-badge&logo=mongodb&logoColor=white">
     </picture></a>
   
+  <!--- MySQL --->
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/-MySQL-fff?logo=mysql_official_logo_icon_169938&style=for-the-badge">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/MySQL-00618A?logo=mysql&logoColor=E48E00&style=for-the-badge">
+      <img alt="MySQL" title="MySQL" src="https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white">
+    </picture></a>
+  
   <!--- Arduino --->
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img alt="Arduino" title="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white&style=for-the-badge" /></a>
