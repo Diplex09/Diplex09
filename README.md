@@ -375,7 +375,7 @@
   
   <!--- Visual Studio --->
   <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
-      <img alt="Unreal Engine" title="Unreal Engine" src="https://img.shields.io/badge/Visual%20Studio-5E438F.svg?logo=Visual-Studio&logoColor=white&style=for-the-badge"></a>
+      <img alt="Visual Studio" title="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5E438F.svg?logo=Visual-Studio&logoColor=white&style=for-the-badge"></a>
   
   <!--- Visual Studio Code --->
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
@@ -392,101 +392,67 @@
 
 
 <h3 align="left">
-  ⌨️ Product and version control
+  💽 Product and version control
 </h3>
   
 <p align="center">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
-  </a>
+  <!--- Docker --->
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+      <img alt="Docker" title="Docker" src="https://custom-icon-badges.demolab.com/badge/Docker-1C90ED?logo=docker&logoColor=white&style=for-the-badge"></a>
   
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
-  </a> 
+  <!--- Git --->
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+      <img alt="Git" title="Git" src="https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white&style=for-the-badge"></a>
   
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-  </a>
+  <!--- GitHub --->
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub-fff?logo=github&logoColor=black&style=for-the-badge">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white&style=for-the-badge">
+      <img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white&style=for-the-badge">
+    </picture></a>
+  
+  <!--- GitHub Desktop --->
+  <a href="https://desktop.github.com/" target="_blank" rel="noreferrer">
+      <img alt="GitHub Desktop" title="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-832291?logo=github&logoColor=white&style=for-the-badge"></a>
+  
+  <!--- gitignore.io --->
+  <a href="https://desktop.github.com/" target="_blank" rel="noreferrer">
+      <img alt="gitignore.io" title="gitignore.io" src="https://img.shields.io/badge/gitignore.io-204ECF?logo=gitignoredotio&logoColor=white&style=for-the-badge"></a>
+  
+  <!--- Perforce Helix Core --->
+  <a href="https://www.perforce.com/products/helix-core" target="_blank" rel="noreferrer">
+      <img alt="Perforce Helix Core" title="Perforce Helix Core" src="https://img.shields.io/badge/Perforce%20Helix%20Core-00AEEF?logo=perforce&logoColor=white&style=for-the-badge"></a>
+  
+  <!--- Plastic SCM --->
+  <a href="https://www.plasticscm.com/" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/Plastic%20SCM-FF4300?logo=plastic-scm&logoColor=white&style=for-the-badge">
+      <source media="(prefers-color-scheme: light)" srcset="https://custom-icon-badges.demolab.com/badge/Plastic%20SCM-172A51?logo=plastic-scm&style=for-the-badge">
+      <img alt="Plastic SCM" title="Plastic SCM" src="https://custom-icon-badges.demolab.com/badge/Plastic%20SCM-172A51?logo=plastic-scm&style=for-the-badge">
+    </picture></a>
+</p>
+
+
+<h3 align="left">
+  🖥️ Other software and technologies
+</h3>
+  
+<p align="center">
+  <a href="https://www.deepl.com/translator" target="_blank" rel="noreferrer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/DeepL-fff.svg?logo=deepl&logoColor=0F2B46&style=for-the-badge">
+    <source media="(prefers-color-scheme: light)" srcset="https://custom-icon-badges.demolab.com/badge/DeepL-0F2B46.svg?logo=deepl&logoColor=fff&style=for-the-badge">
+    <img alt="DeepL" title="DeepL" src="">
+  </picture></a>
   
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
   </a> 
   
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
-  </a>
-  
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" /> 
-  </a>
-  
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-  </a> 
-  
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> 
-  </a> 
-  
-  <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40" /> 
-  </a> 
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-  </a> 
-  
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40" />
-  </a> 
-  
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
-  </a> 
-  
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-  </a> 
-  
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
-  </a> 
-  
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /> 
-  </a> 
-  
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
   </a> 
-  
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-  </a> 
-  
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> 
-  </a> 
-  
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" />
-  </a> 
-  
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40" />
-  </a>
-  
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
-  </a> 
-  
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" />
-  </a> 
-  
-  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40" /> 
-  </a>
 </p>
 
 
@@ -520,8 +486,10 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=diplex09&layout=compact&langs_count=10&theme=tokyonight&hide=jupyter+notebook%2chtml%2cmakefile">
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=diplex09&layout=compact&langs_count=10&hide=jupyter+notebook%2chtml%2cmakefile">
-      <img alt="Top languages" title="Top languages" src="" />
+      <img alt="Top languages" title="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diplex09&layout=compact&langs_count=10&hide=jupyter+notebook%2chtml%2cmakefile" />
     </picture>
+    <br>
+    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 </details> 
  
@@ -583,10 +551,3 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hi!+I'm+Aldo+%F0%9F%91%8B;I'm+Mexican+%F0%9F%8C%AE%F0%9F%87%B2%F0%9F%87%BD;I'm+a+computer+science+student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I'm+a+%F0%9F%91%BE+game+developer+%F0%9F%8E%AE;I'm+a+big+soccer+fan+%E2%9A%BD;I+love+challenges!+%F0%9F%8F%86)](https://git.io/typing-svg)
 <br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arimo&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hi!+I'm+Aldo+%F0%9F%91%8B;I'm+Mexican+%F0%9F%8C%AE%F0%9F%87%B2%F0%9F%87%BD;I'm+a+computer+science+student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I'm+a+%F0%9F%91%BE+game+developer+%F0%9F%8E%AE;I'm+a+big+soccer+fan+%E2%9A%BD;I+love+challenges!+%F0%9F%8F%86)](https://git.io/typing-svg)
-
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/DeepL-fff.svg?logo=deepl&logoColor=0F2B46&style=for-the-badge">
-    <source media="(prefers-color-scheme: light)" srcset="https://custom-icon-badges.demolab.com/badge/DeepL-0F2B46.svg?logo=deepl&logoColor=fff&style=for-the-badge">
-    <img alt="DeepL" title="DeepL" src="">
-  </picture></a>
