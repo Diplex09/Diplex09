@@ -348,7 +348,7 @@
   <!--- MySQL Workbench --->
   <a href="https://www.mysql.com/products/workbench/" target="_blank" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/-MySQL-fff?logo=mysql_official_logo_icon_169938&style=for-the-badge">
+      <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/MySQL%20Workbench-fff?logo=mysql_official_logo_icon_169938&style=for-the-badge">
       <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/MySQL%20Workbench-00618A?logo=mysql&logoColor=E48E00&style=for-the-badge">
       <img alt="MySQL Workbench" title="MySQL Workbench" src="https://img.shields.io/badge/MySQL&20Workbench-00618A?style=for-the-badge&logo=mysql&logoColor=white">
     </picture></a>
