@@ -309,10 +309,33 @@
 </h3>
 
 <p align="center">
+  <!--- Apache NetBeans --->
+  <a href="https://netbeans.apache.org/" target="_blank" rel="noreferrer">
+    <img alt="Arduino NetBeans" title="Apache NetBeans" src="https://custom-icon-badges.demolab.com/badge/apache%20netbeans-2C78C2?logo=netbeans-color&style=for-the-badge" /></a>
   
   <!--- Arduino IDE --->
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img alt="Arduino IDE" title="Arduino IDE" src="https://img.shields.io/badge/-Arduino%20IDE-00979D?logo=Arduino&logoColor=white&style=for-the-badge" /></a>
+  
+  <!--- Brackets --->
+  <a href="https://brackets.io/" target="_blank" rel="noreferrer">
+    <img alt="Brackets" title="Arduino IDE" src="https://custom-icon-badges.demolab.com/badge/brackets-F0F9FF?style=for-the-badge&logo=brackets" /></a>
+  
+  <!--- Code::Blocks --->
+  <a href="https://www.codeblocks.org/" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/code::blocks-EAECF0?logo=code::blocks&style=for-the-badge">
+      <source media="(prefers-color-scheme: light)" srcset="https://custom-icon-badges.demolab.com/badge/code::blocks-EAECF0?logo=code::blocks&style=for-the-badge">
+      <img alt="Code::Blocks" title="Code::Blocks" src="https://custom-icon-badges.demolab.com/badge/code::blocks-EAECF0?logo=code::blocks&style=for-the-badge">
+    </picture></a>
+  
+  <!--- Colab --->
+  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/colab-525252?logo=googlecolab-color&style=for-the-badge">
+      <source media="(prefers-color-scheme: light)" srcset="https://custom-icon-badges.demolab.com/badge/colab-525252?logo=googlecolab-color&style=for-the-badge">
+      <img alt="Colab" title="Colab" src="https://custom-icon-badges.demolab.com/badge/colab-525252?logo=googlecolab-color&style=for-the-badge">
+    </picture></a>
   
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
