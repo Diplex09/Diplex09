@@ -311,7 +311,7 @@
 <p align="center">
   <!--- Apache NetBeans --->
   <a href="https://netbeans.apache.org/" target="_blank" rel="noreferrer">
-    <img alt="Arduino NetBeans" title="Apache NetBeans" src="https://custom-icon-badges.demolab.com/badge/apache%20netbeans-2C78C2?logo=netbeans-color&style=for-the-badge" /></a>
+    <img alt="Arduino NetBeans" title="Apache NetBeans" src="https://custom-icon-badges.demolab.com/badge/Apache%20NetBeans-2C78C2?logo=netbeans-color&style=for-the-badge" /></a>
   
   <!--- Arduino IDE --->
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
@@ -319,23 +319,67 @@
   
   <!--- Brackets --->
   <a href="https://brackets.io/" target="_blank" rel="noreferrer">
-    <img alt="Brackets" title="Arduino IDE" src="https://custom-icon-badges.demolab.com/badge/brackets-F0F9FF?style=for-the-badge&logo=brackets" /></a>
+    <img alt="Brackets" title="Brackets" src="https://custom-icon-badges.demolab.com/badge/Brackets-F0F9FF?style=for-the-badge&logo=brackets" /></a>
   
   <!--- Code::Blocks --->
   <a href="https://www.codeblocks.org/" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/code::blocks-EAECF0?logo=code::blocks&style=for-the-badge">
-      <source media="(prefers-color-scheme: light)" srcset="https://custom-icon-badges.demolab.com/badge/code::blocks-EAECF0?logo=code::blocks&style=for-the-badge">
-      <img alt="Code::Blocks" title="Code::Blocks" src="https://custom-icon-badges.demolab.com/badge/code::blocks-EAECF0?logo=code::blocks&style=for-the-badge">
-    </picture></a>
+      <img alt="Code::Blocks" title="Code::Blocks" src="https://custom-icon-badges.demolab.com/badge/Code::Blocks-EAECF0?logo=code::blocks&style=for-the-badge"></a>
   
   <!--- Colab --->
   <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
+      <img alt="Colab" title="Colab" src="https://custom-icon-badges.demolab.com/badge/Colab-525252?logo=googlecolab-color&style=for-the-badge"></a>
+  
+  <!--- IntelliJ IDEA --->
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+      <img alt="IntelliJ IDEA" title="IntelliJ IDEA" src="https://custom-icon-badges.demolab.com/badge/IntelliJ%20IDEA-323236?logo=intellij-idea-color&style=for-the-badge"></a>
+  
+  <!--- Jupyter --->
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+      <img alt="Jupyter" title="Jupyter" src="https://custom-icon-badges.demolab.com/badge/Jupyter-F37726?logo=jupyter&logoColor=white&style=for-the-badge"></a>
+  
+  <!--- Marie.js --->
+  <a href="https://marie-js.github.io/" target="_blank" rel="noreferrer">
+      <img alt="Marie.js" title="Marie.js" src="https://custom-icon-badges.demolab.com/badge/Marie.js-404040?logo=marie.js2&style=for-the-badge"></a>
+  
+  <!--- MySQL Workbench --->
+  <a href="https://www.mysql.com/products/workbench/" target="_blank" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/colab-525252?logo=googlecolab-color&style=for-the-badge">
-      <source media="(prefers-color-scheme: light)" srcset="https://custom-icon-badges.demolab.com/badge/colab-525252?logo=googlecolab-color&style=for-the-badge">
-      <img alt="Colab" title="Colab" src="https://custom-icon-badges.demolab.com/badge/colab-525252?logo=googlecolab-color&style=for-the-badge">
+      <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/-MySQL-fff?logo=mysql_official_logo_icon_169938&style=for-the-badge">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/MySQL%20Workbench-00618A?logo=mysql&logoColor=E48E00&style=for-the-badge">
+      <img alt="MySQL Workbench" title="MySQL Workbench" src="https://img.shields.io/badge/MySQL&20Workbench-00618A?style=for-the-badge&logo=mysql&logoColor=white">
     </picture></a>
+  
+  <!--- Notepad++ --->
+  <a href="https://notepad-plus-plus.org/" target="_blank" rel="noreferrer">
+      <img alt="Notepad++" title="Notepad++" src="https://img.shields.io/badge/Notepad++-8FE772.svg?logo=notepad%2B%2B&logoColor=black&style=for-the-badge"></a>
+  
+  <!--- Thonny --->
+  <a href="https://thonny.org/" target="_blank" rel="noreferrer">
+      <img alt="Thonny" title="Thonny" src="https://custom-icon-badges.demolab.com/badge/Thonny-607660.svg?logo=thonny2&style=for-the-badge"></a>
+  
+  <!--- Unity --->
+  <a href="https://unity.com/" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/Unity-000?logo=unity&style=for-the-badge">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Unity-000?logo=unity&logoColor=white&style=for-the-badge">
+      <img alt="Unity" title="Unity" src="https://img.shields.io/badge/Unity-000?logo=unity&logoColor=white&style=for-the-badge">
+    </picture></a>
+  
+  <!--- Thonny --->
+  <a href="https://thonny.org/" target="_blank" rel="noreferrer">
+      <img alt="Unity" title="Unity" src="https://img.shields.io/badge/Unity-000?logo=unity&logoColor=white&style=for-the-badge"></a>
+  
+  <!--- Unreal Engine --->
+  <a href="https://www.unrealengine.com/en-US" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/Unity-000?logo=unity&style=for-the-badge">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Unreal%20Engine-313131?logo=unreal-engine&logoColor=white&style=for-the-badge">
+      <img alt="Unreal Engine" title="Unreal Engine" src="https://img.shields.io/badge/-Unreal%20Engine-313131?logo=unreal-engine&logoColor=white&style=for-the-badge">
+    </picture></a>
+  
+  <!--- Thonny --->
+  <a href="https://thonny.org/" target="_blank" rel="noreferrer">
+      <img alt="Unreal Engine" title="Unreal Engine" src="https://img.shields.io/badge/-Unreal%20Engine-313131?logo=unreal-engine&logoColor=white&style=for-the-badge"></a>
   
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
