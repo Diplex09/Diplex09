@@ -272,7 +272,11 @@
   
   <!--- IBM Cloud --->
   <a href="https://cloud.ibm.com/" target="_blank" rel="noreferrer">
-    <img alt="IBM Cloud" title="IBM Cloud" src="https://img.shields.io/badge/IBM%20Cloud-000.svg?logo=ibm-cloud&logoColor=white&style=for-the-badge"></a>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/IBM%20Cloud-fff.svg?logo=ibm-cloud-color&style=for-the-badge">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/IBM%20Cloud-000.svg?logo=ibm-cloud&logoColor=white&style=for-the-badge">
+      <img alt="IBM Cloud" title="IBM Cloud" src="https://img.shields.io/badge/IBM%20Cloud-000.svg?logo=ibm-cloud&logoColor=white&style=for-the-badge">
+    </picture></a>
   
   <!--- iCloud --->
   <a href="https://www.icloud.com/" target="_blank" rel="noreferrer">
@@ -360,25 +364,13 @@
   <!--- Unity --->
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/Unity-000?logo=unity&style=for-the-badge">
+      <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/Unity-fff?logo=unity&logoColor=black&style=for-the-badge">
       <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Unity-000?logo=unity&logoColor=white&style=for-the-badge">
       <img alt="Unity" title="Unity" src="https://img.shields.io/badge/Unity-000?logo=unity&logoColor=white&style=for-the-badge">
     </picture></a>
   
-  <!--- Thonny --->
-  <a href="https://thonny.org/" target="_blank" rel="noreferrer">
-      <img alt="Unity" title="Unity" src="https://img.shields.io/badge/Unity-000?logo=unity&logoColor=white&style=for-the-badge"></a>
-  
   <!--- Unreal Engine --->
   <a href="https://www.unrealengine.com/en-US" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/Unity-000?logo=unity&style=for-the-badge">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/-Unreal%20Engine-313131?logo=unreal-engine&logoColor=white&style=for-the-badge">
-      <img alt="Unreal Engine" title="Unreal Engine" src="https://img.shields.io/badge/-Unreal%20Engine-313131?logo=unreal-engine&logoColor=white&style=for-the-badge">
-    </picture></a>
-  
-  <!--- Thonny --->
-  <a href="https://thonny.org/" target="_blank" rel="noreferrer">
       <img alt="Unreal Engine" title="Unreal Engine" src="https://img.shields.io/badge/-Unreal%20Engine-313131?logo=unreal-engine&logoColor=white&style=for-the-badge"></a>
   
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
