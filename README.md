@@ -373,6 +373,29 @@
   <a href="https://www.unrealengine.com/en-US" target="_blank" rel="noreferrer">
       <img alt="Unreal Engine" title="Unreal Engine" src="https://img.shields.io/badge/-Unreal%20Engine-313131?logo=unreal-engine&logoColor=white&style=for-the-badge"></a>
   
+  <!--- Visual Studio --->
+  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
+      <img alt="Unreal Engine" title="Unreal Engine" src="https://img.shields.io/badge/Visual%20Studio-5E438F.svg?logo=Visual-Studio&logoColor=white&style=for-the-badge"></a>
+  
+  <!--- Visual Studio Code --->
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+      <img alt="Visual Studio Code" title="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white&style=for-the-badge"></a>
+  
+  <!--- Windows Terminal --->
+  <a href="https://github.com/microsoft/terminal" target="_blank" rel="noreferrer">
+      <img alt="Windows Terminal" title="Windows Terminal" src="https://custom-icon-badges.demolab.com/badge/Windows%20Terminal-4D4D4D?logo=windows-terminal-color&style=for-the-badge"></a>
+  
+  <!--- Xcode --->
+  <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer">
+      <img alt="Xcode" title="Xcode" src="https://custom-icon-badges.demolab.com/badge/Xcode-007ACC?logo=xcode-color&style=for-the-badge"></a>
+</p>
+
+
+<h3 align="left">
+  ⌨️ Product and version control
+</h3>
+  
+<p align="center">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
   </a>
