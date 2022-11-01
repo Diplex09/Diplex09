@@ -439,13 +439,21 @@
 </h3>
   
 <p align="center">
-  <!--- Action! Mirillis --->
-  <a href="https://mirillis.com/es/productos/action-grabacion-de-pantalla-y-videojuegos.html" target="_blank" rel="noreferrer">
-      <img alt="Action!" title="Action!" src="https://custom-icon-badges.demolab.com/badge/Action!-282828?logo=action-mirilis&style=for-the-badge"></a>
+  <!--- Adobe Substance 3D Painter --->
+  <a href="https://www.substance3d.com/" target="_blank" rel="noreferrer">
+      <img alt="Adobe Substance 3D Painter" title="Adobe Substance 3D Painter" src="https://custom-icon-badges.demolab.com/badge/Adobe%20Substance%203D%20Painter-99E83F?logo=adobe-substance-3d-painter&style=for-the-badge"></a>
+  
+  <!--- Autodesk Maya --->
+  <a href="https://www.autodesk.com/products/maya/overview" target="_blank" rel="noreferrer">
+      <img alt="Autodesk Maya" title="Autodesk Maya" src="https://custom-icon-badges.demolab.com/badge/Autodesk%20Maya-02AAAB?logo=autodesk-maya-logo&style=for-the-badge"></a>
   
   <!--- Chocolatey --->
   <a href="https://chocolatey.org/" target="_blank" rel="noreferrer">
       <img alt="Chocolatey" title="Chocolatey" src="https://custom-icon-badges.demolab.com/badge/Chocolatey-CEE2F3?logo=chocolatey-color&style=for-the-badge"></a>
+  
+  <!--- Cisco Packet Tracer --->
+  <a href="https://www.netacad.com/courses/packet-tracer" target="_blank" rel="noreferrer">
+      <img alt="Cisco Packet Tracer" title="Cisco Packet Tracer" src="https://custom-icon-badges.demolab.com/badge/Cisco%20Packet%20Tracer-00465E?logo=cisco-packet-tracer&style=for-the-badge"></a>
   
   <!--- DeepL --->
   <a href="https://www.deepl.com/translator" target="_blank" rel="noreferrer">
@@ -479,9 +487,45 @@
   <a href="https://workspace.google.com/products/jamboard/" target="_blank" rel="noreferrer">
       <img alt="Jamboard" title="Jamboard" src="https://custom-icon-badges.demolab.com/badge/Jamboard-7584F2?logo=jamboard-color&style=for-the-badge"></a>
   
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
-  </a> 
+  <!--- Jira Software --->
+  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
+      <img alt="Jira Software" title="Jira Software" src="https://img.shields.io/badge/Jira%20Software-2684FF?logo=jirasoftware&logoColor=fff&style=for-the-badge"></a>
+  
+  <!--- Kaspersky --->
+  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
+      <img alt="Kaspersky" title="Kaspersky" src="https://img.shields.io/badge/Kaspersky-009982?logo=kaspersky&logoColor=fff&style=for-the-badge"></a>
+  
+  <!--- Kaspersky Password Manager --->
+  <a href="https://www.kaspersky.com/password-manager" target="_blank" rel="noreferrer">
+      <img alt="Kaspersky Password Manager" title="Kaspersky Password Manager" src="https://custom-icon-badges.demolab.com/badge/Kaspersky%20Password%20Manager-1E856F?logo=kaspersky-password-manager-color&style=for-the-badge"></a>
+  
+  <!--- Microsoft Excel --->
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
+      <img alt="Microsoft Excel" title="Microsoft Excel" src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Excel-217346?logo=microsoft-excel-color&style=for-the-badge"></a>
+  
+  <!--- Microsoft Paint --->
+  <a href="https://apps.microsoft.com/store/detail/paint/9PCFS5B6T72H" target="_blank" rel="noreferrer">
+      <img alt="Microsoft Paint" title="Microsoft Paint" src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Paint-0078D4?logo=microsoft-paint&style=for-the-badge"></a>
+  
+  <!--- Microsoft Powerpoint --->
+  <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank" rel="noreferrer">
+      <img alt="Microsoft Powerpoint" title="Microsoft Powerpoint" src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Excel-B7472A?logo=microsoft-powerpoint-color&style=for-the-badge"></a>
+  
+  <!--- Microsoft Word --->
+  <a href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank" rel="noreferrer">
+      <img alt="Microsoft Word" title="Microsoft Word" src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Word-2B579A?logo=microsoft-word-color&style=for-the-badge"></a>
+  
+  <!--- Mirillis Action! --->
+  <a href="https://mirillis.com/es/productos/action-grabacion-de-pantalla-y-videojuegos.html" target="_blank" rel="noreferrer">
+      <img alt="Mirillis Action!" title="Mirillis Action!" src="https://custom-icon-badges.demolab.com/badge/Mirillis%20Action!-282828?logo=action-mirilis&style=for-the-badge"></a>
+  
+  <!--- Paint.net --->
+  <a href="https://www.getpaint.net/" target="_blank" rel="noreferrer">
+      <img alt="Paint.net" title="Paint.net" src="https://custom-icon-badges.demolab.com/badge/Paint.net-658ED5?logo=paint.net&style=for-the-badge"></a>
+  
+  <!--- Postman --->
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+      <img alt="Postman" title="Postman" src="https://img.shields.io/badge/Postman-FF6C38?logo=postman&logoColor=fff&style=for-the-badge"></a>
 </p>
 
 
