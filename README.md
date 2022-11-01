@@ -463,9 +463,21 @@
   <a href="https://filezilla-project.org/" target="_blank" rel="noreferrer">
       <img alt="FileZilla" title="FileZilla" src="https://img.shields.io/badge/FileZilla-BF0000?logo=filezilla&logoColor=fff&style=for-the-badge"></a>
   
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
-  </a> 
+  <!--- Geogebra --->
+  <a href="https://www.geogebra.org/" target="_blank" rel="noreferrer">
+      <img alt="Geogebra" title="Geogebra" src="https://custom-icon-badges.demolab.com/badge/Geogebra-9B9B9B?logo=geogebra&style=for-the-badge"></a>
+  
+  <!--- GitHub Copilot --->
+  <a href="https://github.com/features/copilot" target="_blank" rel="noreferrer">
+      <img alt="Github Copilot" title="Github Copilot" src="https://custom-icon-badges.demolab.com/badge/Github%20Copilot-9FADF1?logo=github-copilot&style=for-the-badge"></a>
+  
+  <!--- Grammarly --->
+  <a href="https://www.grammarly.com/" target="_blank" rel="noreferrer">
+      <img alt="Grammarly" title="Grammarly" src="https://img.shields.io/badge/Grammarly-34BA96?logo=grammarly&logoColor=fff&style=for-the-badge"></a>
+  
+  <!--- Jamboard --->
+  <a href="https://workspace.google.com/products/jamboard/" target="_blank" rel="noreferrer">
+      <img alt="Jamboard" title="Jamboard" src="https://custom-icon-badges.demolab.com/badge/Jamboard-7584F2?logo=jamboard-color&style=for-the-badge"></a>
   
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
