@@ -439,12 +439,29 @@
 </h3>
   
 <p align="center">
+  <!--- Action! Mirillis --->
+  <a href="https://mirillis.com/es/productos/action-grabacion-de-pantalla-y-videojuegos.html" target="_blank" rel="noreferrer">
+      <img alt="Action!" title="Action!" src="https://custom-icon-badges.demolab.com/badge/Action!-282828?logo=action-mirilis&style=for-the-badge"></a>
+  
+  <!--- Chocolatey --->
+  <a href="https://chocolatey.org/" target="_blank" rel="noreferrer">
+      <img alt="Chocolatey" title="Chocolatey" src="https://custom-icon-badges.demolab.com/badge/Chocolatey-CEE2F3?logo=chocolatey-color&style=for-the-badge"></a>
+  
+  <!--- DeepL --->
   <a href="https://www.deepl.com/translator" target="_blank" rel="noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/DeepL-fff.svg?logo=deepl&logoColor=0F2B46&style=for-the-badge">
-    <source media="(prefers-color-scheme: light)" srcset="https://custom-icon-badges.demolab.com/badge/DeepL-0F2B46.svg?logo=deepl&logoColor=fff&style=for-the-badge">
-    <img alt="DeepL" title="DeepL" src="">
-  </picture></a>
+    <img alt="DeepL" title="DeepL" src="https://custom-icon-badges.demolab.com/badge/DeepL-0F2B46.svg?logo=deepl&logoColor=fff&style=for-the-badge"></a>
+  
+  <!--- Diagrams.net --->
+  <a href="https://www.diagrams.net/" target="_blank" rel="noreferrer">
+      <img alt="Diagrams.net" title="Diagrams" src="https://img.shields.io/badge/diagrams.net-F08705?logo=diagramsdotnet&logoColor=fff&style=for-the-badge"></a>
+  
+  <!--- Figma --->
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+      <img alt="Figma" title="Figma" src="https://custom-icon-badges.demolab.com/badge/Figma-2D3038?logo=figma-color&style=for-the-badge"></a>
+  
+  <!--- FileZilla --->
+  <a href="https://filezilla-project.org/" target="_blank" rel="noreferrer">
+      <img alt="FileZilla" title="FileZilla" src="https://img.shields.io/badge/FileZilla-BF0000?logo=filezilla&logoColor=fff&style=for-the-badge"></a>
   
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
