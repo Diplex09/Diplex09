@@ -526,6 +526,14 @@
   <!--- Postman --->
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
       <img alt="Postman" title="Postman" src="https://img.shields.io/badge/Postman-FF6C38?logo=postman&logoColor=fff&style=for-the-badge"></a>
+  
+  <!--- Surfshark --->
+  <a href="https://surfshark.com/" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/Surfshark-fff?logo=surfshark-color&style=for-the-badge">
+      <source media="(prefers-color-scheme: light)" srcset="https://custom-icon-badges.demolab.com/badge/Surfshark-178A9E?logo=surfshark&style=for-the-badge">
+      <img alt="Surfshark" title="Surfshark" src="https://custom-icon-badges.demolab.com/badge/Surfshark-178A9E?logo=surfshark&style=for-the-badge">
+    </picture></a>
 </p>
 
 
