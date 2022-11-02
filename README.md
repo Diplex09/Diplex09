@@ -463,6 +463,10 @@
   <a href="https://www.diagrams.net/" target="_blank" rel="noreferrer">
       <img alt="Diagrams.net" title="Diagrams" src="https://img.shields.io/badge/diagrams.net-F08705?logo=diagramsdotnet&logoColor=fff&style=for-the-badge"></a>
   
+  <!--- Discord --->
+  <a href="https://discord.com/" target="_blank" rel="noreferrer">
+    <img alt="Discord" title="Discord" src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge"></a>
+  
   <!--- Figma --->
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
       <img alt="Figma" title="Figma" src="https://custom-icon-badges.demolab.com/badge/Figma-2D3038?logo=figma-color&style=for-the-badge"></a>
@@ -483,13 +487,17 @@
   <a href="https://www.grammarly.com/" target="_blank" rel="noreferrer">
       <img alt="Grammarly" title="Grammarly" src="https://img.shields.io/badge/Grammarly-34BA96?logo=grammarly&logoColor=fff&style=for-the-badge"></a>
   
+  <!--- Icons8 --->
+  <a href="https://icons8.com/" target="_blank" rel="noreferrer">
+      <img alt="Icons8" title="Icons8" src="https://img.shields.io/badge/Icons8-1FB141?logo=icons8&logoColor=fff&style=for-the-badge"></a>
+  
   <!--- Jamboard --->
   <a href="https://workspace.google.com/products/jamboard/" target="_blank" rel="noreferrer">
       <img alt="Jamboard" title="Jamboard" src="https://custom-icon-badges.demolab.com/badge/Jamboard-7584F2?logo=jamboard-color&style=for-the-badge"></a>
   
   <!--- Jira Software --->
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
-      <img alt="Jira Software" title="Jira Software" src="https://img.shields.io/badge/Jira%20Software-2684FF?logo=jirasoftware&logoColor=fff&style=for-the-badge"></a>
+      <img alt="Jira Software" title="Jira Software" src="https://custom-icon-badges.demolab.com/badge/Jira%20Software-253858?logo=jira-software-color&style=for-the-badge"></a>
   
   <!--- Kaspersky --->
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
@@ -510,6 +518,10 @@
   <!--- Microsoft Powerpoint --->
   <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank" rel="noreferrer">
       <img alt="Microsoft Powerpoint" title="Microsoft Powerpoint" src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Excel-B7472A?logo=microsoft-powerpoint-color&style=for-the-badge"></a>
+  
+  <!--- Microsoft Teams --->
+  <a href="https://www.microsoft.com/en-us/microsoft-teams/group-chat-software" target="_blank" rel="noreferrer">
+      <img alt="Microsoft Teams" title="Microsoft Teams" src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Teams-6264A7?logo=microsoft-teams-color&style=for-the-badge"></a>
   
   <!--- Microsoft Word --->
   <a href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank" rel="noreferrer">
@@ -535,6 +547,22 @@
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
       <img alt="Postman" title="Postman" src="https://img.shields.io/badge/Postman-FF6C38?logo=postman&logoColor=fff&style=for-the-badge"></a>
   
+  <!--- Simple Icons --->
+  <a href="https://simpleicons.org/" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Simple%20Icons-fff?logo=simpleicons&logoColor=111&style=for-the-badge">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Simple%20Icons-111?logo=simpleicons&logoColor=fff&style=for-the-badge">
+      <img alt="Simple Icons" title="Simple Icons" src="https://img.shields.io/badge/Simple%20Icons-111?logo=simpleicons&logoColor=fff&style=for-the-badge">
+    </picture></a>
+  
+  <!--- Sketchfab --->
+  <a href="https://sketchfab.com/" target="_blank" rel="noreferrer">
+      <img alt="Sketchfab" title="Sketchfab" src="https://img.shields.io/badge/Sketchfab-2BAADD?logo=sketchfab&logoColor=fff&style=for-the-badge"></a>
+  
+  <!--- Slack --->
+  <a href="https://slack.com/" target="_blank" rel="noreferrer">
+      <img alt="Slack" title="Slack" src="https://custom-icon-badges.demolab.com/badge/Slack-521753?logo=slack-color&style=for-the-badge"></a>
+  
   <!--- Surfshark --->
   <a href="https://surfshark.com/" target="_blank" rel="noreferrer">
     <picture>
@@ -554,6 +582,61 @@
   <!--- XAMPP --->
   <a href="https://www.apachefriends.org/es/index.html" target="_blank" rel="noreferrer">
       <img alt="XAMPP" title="Wolfram Alpha" src="https://img.shields.io/badge/XAMPP-FB7A24?logo=xampp&logoColor=fff&style=for-the-badge"></a>
+  
+  <!--- Zoom --->
+  <a href="https://zoom.us/" target="_blank" rel="noreferrer">
+      <img alt="Zoom" title="Zoom" src="https://custom-icon-badges.demolab.com/badge/Zoom-39394D?logo=zoom-color&style=for-the-badge"></a>
+</p>
+
+
+<h3 align="left">
+  📚 Learning platforms
+</h3>
+
+<p align="center">
+  <!--- Coursera --->
+  <a href="https://www.coursera.org/" target="_blank" rel="noreferrer">
+    <img alt="Coursera" title="Coursera" src="https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=fff&style=for-the-badge"></a>
+  
+  <!--- Domestika --->
+  <a href="https://www.domestika.org/" target="_blank" rel="noreferrer">
+    <img alt="Domestika" title="Domestika" src="https://custom-icon-badges.demolab.com/badge/Domestika-F02D00?logo=domestika-icon&style=for-the-badge"></a>
+  
+  <!--- Duolingo --->
+  <a href="https://www.duolingo.com/" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/Duolingo-89e219?logo=duolingo-icon-color&style=for-the-badge">
+      <source media="(prefers-color-scheme: light)" srcset="https://custom-icon-badges.demolab.com/badge/Duolingo-89e219?logo=duolingo-color&style=for-the-badge">
+      <img alt="Duolingo" title="Duolingo" src="https://custom-icon-badges.demolab.com/badge/Duolingo-89e219?logo=duolingo-color&style=for-the-badge">
+    </picture></a>
+  
+  <!--- EBAC --->
+  <a href="https://ebac.mx/" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/EBAC-fff?logo=ebac&logoColor=black&style=for-the-badge">
+      <source media="(prefers-color-scheme: light)" srcset="https://custom-icon-badges.demolab.com/badge/EBAC-000?logo=ebac&logoColor=white&style=for-the-badge">
+      <img alt="EBAC" title="EBAC" src="https://custom-icon-badges.demolab.com/badge/EBAC-000?logo=ebac&logoColor=white&style=for-the-badge">
+    </picture></a>
+  
+  <!--- HackerRank --->
+  <a href="https://www.hackerrank.com/products/main/" target="_blank" rel="noreferrer">
+      <img alt="HackerRank" title="HackerRank" src="https://custom-icon-badges.demolab.com/badge/HackerRank-00EB64?logo=hackerrank-color&style=for-the-badge"></a>
+  
+  <!--- Khan Academy --->
+  <a href="https://es.khanacademy.org/" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/Khan%20Academy-14BF96?logo=khan-academy&logoColor=white&style=for-the-badge">
+      <source media="(prefers-color-scheme: light)" srcset="https://custom-icon-badges.demolab.com/badge/Khan%20Academy-0A2A66?logo=khan-academy-color&style=for-the-badge">
+      <img alt="Khan Academy" title="Khan Academy" src="https://custom-icon-badges.demolab.com/badge/Khan%20Academy-0A2A66?logo=khan-academy-color&style=for-the-badge">
+    </picture></a>
+  
+  <!--- Platzi --->
+  <a href="https://platzi.com/" target="_blank" rel="noreferrer">
+      <img alt="Platzi" title="Platzi" src="https://img.shields.io/badge/Platzi-233453?logo=platzi&logoColor=97C93E&style=for-the-badge"></a>
+  
+  <!--- Udemy --->
+  <a href="https://www.udemy.com/" target="_blank" rel="noreferrer">
+      <img alt="Udemy" title="Udemy" src="https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff&style=for-the-badge"></a>
 </p>
 
 
