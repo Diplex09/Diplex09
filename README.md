@@ -521,7 +521,11 @@
   
   <!--- Miro --->
   <a href="https://miro.com/" target="_blank" rel="noreferrer">
-      <img alt="Miro" title="Miro" src="https://custom-icon-badges.demolab.com/badge/Miro-050038?logo=miro-color&style=for-the-badge"></a>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/Miro-FFD02F?logo=miro-color&style=for-the-badge">
+      <source media="(prefers-color-scheme: light)" srcset="https://custom-icon-badges.demolab.com/badge/Miro-050038?logo=miro-color&style=for-the-badge">
+      <img alt="Miro" title="Miro" src="https://custom-icon-badges.demolab.com/badge/Miro-050038?logo=miro-color&style=for-the-badge">
+    </picture></a>
   
   <!--- Paint.net --->
   <a href="https://www.getpaint.net/" target="_blank" rel="noreferrer">
