@@ -435,7 +435,11 @@
   
   <!--- Boxy SVG --->
   <a href="https://boxy-svg.com/" target="_blank" rel="noreferrer">
-      <img alt="Boxy SVG" title="Boxy SVG" src="https://custom-icon-badges.demolab.com/badge/Boxy%20SVG-242424?logo=boxy-svg-color&style=for-the-badge"></a>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/Boxy%20SVG-3A3A3A?logo=boxy-svg-color&style=for-the-badge">
+      <source media="(prefers-color-scheme: light)" srcset="https://custom-icon-badges.demolab.com/badge/Boxy%20SVG-242424?logo=boxy-svg-color&style=for-the-badge">
+      <img alt="Boxy SVG" title="Boxy SVG" src="https://custom-icon-badges.demolab.com/badge/Boxy%20SVG-3A3A3A?logo=boxy-svg-color&style=for-the-badge"></a>
+    </picture></a>
   
   <!--- Chocolatey --->
   <a href="https://chocolatey.org/" target="_blank" rel="noreferrer">
@@ -678,7 +682,7 @@
   <p align="center">
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph" target="_blank" rel="noreferrer">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://activity-graph.herokuapp.com/graph?username=Diplex09&material-palenight&custom_title=My%20Contribution%20Graph">
+        <source media="(prefers-color-scheme: dark)" srcset="https://activity-graph.herokuapp.com/graph?username=Diplex09&theme=material-palenight&custom_title=My%20Contribution%20Graph">
         <source media="(prefers-color-scheme: light)" srcset="https://activity-graph.herokuapp.com/graph?username=Diplex09&theme=github-light&custom_title=My%20Contribution%20Graph">
         <img alt="https://activity-graph.herokuapp.com/graph?username=Diplex09&theme=tokyo-night&custom_title=My%20Contribution%20Graph">
       </picture></a>
