@@ -519,6 +519,10 @@
   <a href="https://mirillis.com/es/productos/action-grabacion-de-pantalla-y-videojuegos.html" target="_blank" rel="noreferrer">
       <img alt="Mirillis Action!" title="Mirillis Action!" src="https://custom-icon-badges.demolab.com/badge/Mirillis%20Action!-282828?logo=action-mirilis&style=for-the-badge"></a>
   
+  <!--- Miro --->
+  <a href="https://miro.com/" target="_blank" rel="noreferrer">
+      <img alt="Miro" title="Miro" src="https://custom-icon-badges.demolab.com/badge/Miro-050038?logo=miro-color&style=for-the-badge"></a>
+  
   <!--- Paint.net --->
   <a href="https://www.getpaint.net/" target="_blank" rel="noreferrer">
       <img alt="Paint.net" title="Paint.net" src="https://custom-icon-badges.demolab.com/badge/Paint.net-658ED5?logo=paint.net&style=for-the-badge"></a>
@@ -534,6 +538,18 @@
       <source media="(prefers-color-scheme: light)" srcset="https://custom-icon-badges.demolab.com/badge/Surfshark-178A9E?logo=surfshark&style=for-the-badge">
       <img alt="Surfshark" title="Surfshark" src="https://custom-icon-badges.demolab.com/badge/Surfshark-178A9E?logo=surfshark&style=for-the-badge">
     </picture></a>
+  
+  <!--- Trello --->
+  <a href="https://trello.com/en" target="_blank" rel="noreferrer">
+      <img alt="Trello" title="Trello" src="https://img.shields.io/badge/Trello-1A74EF?logo=trello&logoColor=fff&style=for-the-badge"></a>
+  
+  <!--- Wolfram Alpha --->
+  <a href="https://www.wolframalpha.com/" target="_blank" rel="noreferrer">
+      <img alt="Wolfram Alpha" title="Wolfram Alpha" src="https://custom-icon-badges.demolab.com/badge/Wolfram%20Alpha-DD1100?logo=wolfram-alpha-color&style=for-the-badge"></a>
+  
+  <!--- XAMPP --->
+  <a href="https://www.apachefriends.org/es/index.html" target="_blank" rel="noreferrer">
+      <img alt="XAMPP" title="Wolfram Alpha" src="https://img.shields.io/badge/XAMPP-FB7A24?logo=xampp&logoColor=fff&style=for-the-badge"></a>
 </p>
 
 
