@@ -1,6 +1,6 @@
-<p align="center">
-  # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" height="35px">, I'm Aldo Degollado
-</p>
+<h1 align="center">
+  Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" height="35px">, I'm Aldo Degollado
+</h1>
 
 <h3 align="center">
   A passionate videogame developer from Mexico.
