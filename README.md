@@ -1,6 +1,6 @@
-<h1 align="center">
-  Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" height="35px">, I'm Aldo Degollado
-</h1>
+<p align="center">
+  # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" height="35px">, I'm Aldo Degollado
+</p>
 
 <h3 align="center">
   A passionate videogame developer from Mexico.
@@ -21,10 +21,7 @@
 <br>
 
 
-
-<h2 align="left">
-  🗣️ Connect with me: 
-</h2>
+## 🗣️ Connect with me: 
 
 <p align="center">
   <!--- Mail --->
@@ -62,9 +59,7 @@
 </p>
 
 
-<h2 align="left">
-  💻 Programming, scripting and markup languages:
-</h2>
+## 💻 Programming, scripting and markup languages:
 
 <p align="center">
   <!--- C++ --->
@@ -183,13 +178,10 @@
 </p>
 
 
-<h2 align="left">
-  🛠️ My favorite tools:
-</h2>
+## 🛠️ My favorite tools:
 
-<h3 align="left">
-  🧰 Frameworks and libraries
-</h3>
+
+### 🧰 Frameworks and libraries
   
 <p align="center">  
   <!--- Flask --->
@@ -253,9 +245,7 @@
     </picture></a>
 </p>
 
-<h3 align="left">
-  🗄️ Databases, cloud storage and cloud hosting
-</h3>
+### 🗄️ Databases, cloud storage and cloud hosting
 
 <p align="center">
   <!--- Dropbox --->
@@ -307,10 +297,7 @@
     <img alt="PostgreSQL" title="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" /></a>
 </p>
 
-
-<h3 align="left">
-  ⌨️ IDEs, editors and game engines
-</h3>
+### ⌨️ IDEs, editors and game engines
 
 <p align="center">
   <!--- Apache NetBeans --->
@@ -391,9 +378,7 @@
 </p>
 
 
-<h3 align="left">
-  💽 Product and version control
-</h3>
+### 💽 Product and version control
   
 <p align="center">
   <!--- Docker --->
@@ -433,12 +418,13 @@
     </picture></a>
 </p>
 
-
-<h3 align="left">
-  🖥️ Other software and technologies
-</h3>
+### 🖥️ Other software and technologies
   
 <p align="center">
+  <!--- Adobe Acrobat Reader --->
+  <a href="https://www.adobe.com/acrobat/pdf-reader.html" target="_blank" rel="noreferrer">
+      <img alt="Adobe Acrobat Reader" title="Adobe Acrobat Reader" src="https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24?logo=adobeacrobatreader&logoColor=fff&style=for-the-badge"></a>
+  
   <!--- Adobe Substance 3D Painter --->
   <a href="https://www.substance3d.com/" target="_blank" rel="noreferrer">
       <img alt="Adobe Substance 3D Painter" title="Adobe Substance 3D Painter" src="https://custom-icon-badges.demolab.com/badge/Adobe%20Substance%203D%20Painter-99E83F?logo=adobe-substance-3d-painter&style=for-the-badge"></a>
@@ -446,6 +432,10 @@
   <!--- Autodesk Maya --->
   <a href="https://www.autodesk.com/products/maya/overview" target="_blank" rel="noreferrer">
       <img alt="Autodesk Maya" title="Autodesk Maya" src="https://custom-icon-badges.demolab.com/badge/Autodesk%20Maya-02AAAB?logo=autodesk-maya-logo&style=for-the-badge"></a>
+  
+  <!--- Boxy SVG --->
+  <a href="https://boxy-svg.com/" target="_blank" rel="noreferrer">
+      <img alt="Boxy SVG" title="Boxy SVG" src="https://custom-icon-badges.demolab.com/badge/Boxy%20SVG-242424?logo=boxy-svg-color&style=for-the-badge"></a>
   
   <!--- Chocolatey --->
   <a href="https://chocolatey.org/" target="_blank" rel="noreferrer">
@@ -588,10 +578,7 @@
       <img alt="Zoom" title="Zoom" src="https://custom-icon-badges.demolab.com/badge/Zoom-39394D?logo=zoom-color&style=for-the-badge"></a>
 </p>
 
-
-<h3 align="left">
-  📚 Learning platforms
-</h3>
+### 📚 Learning platforms
 
 <p align="center">
   <!--- Coursera --->
@@ -640,9 +627,7 @@
 </p>
 
 
-<h2 align="left">
-  :octocat: My GitHub Stats:
-</h2>
+## :octocat: My GitHub Stats:
 
 <details>
   <summary>📊 General Stats</summary>
@@ -690,9 +675,14 @@
 
 <details>
 <summary>📈 Contribution Graph</summary>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="github activity graph" src="https://activity-graph.herokuapp.com/graph?username=Diplex09&theme=tokyo-night" />
-</a>
+  <p align="center">
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph" target="_blank" rel="noreferrer">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://activity-graph.herokuapp.com/graph?username=Diplex09&material-palenight&custom_title=My%20Contribution%20Graph">
+        <source media="(prefers-color-scheme: light)" srcset="https://activity-graph.herokuapp.com/graph?username=Diplex09&theme=github-light&custom_title=My%20Contribution%20Graph">
+        <img alt="https://activity-graph.herokuapp.com/graph?username=Diplex09&theme=tokyo-night&custom_title=My%20Contribution%20Graph">
+      </picture></a>
+    </p>
 </details>
 
 <details>
@@ -709,10 +699,7 @@
 <br>
 
 
-
-<h2 align="left">
-  🐍 Daily contribution graph:
-</h2>
+## 🐍 Daily contribution graph:
 
 <p align="center">
   <img align="center" img alt="Snake eating contribution graph" title="Snake eating contribution graph" src="https://raw.githubusercontent.com/diplex09/diplex09/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
