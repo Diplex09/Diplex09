@@ -182,14 +182,14 @@
 
 
 ### 🧰 Frameworks and libraries
-  
-<p align="center">  
+
+<p align="center">
   <!--- Flask --->
   <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Flask-fff?logo=flask&logoColor=black&style=for-the-badge">
       <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge">
-      <img alt="Flask" title="Flask" src="https://custom-icon-badges.demolab.com/badge/Material%20UI-007FFF.svg?logo=materialui&logoColor=white&style=for-the-badge">
+      <img alt="Flask" title="Flask" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge">
     </picture></a>
   
   <!--- GitHub Actions --->
