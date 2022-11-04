@@ -10,20 +10,7 @@ jobs:
     permissions:
       contents: write
     steps:
-          
-      - name: WakaTime
-        uses: lowlighter/metrics@latest
-        with:
-          filename: wakatime.svg
-          token: NOT_NEEDED
-          base: ""
-          output_action: gist
-          committer_gist: ${{ secrets.GIST_TOKEN }}
-          plugin_wakatime: yes
-          plugin_wakatime_user: "Diplex"
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
-          
+              
       - name: General
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
@@ -170,3 +157,16 @@ jobs:
           plugin_music_mode: recent
           plugin_music_token: ${{ secrets.METRICS_SPOTIFY_TOKENS }}
           plugin_music_limit: 10
+          
+      - name: WakaTime
+        uses: lowlighter/metrics@latest
+        with:
+          filename: wakatime.svg
+          token: NOT_NEEDED
+          base: ""
+          output_action: gist
+          committer_gist: ${{ secrets.GIST_TOKEN }}
+          plugin_wakatime: yes
+          plugin_wakatime_user: "Diplex"
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
