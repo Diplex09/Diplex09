@@ -25,11 +25,12 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_languages: yes
+          plugin_languages_limit: 8
           plugin_languages_ignored: jupyter notebook, html, makefile
-          plugin_languages_details: lines, bytes-size, percentage
+          plugin_languages_details: bytes-size, percentage
           plugin_languages_sections: most-used, recently-used
-          plugin_languages_indepth: yes
-          plugin_languages_limit: 2
+          plugin_languages_analysis_timeout: 60
+          plugin_languages_analysis_timeout_repositories: 15
           
       - name: Achievements
         if: ${{ success() || failure() }}
@@ -43,9 +44,6 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_fortune: yes
-          plugin_wakatime: yes
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           
       - name: Recent activity
         if: ${{ success() || failure() }}
@@ -118,6 +116,9 @@ jobs:
           plugin_habits_charts: yes
           plugin_habits_charts_type: charlist
           config_timezone: America/Mexico_City
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           
       - name: Repositories and diff history
         uses: lowlighter/metrics@latest
