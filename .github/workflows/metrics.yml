@@ -69,32 +69,21 @@ jobs:
           plugin_calendar: yes
           plugin_calendar_limit: 0
           
-      - name: Issues and pull requests analysis
+      - name: Issues and pull requests opened on my repositories
         uses: lowlighter/metrics@latest
         with:
-          filename: issuesAndPullRequests.svg
+          filename: issuesAndPullRequestsOnMyRepositories.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           output_action: gist
           committer_gist: ${{ secrets.GIST_TOKEN }}
           plugin_followup: yes
           plugin_followup_indepth: yes
-          plugin_followup_sections: user
           
-      - name: Opened on user's repositories
+      - name: Issues and pull requests opened by me
         uses: lowlighter/metrics@latest
         with:
-          filename: followup.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          output_action: gist
-          committer_gist: ${{ secrets.GIST_TOKEN }}
-          plugin_followup: yes
-          
-      - name: Opened by user
-        uses: lowlighter/metrics@latest
-        with:
-          filename: followupUser.svg
+          filename: issuesAndPullRequestsByMe.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           output_action: gist
