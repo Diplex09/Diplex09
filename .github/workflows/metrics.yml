@@ -19,7 +19,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, community, repositories, metadata
           base_indepth: yes
-          config_order: base, people, isocalendar, languages, repositories, projects
+          config_order: base.header, base.activity, base.community, base.repositories, base.metadata, people, isocalendar, languages, repositories, projects
           output_action: gist
           committer_gist: ${{ secrets.GIST_TOKEN }}
           plugin_isocalendar: yes
@@ -30,7 +30,6 @@ jobs:
           plugin_languages_details: bytes-size, percentage
           plugin_languages_sections: most-used, recently-used
           plugin_languages_analysis_timeout: 60
-          plugin_languages_analysis_timeout_repositories: 15
           plugin_people: yes
           plugin_people_types: followers
           plugin_repositories: yes
