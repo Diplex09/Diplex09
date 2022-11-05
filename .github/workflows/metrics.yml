@@ -44,6 +44,9 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_fortune: yes
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           
       - name: Recent activity
         if: ${{ success() || failure() }}
@@ -129,15 +132,3 @@ jobs:
           plugin_lines_sections: repositories, history
           plugin_lines_repositories_limit: 6
           plugin_lines_history_limit: 1
-          
-      - name: WakaTime
-        uses: lowlighter/metrics@latest
-        with:
-          filename: wakatime.svg
-          token: NOT_NEEDED
-          base: ""
-          output_action: gist
-          committer_gist: ${{ secrets.GIST_TOKEN }}
-          plugin_wakatime: yes
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
