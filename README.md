@@ -700,6 +700,33 @@
   </p>
 </details>
 
+<details>
+  <summary>📐 Metrics</summary> 
+    <table>
+      <tr>
+        <th align="center">General</th>
+        <th align="center">For organization accounts</th>
+      </tr>
+      <tr>
+        <td align="center">
+          <img alt="" width="400" src="https://gist.github.com/Diplex09/817476bdcd67c428c567315117176fa6/raw/general.svg" alt=""></img>
+        </td>
+        <td align="center">
+          <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.organization.svg" alt=""></img>
+        </td>
+      </tr>
+      <tr>
+        <th colspan="2" align="center">
+          <h3><a href="/README.md#-plugins">🧩 Customizable with 42 plugins and 300 options!</a></h3>
+        </th>
+      </tr>
+      <tr>
+        <th><a href="source/plugins/isocalendar/README.md">📅 Isometric commit calendar</a></th>
+        <th><a href="source/plugins/languages/README.md">🈷️ Languages activity</a></th>
+      </tr>
+    </table>
+</details>
+
 <br>
 
 
