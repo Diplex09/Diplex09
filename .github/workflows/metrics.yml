@@ -139,6 +139,5 @@ jobs:
           output_action: gist
           committer_gist: ${{ secrets.GIST_TOKEN }}
           plugin_wakatime: yes
-          plugin_wakatime_user: "Diplex"
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
