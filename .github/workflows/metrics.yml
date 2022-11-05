@@ -55,7 +55,7 @@ jobs:
           output_action: gist
           committer_gist: ${{ secrets.GIST_TOKEN }}
           plugin_activity: yes
-          plugin_activity_limit: 15
+          plugin_activity_limit: 10
           plugin_activity_days: 14
 
       - name: Full history calendar
@@ -69,16 +69,17 @@ jobs:
           plugin_calendar: yes
           plugin_calendar_limit: 0
           
-      - name: Indepth analysis
+      - name: Issues and pull requests analysis
         uses: lowlighter/metrics@latest
         with:
-          filename: followupIndepth.svg
+          filename: issuesAndPullRequests.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           output_action: gist
           committer_gist: ${{ secrets.GIST_TOKEN }}
           plugin_followup: yes
           plugin_followup_indepth: yes
+          plugin_followup_sections: user
           
       - name: Opened on user's repositories
         uses: lowlighter/metrics@latest
@@ -101,7 +102,7 @@ jobs:
           plugin_followup: yes
           plugin_followup_sections: user
           
-      - name: Mildly interesting facts
+      - name: Coding habits
         uses: lowlighter/metrics@latest
         with:
           filename: habitsFacts.svg
