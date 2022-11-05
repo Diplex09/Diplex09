@@ -28,9 +28,8 @@ jobs:
           plugin_languages_ignored: jupyter notebook, html, makefile
           plugin_languages_details: lines, bytes-size, percentage
           plugin_languages_sections: most-used, recently-used
-          plugin_languages_limit: 8
-          plugin_languages_analysis_timeout: 60
-          plugin_languages_analysis_timeout_repositories: 15
+          plugin_languages_indepth: yes
+          plugin_languages_limit: 2
           
       - name: Achievements
         if: ${{ success() || failure() }}
