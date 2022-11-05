@@ -19,7 +19,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, community, repositories, metadata
           base_indepth: yes
-          config_order: base.header, isocalendar, languages
+          config_order: base.header, isocalendar, languages, people
           output_action: gist
           committer_gist: ${{ secrets.GIST_TOKEN }}
           plugin_isocalendar: yes
@@ -31,7 +31,21 @@ jobs:
           plugin_languages_sections: most-used, recently-used
           plugin_languages_analysis_timeout: 60
           plugin_languages_analysis_timeout_repositories: 15
+          plugin_people: yes
+          plugin_people_types: followers
           
+      - name: Pinned repositories
+        uses: lowlighter/metrics@latest
+        with:
+          filename: repositoriesPinned.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_repositories: yes
+          plugin_repositories_pinned: 6
+          plugin_projects: yes
+          plugin_projects_repositories: Diplex09/projects/1
+          plugin_projects_descriptions: yes
+
       - name: Achievements
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
