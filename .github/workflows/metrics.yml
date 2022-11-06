@@ -10,36 +10,6 @@ jobs:
     permissions:
       contents: write
     steps:
-    
-      - name: Licenses and permissions
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
-        with:
-          filename: licenses.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          output_action: gist
-          committer_gist: ${{ secrets.GIST_TOKEN }}
-          base: ""
-          template: repository
-          repo: computational-methods
-          plugin_licenses: yes
-          plugin_licenses_setup: bash -c '[[ -f package.json ]] && npm ci || true'
-          
-      - name: Licenses with open-source ratio graphs
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
-        with:
-          filename: licensesRatio.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          output_action: gist
-          committer_gist: ${{ secrets.GIST_TOKEN }}
-          base: ""
-          template: repository
-          repo: computational-methods
-          plugin_licenses: yes
-          plugin_licenses_setup: bash -c '[[ -f package.json ]] && npm ci || true'
-          plugin_licenses_legal: no
-          plugin_licenses_ratio: yes
   
       - name: General
         if: ${{ success() || failure() }}
@@ -143,7 +113,7 @@ jobs:
       - name: Coding habits
         uses: lowlighter/metrics@latest
         with:
-          filename: habitsFacts.svg
+          filename: habitsAndFacts.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           output_action: gist
