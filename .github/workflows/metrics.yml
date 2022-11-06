@@ -108,7 +108,7 @@ jobs:
           plugin_projects: yes
           plugin_projects_descriptions: yes
 
-      - name: Achievements
+      - name: Achievements compact
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
@@ -119,6 +119,18 @@ jobs:
           committer_gist: ${{ secrets.GIST_TOKEN }}
           plugin_achievements: yes
           plugin_achievements_display: compact
+          
+      - name: Achievements detailed
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: achievements.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          output_action: gist
+          committer_gist: ${{ secrets.GIST_TOKEN }}
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
           
       - name: Fortune
         if: ${{ success() || failure() }}
