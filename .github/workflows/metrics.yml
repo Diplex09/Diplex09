@@ -244,6 +244,7 @@ jobs:
           committer_gist: ${{ secrets.GIST_TOKEN }}
           plugin_music: yes
           plugin_music_playlist: https://open.spotify.com/embed/playlist/6mjZMbWerfNjjqj2LuCJxV
+          plugin_music_limit: 10
           
       - name: Spotify top tracks last month
         uses: lowlighter/metrics@latest
