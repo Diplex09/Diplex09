@@ -10,37 +10,6 @@ jobs:
     permissions:
       contents: write
     steps:
-    
-      - name: GitHub Skyline
-        uses: lowlighter/metrics@latest
-        with:
-          filename: skyline.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          output_action: gist
-          committer_gist: ${{ secrets.GIST_TOKEN }}
-          base: ""
-          plugin_skyline: yes
-          plugin_skyline_frames: 60
-          plugin_skyline_quality: 1
-          
-      - name: GitHub City
-        uses: lowlighter/metrics@latest
-        with:
-          filename: skylineCity.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          output_action: gist
-          committer_gist: ${{ secrets.GIST_TOKEN }}
-          base: ""
-          plugin_skyline: yes
-          plugin_skyline_frames: 60
-          plugin_skyline_quality: 1
-          plugin_skyline_settings: |
-            {
-              "url": "https://honzaap.github.io/GithubCity?name=${login}&year=${year}",
-              "ready": "[...document.querySelectorAll('.display-info span')].map(span => span.innerText).includes('${login}')",
-              "wait": 4,
-              "hide": ".github-corner, .footer-link, .buttons-options, .mobile-rotate, .display-info span:first-child"
-            }
 
       - name: General
         if: ${{ success() || failure() }}
@@ -83,6 +52,37 @@ jobs:
           plugin_languages_details: bytes-size, percentage
           plugin_languages_sections: most-used, recently-used
           plugin_languages_analysis_timeout: 60
+          
+      - name: GitHub Skyline
+        uses: lowlighter/metrics@latest
+        with:
+          filename: skyline.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          output_action: gist
+          committer_gist: ${{ secrets.GIST_TOKEN }}
+          base: ""
+          plugin_skyline: yes
+          plugin_skyline_frames: 60
+          plugin_skyline_quality: 1
+          
+      - name: GitHub City
+        uses: lowlighter/metrics@latest
+        with:
+          filename: skylineCity.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          output_action: gist
+          committer_gist: ${{ secrets.GIST_TOKEN }}
+          base: ""
+          plugin_skyline: yes
+          plugin_skyline_frames: 60
+          plugin_skyline_quality: 1
+          plugin_skyline_settings: |
+            {
+              "url": "https://honzaap.github.io/GithubCity?name=${login}&year=${year}",
+              "ready": "[...document.querySelectorAll('.display-info span')].map(span => span.innerText).includes('${login}')",
+              "wait": 4,
+              "hide": ".github-corner, .footer-link, .buttons-options, .mobile-rotate, .display-info span:first-child"
+            }
           
       - name: Pinned repositories
         if: ${{ success() || failure() }}
@@ -143,9 +143,6 @@ jobs:
           plugin_activity: yes
           plugin_activity_limit: 10
           plugin_activity_days: 14
-          plugin_notable: yes
-          plugin_notable_indepth: yes
-          plugin_notable_repositories: yes
           
       - name: Notable contributions
         if: ${{ success() || failure() }}
