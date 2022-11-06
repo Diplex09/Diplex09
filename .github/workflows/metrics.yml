@@ -10,56 +10,6 @@ jobs:
     permissions:
       contents: write
     steps:
-    
-      - name: Spotify recent
-        uses: lowlighter/metrics@latest
-        with:
-          filename: spotifyRecent.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          output_action: gist
-          committer_gist: ${{ secrets.GIST_TOKEN }}
-          plugin_music: yes
-          plugin_music_provider: spotify
-          plugin_music_user: aldodegollado
-          plugin_music_mode: recent
-          plugin_music_token: ${{ secrets.METRICS_SPOTIFY_TOKENS }}
-          plugin_music_limit: 20
-          
-      - name: Spotify top tracks
-        uses: lowlighter/metrics@latest
-        with:
-          filename: spotifyTopTrakcs.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          output_action: gist
-          committer_gist: ${{ secrets.GIST_TOKEN }}
-          plugin_music: yes
-          plugin_music_provider: spotify
-          plugin_music_user: aldodegollado
-          plugin_music_mode: top
-          plugin_music_token: ${{ secrets.METRICS_SPOTIFY_TOKENS }}
-          plugin_music_limit: 20
-          plugin_music_time_range: short
-          plugin_music_top_type: tracks
-          plugin_music_played_at: true
-          
-      - name: Spotify top artists
-        uses: lowlighter/metrics@latest
-        with:
-          filename: spotifyTopArtists.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          output_action: gist
-          committer_gist: ${{ secrets.GIST_TOKEN }}
-          plugin_music: yes
-          plugin_music_provider: spotify
-          plugin_music_user: aldodegollado
-          plugin_music_mode: top
-          plugin_music_token: ${{ secrets.METRICS_SPOTIFY_TOKENS }}
-          plugin_music_limit: 20
-          plugin_music_time_range: short
-          plugin_music_top_type: artists
   
       - name: General
         if: ${{ success() || failure() }}
@@ -74,12 +24,6 @@ jobs:
           committer_gist: ${{ secrets.GIST_TOKEN }}
           plugin_people: yes
           plugin_people_types: followers
-          plugin_music: yes
-          plugin_music_provider: spotify
-          plugin_music_user: aldodegollado
-          plugin_music_mode: recent
-          plugin_music_token: ${{ secrets.METRICS_SPOTIFY_TOKENS }}
-          plugin_music_limit: 20
           
       - name: Contributions
         if: ${{ success() || failure() }}
@@ -181,9 +125,6 @@ jobs:
           plugin_habits_charts: yes
           plugin_habits_charts_type: charlist
           config_timezone: America/Mexico_City
-          plugin_wakatime: yes
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           
       - name: Repositories and diff history
         uses: lowlighter/metrics@latest
@@ -197,3 +138,135 @@ jobs:
           plugin_lines_sections: repositories, history
           plugin_lines_repositories_limit: 6
           plugin_lines_history_limit: 1
+          
+      - name: Spotify recent
+        uses: lowlighter/metrics@latest
+        with:
+          filename: spotifyRecent.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          output_action: gist
+          committer_gist: ${{ secrets.GIST_TOKEN }}
+          plugin_music: yes
+          plugin_music_provider: spotify
+          plugin_music_user: aldodegollado
+          plugin_music_mode: recent
+          plugin_music_token: ${{ secrets.METRICS_SPOTIFY_TOKENS }}
+          plugin_music_limit: 20
+          
+      - name: Spotify top tracks last month
+        uses: lowlighter/metrics@latest
+        with:
+          filename: spotifyTopTrakcsLastMonth.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          output_action: gist
+          committer_gist: ${{ secrets.GIST_TOKEN }}
+          plugin_music: yes
+          plugin_music_provider: spotify
+          plugin_music_user: aldodegollado
+          plugin_music_mode: top
+          plugin_music_token: ${{ secrets.METRICS_SPOTIFY_TOKENS }}
+          plugin_music_limit: 20
+          plugin_music_time_range: short
+          plugin_music_top_type: tracks
+          plugin_music_played_at: true
+          
+      - name: Spotify top tracks last half year
+        uses: lowlighter/metrics@latest
+        with:
+          filename: spotifyTopTrakcsLastHalfYear.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          output_action: gist
+          committer_gist: ${{ secrets.GIST_TOKEN }}
+          plugin_music: yes
+          plugin_music_provider: spotify
+          plugin_music_user: aldodegollado
+          plugin_music_mode: top
+          plugin_music_token: ${{ secrets.METRICS_SPOTIFY_TOKENS }}
+          plugin_music_limit: 20
+          plugin_music_time_range: medium
+          plugin_music_top_type: tracks
+          plugin_music_played_at: true
+          
+      - name: Spotify top tracks all time
+        uses: lowlighter/metrics@latest
+        with:
+          filename: spotifyTopTrakcsAllTime.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          output_action: gist
+          committer_gist: ${{ secrets.GIST_TOKEN }}
+          plugin_music: yes
+          plugin_music_provider: spotify
+          plugin_music_user: aldodegollado
+          plugin_music_mode: top
+          plugin_music_token: ${{ secrets.METRICS_SPOTIFY_TOKENS }}
+          plugin_music_limit: 20
+          plugin_music_time_range: long
+          plugin_music_top_type: tracks
+          plugin_music_played_at: true
+          
+      - name: Spotify top artists last month
+        uses: lowlighter/metrics@latest
+        with:
+          filename: spotifyTopArtistsMonth.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          output_action: gist
+          committer_gist: ${{ secrets.GIST_TOKEN }}
+          plugin_music: yes
+          plugin_music_provider: spotify
+          plugin_music_user: aldodegollado
+          plugin_music_mode: top
+          plugin_music_token: ${{ secrets.METRICS_SPOTIFY_TOKENS }}
+          plugin_music_limit: 20
+          plugin_music_time_range: short
+          plugin_music_top_type: artists
+          
+      - name: Spotify top artists last half year
+        uses: lowlighter/metrics@latest
+        with:
+          filename: spotifyTopArtistsHalfYear.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          output_action: gist
+          committer_gist: ${{ secrets.GIST_TOKEN }}
+          plugin_music: yes
+          plugin_music_provider: spotify
+          plugin_music_user: aldodegollado
+          plugin_music_mode: top
+          plugin_music_token: ${{ secrets.METRICS_SPOTIFY_TOKENS }}
+          plugin_music_limit: 20
+          plugin_music_time_range: medium
+          plugin_music_top_type: artists
+          
+      - name: Spotify top artists all time
+        uses: lowlighter/metrics@latest
+        with:
+          filename: spotifyTopArtistsAllTime.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          output_action: gist
+          committer_gist: ${{ secrets.GIST_TOKEN }}
+          plugin_music: yes
+          plugin_music_provider: spotify
+          plugin_music_user: aldodegollado
+          plugin_music_mode: top
+          plugin_music_token: ${{ secrets.METRICS_SPOTIFY_TOKENS }}
+          plugin_music_limit: 20
+          plugin_music_time_range: long
+          plugin_music_top_type: artists
+          
+      - name: Wakatime stats
+        uses: lowlighter/metrics@latest
+        with:
+          filename: wakatime.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          output_action: gist
+          committer_gist: ${{ secrets.GIST_TOKEN }}
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
