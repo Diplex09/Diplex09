@@ -12,6 +12,7 @@ jobs:
     steps:
     
       - name: Licenses and permissions
+        uses: lowlighter/metrics@latest
         with:
           filename: licenses.svg
           token: ${{ secrets.METRICS_TOKEN }}
