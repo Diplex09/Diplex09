@@ -634,7 +634,7 @@
 ## :octocat: My GitHub Stats:
 
 <details>
-  <summary>📊 General Stats</summary>
+  <summary align="center">📊 General Stats</summary>
   <p align="center">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=diplex09&show_icons=true&locale=en&theme=tokyonight">
@@ -645,16 +645,21 @@
 </details>
 
 <details>
-  <summary>🧬 3D Stats</summary> 
+  <summary align="center">🧬 3D Stats</summary> 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg">
     <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season-animate.svg">
     <img alt="3D contribution stats" title="3D contribution graph" src="./profile-3d-contrib/profile-season-animate.svg" />
   </picture>
+  <p align="center" >
+    <a href="https://github.com/Diplex09/Diplex09/actions/workflows/profile-3d.yml">
+      <img src="https://github.com/Diplex09/Diplex09/actions/workflows/profile-3d.yml/badge.svg" alt="3D contribution graph CI status" title="3D contribution graph">
+    </a>
+  </p>
 </details>
 
 <details>
-  <summary>💼 Top languages</summary>
+  <summary align="center">💼 Top languages</summary>
   <p align="center">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=diplex09&layout=compact&langs_count=10&theme=tokyonight&hide=jupyter+notebook%2chtml%2cmakefile">
@@ -667,7 +672,7 @@
 </details> 
  
 <details> 
-  <summary> :fire: Streak stats</summary>
+  <summary align="center"> :fire: Streak stats</summary>
   <p align="center">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=diplex09&theme=tokyonight">
@@ -678,7 +683,7 @@
 </details>
 
 <details>
-<summary>📈 Contribution Graph</summary>
+<summary align="center">📈 Contribution Graph</summary>
   <p align="center">
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph" target="_blank" rel="noreferrer">
       <picture>
@@ -690,7 +695,7 @@
 </details>
 
 <details>
-  <summary>🏆 Achievements</summary>
+  <summary align="center">🏆 Achievements</summary>
   <p align="center">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=diplex09&theme=nord">
@@ -701,7 +706,7 @@
 </details>
 
 <details>
-  <summary>📐 Metrics</summary> 
+  <summary align="center">📐 Metrics</summary> 
   <table align="center">
     <th colspan="2" align="center">
         <h3>🌎 Overall stats</h3>
@@ -846,16 +851,19 @@
     </tr>
     <tr>
       <td align="center">
-        <img alt="Achievements" width="400" src="https://gist.github.com/Diplex09/817476bdcd67c428c567315117176fa6/raw/achievements.svg"></img>
+        <img alt="Achievements" width="400" src="https://gist.github.com/Diplex09/817476bdcd67c428c567315117176fa6/raw/achievementsDetailed.svg"></img>
       </td>
       <td align="center">
         <img alt="Your fortune" width="400" src="https://gist.github.com/Diplex09/817476bdcd67c428c567315117176fa6/raw/fortune.svg"></img>
       </td>
     </tr>
   </table>
+  <p align="center" >
+    <a href="https://github.com/Diplex09/Diplex09/actions/workflows/metrics.yml">
+      <img src="https://github.com/Diplex09/Diplex09/actions/workflows/metrics.yml/badge.svg" alt="Metrics CI status" title="Metrics">
+    </a>
+  </p>
 </details>
-
-<br>
 
 
 ## 🐍 Daily contribution graph:
@@ -864,8 +872,13 @@
   <img align="center" img alt="Snake eating contribution graph" title="Snake eating contribution graph" src="https://raw.githubusercontent.com/diplex09/diplex09/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
   <img align="center" img alt="Snake eating contribution graph" title="Snake eating contribution graph" src="https://raw.githubusercontent.com/diplex09/diplex09/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
 </p>
+<p align="center" >
+  <a href="https://github.com/Diplex09/Diplex09/actions/workflows/snake-animation.yml">
+    <img src="https://github.com/Diplex09/Diplex09/actions/workflows/snake-animation.yml/badge.svg" alt="Snake animation CI status" title="Snake animation">
+  </a>
+</p>
 
-
+<!--- 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Aldo+%F0%9F%91%8B;I'm+a+mexican+game+developer+%F0%9F%8E%AE;I+support+Cruz+Azul+%F0%9F%92%99)](https://git.io/typing-svg)
 <br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Sans+Pro&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hi!+I'm+Aldo+%F0%9F%91%8B;I'm+a+mexican+%F0%9F%91%BE+game+developer+%F0%9F%8E%AE;I'm+a+computer+science+student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I'm+a+big+soccer+fan+%E2%9A%BD;I+love+challenges!+%F0%9F%8F%86)](https://git.io/typing-svg)
@@ -881,3 +894,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hi!+I'm+Aldo+%F0%9F%91%8B;I'm+Mexican+%F0%9F%8C%AE%F0%9F%87%B2%F0%9F%87%BD;I'm+a+computer+science+student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I'm+a+%F0%9F%91%BE+game+developer+%F0%9F%8E%AE;I'm+a+big+soccer+fan+%E2%9A%BD;I+love+challenges!+%F0%9F%8F%86)](https://git.io/typing-svg)
 <br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arimo&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hi!+I'm+Aldo+%F0%9F%91%8B;I'm+Mexican+%F0%9F%8C%AE%F0%9F%87%B2%F0%9F%87%BD;I'm+a+computer+science+student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I'm+a+%F0%9F%91%BE+game+developer+%F0%9F%8E%AE;I'm+a+big+soccer+fan+%E2%9A%BD;I+love+challenges!+%F0%9F%8F%86)](https://git.io/typing-svg)
+--->
