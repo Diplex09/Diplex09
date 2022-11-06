@@ -12,24 +12,26 @@ jobs:
     steps:
     
       - name: Licenses and permissions
+        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
           filename: licenses.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           template: repository
-          repo: metrics
+          repo: Diplex09
           plugin_licenses: yes
           plugin_licenses_setup: bash -c '[[ -f package.json ]] && npm ci || true'
           
       - name: Licenses with open-source ratio graphs
+        if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
           filename: licensesRatio.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           template: repository
-          repo: metrics
+          repo: Diplex09
           plugin_licenses: yes
           plugin_licenses_setup: bash -c '[[ -f package.json ]] && npm ci || true'
           plugin_licenses_legal: no
