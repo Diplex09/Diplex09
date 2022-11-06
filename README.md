@@ -702,29 +702,60 @@
 
 <details>
   <summary>📐 Metrics</summary> 
-    <table>
-      <tr>
-        <th align="center">General</th>
-        <th align="center">For organization accounts</th>
-      </tr>
-      <tr>
-        <td align="center">
-          <img alt="" width="400" src="https://gist.github.com/Diplex09/817476bdcd67c428c567315117176fa6/raw/general.svg" alt=""></img>
-        </td>
-        <td align="center">
-          <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.organization.svg" alt=""></img>
-        </td>
-      </tr>
-      <tr>
-        <th colspan="2" align="center">
-          <h3><a href="/README.md#-plugins">🧩 Customizable with 42 plugins and 300 options!</a></h3>
-        </th>
-      </tr>
-      <tr>
-        <th><a href="source/plugins/isocalendar/README.md">📅 Isometric commit calendar</a></th>
-        <th><a href="source/plugins/languages/README.md">🈷️ Languages activity</a></th>
-      </tr>
-    </table>
+  <table align="center">
+    <th colspan="2" align="center">
+        <h3>🌎 Overall stats</h3>
+    </th>
+    <tr>
+      <th align="center">🌐 General</th>
+      <th align="center">👨🏼‍💻 Coding habits</th>
+    </tr>
+    <tr>
+      <td align="center">
+        <img alt="General stats" width="400" src="https://gist.github.com/Diplex09/817476bdcd67c428c567315117176fa6/raw/general.svg" alt=""></img>
+      </td>
+      <td align="center">
+        <img alt="Coding habits and facts" width="400" src="https://gist.github.com/Diplex09/817476bdcd67c428c567315117176fa6/raw/habitsAndFacts.svg" alt=""></img>
+      </td>
+    </tr>
+    <tr>
+      <th colspan="2" align="center">
+        <h3>🎶 Spotify</h3>
+      </th>
+    </tr>
+    <tr>
+      <th>▶ Recently played</th>
+      <th>📅 Top tracks of last month</th>
+    </tr>
+    <tr>
+      <td align="center">
+        <img alt="Recently played" width="400" src="https://gist.github.com/Diplex09/817476bdcd67c428c567315117176fa6/raw/spotifyRecent.svg" alt=""></img>
+      </td>
+      <td align="center">
+        <img alt="Top tracks of last month" width="400" src="https://gist.github.com/Diplex09/817476bdcd67c428c567315117176fa6/raw/spotifyTopTracksLastMonth.svg" alt=""></img>
+      </td>
+    </tr>
+    <tr>
+      <th>🎼 Top artists of last month</th>
+      <th>🕺 Top tracks of all time</th>
+    </tr>
+    <tr>
+      <td align="center">
+        <img alt="Top artists of last month" width="400" src="https://gist.github.com/Diplex09/817476bdcd67c428c567315117176fa6/raw/spotifyTopArtistsLastMonth.svg" alt=""></img>
+      </td>
+      <td align="center">
+        <img alt="Top tracks of all time" width="400" src="https://gist.github.com/Diplex09/817476bdcd67c428c567315117176fa6/raw/spotifyTopTracksAllTime.svg" alt=""></img>
+      </td>
+    </tr>
+    <tr>
+      <th>🎧 Top artists of all time</th>
+    </tr>
+    <tr>
+      <td align="center">
+        <img alt="Top artists all time" width="400" src="https://gist.github.com/Diplex09/817476bdcd67c428c567315117176fa6/raw/spotifyTopArtistsAllTime.svg" alt=""></img>
+      </td>
+    </tr>
+  </table>
 </details>
 
 <br>
@@ -753,3 +784,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hi!+I'm+Aldo+%F0%9F%91%8B;I'm+Mexican+%F0%9F%8C%AE%F0%9F%87%B2%F0%9F%87%BD;I'm+a+computer+science+student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I'm+a+%F0%9F%91%BE+game+developer+%F0%9F%8E%AE;I'm+a+big+soccer+fan+%E2%9A%BD;I+love+challenges!+%F0%9F%8F%86)](https://git.io/typing-svg)
 <br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arimo&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hi!+I'm+Aldo+%F0%9F%91%8B;I'm+Mexican+%F0%9F%8C%AE%F0%9F%87%B2%F0%9F%87%BD;I'm+a+computer+science+student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I'm+a+%F0%9F%91%BE+game+developer+%F0%9F%8E%AE;I'm+a+big+soccer+fan+%E2%9A%BD;I+love+challenges!+%F0%9F%8F%86)](https://git.io/typing-svg)
+
+<img align="left" alt="🦑" src="https://gist.github.com/Diplex09/817476bdcd67c428c567315117176fa6/raw/skyline.svg">
+<img align="right" alt="🦑" src="https://gist.github.com/Diplex09/817476bdcd67c428c567315117176fa6/raw/skylineCity.svg">
