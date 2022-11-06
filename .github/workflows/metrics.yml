@@ -25,26 +25,55 @@ jobs:
           plugin_people: yes
           plugin_people_types: followers
           
-      - name: Contributions
+      - name: Isocalendar
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
-          filename: contributions.svg
+          filename: isocalendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          config_order: isocalendar, languages, repositories, projects
           output_action: gist
           committer_gist: ${{ secrets.GIST_TOKEN }}
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          
+      - name: Languages
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          output_action: gist
+          committer_gist: ${{ secrets.GIST_TOKEN }}
           plugin_languages: yes
           plugin_languages_limit: 8
           plugin_languages_ignored: jupyter notebook, html, makefile
           plugin_languages_details: bytes-size, percentage
           plugin_languages_sections: most-used, recently-used
           plugin_languages_analysis_timeout: 60
+          
+      - name: Pinned repositories
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: pinnedRepositories.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          output_action: gist
+          committer_gist: ${{ secrets.GIST_TOKEN }}
           plugin_repositories: yes
           plugin_repositories_pinned: 6
+          
+      - name: Projects
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: projects.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          output_action: gist
+          committer_gist: ${{ secrets.GIST_TOKEN }}
           plugin_projects: yes
           plugin_projects_descriptions: yes
 
@@ -61,6 +90,17 @@ jobs:
           plugin_achievements_display: compact
           plugin_fortune: yes
           
+      - name: Fortune
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: fortune.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          output_action: gist
+          committer_gist: ${{ secrets.GIST_TOKEN }}
+          plugin_fortune: yes
+          
       - name: Recent activity
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
@@ -73,6 +113,19 @@ jobs:
           plugin_activity: yes
           plugin_activity_limit: 10
           plugin_activity_days: 14
+          plugin_notable: yes
+          plugin_notable_indepth: yes
+          plugin_notable_repositories: yes
+          
+      - name: Notable contributions
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: notableContributions.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          output_action: gist
+          committer_gist: ${{ secrets.GIST_TOKEN }}
           plugin_notable: yes
           plugin_notable_indepth: yes
           plugin_notable_repositories: yes
