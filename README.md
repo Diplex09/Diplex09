@@ -708,14 +708,90 @@
     </th>
     <tr>
       <th align="center">🌐 General</th>
-      <th align="center">👨🏼‍💻 Coding habits</th>
+      <th align="center">👨🏼‍💻 Coding habits and Wakatime stats</th>
     </tr>
     <tr>
       <td align="center">
-        <img alt="General stats" width="400" src="https://gist.github.com/Diplex09/817476bdcd67c428c567315117176fa6/raw/general.svg" alt=""></img>
+        <img alt="General stats" width="400" src="https://gist.github.com/Diplex09/817476bdcd67c428c567315117176fa6/raw/general.svg"></img>
       </td>
       <td align="center">
-        <img alt="Coding habits and facts" width="400" src="https://gist.github.com/Diplex09/817476bdcd67c428c567315117176fa6/raw/habitsAndFacts.svg" alt=""></img>
+        <img alt="Coding habits" width="400" src="https://gist.github.com/Diplex09/817476bdcd67c428c567315117176fa6/raw/habitsAndFacts.svg"></img>
+        <br>
+        <img alt="Wakatime stats" width="400" src="https://gist.github.com/Diplex09/817476bdcd67c428c567315117176fa6/raw/wakatime.svg"></img>
+      </td>
+    </tr>
+    <tr>
+      <th colspan="2" align="center">
+        <h3>🔣 Contributions</h3>
+      </th>
+    </tr>
+    <tr>
+      <th>📅 Isocalendar</th>
+      <th>📆 Commit calendar</th>
+    </tr>
+    <tr>
+      <td align="center">
+        <img alt="Isocalendar" width="400" src="https://gist.github.com/Diplex09/817476bdcd67c428c567315117176fa6/raw/isocalendar.svg"></img>
+      </td>
+      <td align="center">
+        <img alt="Commit calendar" width="400" src="https://gist.github.com/Diplex09/817476bdcd67c428c567315117176fa6/raw/calendarFull.svg"></img>
+      </td>
+    </tr>
+    <tr>
+      <th>🔠 Languages</th>
+      <th>📤 Lines of code pushed</th>
+    </tr>
+    <tr>
+      <td align="center">
+        <img alt="Isocalendar" width="400" src="https://gist.github.com/Diplex09/817476bdcd67c428c567315117176fa6/raw/languages.svg"></img>
+      </td>
+      <td align="center">
+        <img alt="Lines of code pushed" width="400" src="https://gist.github.com/Diplex09/817476bdcd67c428c567315117176fa6/raw/linesHistory.svg"></img>
+      </td>
+    </tr>
+    <tr>
+      <th>🌤️ Skyline</th>
+      <th>🌁 Skyline City</th>
+    </tr>
+    <tr>
+      <td align="center">
+        <img alt="Skyline" width="400" src="https://gist.github.com/Diplex09/817476bdcd67c428c567315117176fa6/raw/skyline.svg"></img>
+      </td>
+      <td align="center">
+        <img alt="Skyline City" width="400" src="https://gist.github.com/Diplex09/817476bdcd67c428c567315117176fa6/raw/skylineCity.svg"></img>
+      </td>
+    </tr>
+    <tr>
+      <th colspan="2" align="center">
+        <h3>🗂️ Repositories and projects</h3>
+      </th>
+    </tr>
+    <tr>
+      <th>📍 Featured repositories and notable contributions</th>
+      <th>🎯 Projects</th>
+    </tr>
+    <tr>
+      <td align="center">
+        <img alt="Featured repositories" width="400" src="https://gist.github.com/Diplex09/817476bdcd67c428c567315117176fa6/raw/pinnedRepositories.svg"></img>
+        <br>
+        <img alt="Notable contributions" width="400" src="https://gist.github.com/Diplex09/817476bdcd67c428c567315117176fa6/raw/notableContributions.svg"></img>
+      </td>
+      <td align="center">
+        <img alt="Top tracks of last month" width="400" src="https://gist.github.com/Diplex09/817476bdcd67c428c567315117176fa6/raw/projects.svg"></img>
+      </td>
+    </tr>
+    <tr>
+      <th>🚩 Issues and pull requests</th>
+      <th>🆕 Recent activity</th>
+    </tr>
+    <tr>
+      <td align="center">
+        <img alt="Issues and pull requests on my repositories" width="400" src="https://gist.github.com/Diplex09/817476bdcd67c428c567315117176fa6/raw/issuesAndPullRequestsOnMyRepositories.svg"></img>
+        <br>
+        <img alt="Issues and pull requests created by me" width="400" src="https://gist.github.com/Diplex09/817476bdcd67c428c567315117176fa6/raw/issuesAndPullRequestsByMe.svg"></img>
+      </td>
+      <td align="center">
+        <img alt="Recent activity" width="400" src="https://gist.github.com/Diplex09/817476bdcd67c428c567315117176fa6/raw/recentActivity.svg"></img>
       </td>
     </tr>
     <tr>
@@ -725,14 +801,14 @@
     </tr>
     <tr>
       <th>▶ Recently played</th>
-      <th>📅 Top tracks of last month</th>
+      <th>🎵 Top tracks of last month</th>
     </tr>
     <tr>
       <td align="center">
-        <img alt="Recently played" width="400" src="https://gist.github.com/Diplex09/817476bdcd67c428c567315117176fa6/raw/spotifyRecent.svg" alt=""></img>
+        <img alt="Recently played" width="400" src="https://gist.github.com/Diplex09/817476bdcd67c428c567315117176fa6/raw/spotifyRecent.svg"></img>
       </td>
       <td align="center">
-        <img alt="Top tracks of last month" width="400" src="https://gist.github.com/Diplex09/817476bdcd67c428c567315117176fa6/raw/spotifyTopTracksLastMonth.svg" alt=""></img>
+        <img alt="Top tracks of last month" width="400" src="https://gist.github.com/Diplex09/817476bdcd67c428c567315117176fa6/raw/spotifyTopTracksLastMonth.svg"></img>
       </td>
     </tr>
     <tr>
@@ -741,18 +817,39 @@
     </tr>
     <tr>
       <td align="center">
-        <img alt="Top artists of last month" width="400" src="https://gist.github.com/Diplex09/817476bdcd67c428c567315117176fa6/raw/spotifyTopArtistsLastMonth.svg" alt=""></img>
+        <img alt="Top artists of last month" width="400" src="https://gist.github.com/Diplex09/817476bdcd67c428c567315117176fa6/raw/spotifyTopArtistsLastMonth.svg"></img>
       </td>
       <td align="center">
-        <img alt="Top tracks of all time" width="400" src="https://gist.github.com/Diplex09/817476bdcd67c428c567315117176fa6/raw/spotifyTopTracksAllTime.svg" alt=""></img>
+        <img alt="Top tracks of all time" width="400" src="https://gist.github.com/Diplex09/817476bdcd67c428c567315117176fa6/raw/spotifyTopTracksAllTime.svg"></img>
       </td>
     </tr>
     <tr>
       <th>🎧 Top artists of all time</th>
+      <th>🎲 Random tracks from my favorite playlist</th>
     </tr>
     <tr>
       <td align="center">
-        <img alt="Top artists all time" width="400" src="https://gist.github.com/Diplex09/817476bdcd67c428c567315117176fa6/raw/spotifyTopArtistsAllTime.svg" alt=""></img>
+        <img alt="Top artists all time" width="400" src="https://gist.github.com/Diplex09/817476bdcd67c428c567315117176fa6/raw/spotifyTopArtistsAllTime.svg"></img>
+      </td>
+      <td align="center">
+        <img alt="Random track from my favorite playlist" width="400" src="https://gist.github.com/Diplex09/817476bdcd67c428c567315117176fa6/raw/spotifyRandomTrack.svg"></img>
+      </td>
+    </tr>
+    <tr>
+      <th colspan="2" align="center">
+        <h3>🎰 Miscellaneous</h3>
+      </th>
+    </tr>
+    <tr>
+      <th>🏆 Achievements</th>
+      <th>🔮 Your fortune</th>
+    </tr>
+    <tr>
+      <td align="center">
+        <img alt="Achievements" width="400" src="https://gist.github.com/Diplex09/817476bdcd67c428c567315117176fa6/raw/achievements.svg"></img>
+      </td>
+      <td align="center">
+        <img alt="Your fortune" width="400" src="https://gist.github.com/Diplex09/817476bdcd67c428c567315117176fa6/raw/fortune.svg"></img>
       </td>
     </tr>
   </table>
@@ -784,6 +881,3 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hi!+I'm+Aldo+%F0%9F%91%8B;I'm+Mexican+%F0%9F%8C%AE%F0%9F%87%B2%F0%9F%87%BD;I'm+a+computer+science+student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I'm+a+%F0%9F%91%BE+game+developer+%F0%9F%8E%AE;I'm+a+big+soccer+fan+%E2%9A%BD;I+love+challenges!+%F0%9F%8F%86)](https://git.io/typing-svg)
 <br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arimo&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hi!+I'm+Aldo+%F0%9F%91%8B;I'm+Mexican+%F0%9F%8C%AE%F0%9F%87%B2%F0%9F%87%BD;I'm+a+computer+science+student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I'm+a+%F0%9F%91%BE+game+developer+%F0%9F%8E%AE;I'm+a+big+soccer+fan+%E2%9A%BD;I+love+challenges!+%F0%9F%8F%86)](https://git.io/typing-svg)
-
-<img align="left" alt="🦑" src="https://gist.github.com/Diplex09/817476bdcd67c428c567315117176fa6/raw/skyline.svg">
-<img align="right" alt="🦑" src="https://gist.github.com/Diplex09/817476bdcd67c428c567315117176fa6/raw/skylineCity.svg">
