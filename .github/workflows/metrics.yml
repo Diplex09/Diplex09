@@ -19,7 +19,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, community, repositories, metadata
           base_indepth: yes
-          config_order: base.header, activity, community, repositories, metadata, people
+          config_order: base.header, base.activity, base.community, base.repositories, base.metadata, people
           output_action: gist
           committer_gist: ${{ secrets.GIST_TOKEN }}
           plugin_people: yes
