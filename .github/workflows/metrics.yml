@@ -17,9 +17,11 @@ jobs:
         with:
           filename: licenses.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          output_action: gist
+          committer_gist: ${{ secrets.GIST_TOKEN }}
           base: ""
           template: repository
-          repo: Diplex09
+          repo: computational-methods
           plugin_licenses: yes
           plugin_licenses_setup: bash -c '[[ -f package.json ]] && npm ci || true'
           
@@ -29,9 +31,11 @@ jobs:
         with:
           filename: licensesRatio.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          output_action: gist
+          committer_gist: ${{ secrets.GIST_TOKEN }}
           base: ""
           template: repository
-          repo: Diplex09
+          repo: computational-methods
           plugin_licenses: yes
           plugin_licenses_setup: bash -c '[[ -f package.json ]] && npm ci || true'
           plugin_licenses_legal: no
