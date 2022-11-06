@@ -10,6 +10,29 @@ jobs:
     permissions:
       contents: write
     steps:
+    
+      - name: Licenses and permissions
+        with:
+          filename: licenses.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          template: repository
+          repo: metrics
+          plugin_licenses: yes
+          plugin_licenses_setup: bash -c '[[ -f package.json ]] && npm ci || true'
+          
+      - name: Licenses with open-source ratio graphs
+        uses: lowlighter/metrics@latest
+        with:
+          filename: licensesRatio.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          template: repository
+          repo: metrics
+          plugin_licenses: yes
+          plugin_licenses_setup: bash -c '[[ -f package.json ]] && npm ci || true'
+          plugin_licenses_legal: no
+          plugin_licenses_ratio: yes
   
       - name: General
         if: ${{ success() || failure() }}
@@ -157,7 +180,7 @@ jobs:
       - name: Spotify top tracks last month
         uses: lowlighter/metrics@latest
         with:
-          filename: spotifyTopTrakcsLastMonth.svg
+          filename: spotifyTopTracksLastMonth.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           output_action: gist
@@ -175,7 +198,7 @@ jobs:
       - name: Spotify top tracks last half year
         uses: lowlighter/metrics@latest
         with:
-          filename: spotifyTopTrakcsLastHalfYear.svg
+          filename: spotifyTopTracksLastHalfYear.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           output_action: gist
@@ -193,7 +216,7 @@ jobs:
       - name: Spotify top tracks all time
         uses: lowlighter/metrics@latest
         with:
-          filename: spotifyTopTrakcsAllTime.svg
+          filename: spotifyTopTracksAllTime.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           output_action: gist
@@ -211,7 +234,7 @@ jobs:
       - name: Spotify top artists last month
         uses: lowlighter/metrics@latest
         with:
-          filename: spotifyTopArtistsMonth.svg
+          filename: spotifyTopArtistsLastMonth.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           output_action: gist
@@ -228,7 +251,7 @@ jobs:
       - name: Spotify top artists last half year
         uses: lowlighter/metrics@latest
         with:
-          filename: spotifyTopArtistsHalfYear.svg
+          filename: spotifyTopArtistsLastHalfYear.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           output_action: gist
