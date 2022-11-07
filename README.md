@@ -882,6 +882,11 @@
 ## ⏰ WakaTime stats:
 <!--START_SECTION:waka-->
 
+```text
+C#      4 hrs 30 mins   ████████████████▒░░░░░░░░   64.68 %
+Other   2 hrs 27 mins   ████████▓░░░░░░░░░░░░░░░░   35.32 %
+```
+
 <!--END_SECTION:waka-->
 
 <!--- 
