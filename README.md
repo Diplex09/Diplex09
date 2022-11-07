@@ -887,8 +887,8 @@ From: 25 October 2022 - To: 07 November 2022
 
 Total Time: 11 hrs 19 mins
 
-C#      8 hrs 51 mins   >>>>>>>>>>>>>>>>>>>>-----   78.29 %
-Other   2 hrs 27 mins   >>>>>--------------------   21.71 %
+C#      8 hrs 51 mins   ███████████████████▓░░░░░   78.29 %
+Other   2 hrs 27 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.71 %
 ```
 
 <!--END_SECTION:waka-->
