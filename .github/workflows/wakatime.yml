@@ -1,0 +1,20 @@
+name: WakaTime stats
+on:
+  # Schedule 00:00 GMT-6 == 12:00 GMT-6
+  schedule:
+    - cron: "0 6,18 * * *"
+  # (optional) Run workflow manually
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: WakaTime stats
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          # following flags are required, only if this is not on
+          # profile readme, remove the leading `#` to use them
+          #GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          #REPOSITORY: <gh_username/gh_username>
