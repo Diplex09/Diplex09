@@ -511,7 +511,7 @@
   
   <!--- Microsoft Powerpoint --->
   <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank" rel="noreferrer">
-      <img alt="Microsoft Powerpoint" title="Microsoft Powerpoint" src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Excel-B7472A?logo=microsoft-powerpoint-color&style=for-the-badge"></a>
+      <img alt="Microsoft Powerpoint" title="Microsoft Powerpoint" src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Powerpoint-B7472A?logo=microsoft-powerpoint-color&style=for-the-badge"></a>
   
   <!--- Microsoft Teams --->
   <a href="https://www.microsoft.com/en-us/microsoft-teams/group-chat-software" target="_blank" rel="noreferrer">
