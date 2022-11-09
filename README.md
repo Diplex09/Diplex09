@@ -879,7 +879,7 @@ Other   4 hrs 27 mins   ▓▓▓▓▓▓▓▓░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 
-## ⏰ Recent activity:
+## 🆕 Recent activity (issues and pull requests):
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#153](https://github.com/Diplex09/videogame-prototipe/issues/153) in [Diplex09/videogame-prototipe](https://github.com/Diplex09/videogame-prototipe)
 2. ❗️ Closed issue [#153](https://github.com/Diplex09/videogame-prototipe/issues/153) in [Diplex09/videogame-prototipe](https://github.com/Diplex09/videogame-prototipe)
