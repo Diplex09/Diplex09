@@ -818,7 +818,7 @@
     </tr>
     <tr>
       <th>🎼 Top artists of last month</th>
-      <th>🕺 Top tracks of all time</th>
+      <th>🕺🏼 Top tracks of all time</th>
     </tr>
     <tr>
       <td align="center">
@@ -829,7 +829,7 @@
       </td>
     </tr>
     <tr>
-      <th>🎧 Top artists of all time</th>
+      <th>👨🏼‍🎤️ Top artists of all time</th>
       <th>🎲 Random tracks from my favorite playlist</th>
     </tr>
     <tr>
