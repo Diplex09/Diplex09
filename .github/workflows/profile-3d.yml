@@ -1,4 +1,4 @@
-name: 3D contribution graph
+name: 📊 3D contribution graph
 
 on:
   schedule: # 00:00 GMT-6 == 12:00 GMT-6
@@ -7,15 +7,15 @@ on:
 
 jobs:
   build:
+    name: 📊 Update 3D contribution graph
     runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v2
       - uses: yoshi389111/github-profile-3d-contrib@0.7.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-      - name: Commit & Push
+      - name: 📤 Commit & Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
