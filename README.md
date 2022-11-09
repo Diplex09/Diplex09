@@ -418,7 +418,7 @@
     </picture></a>
 </p>
 
-### 🖥️ Other software and technologies
+### 🖥️ Other softwares and technologies
   
 <p align="center">
   <!--- Adobe Acrobat Reader --->
@@ -651,11 +651,6 @@
     <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season-animate.svg">
     <img alt="3D contribution stats" title="3D contribution graph" src="./profile-3d-contrib/profile-season-animate.svg" />
   </picture>
-  <p align="center" >
-    <a href="https://github.com/Diplex09/Diplex09/actions/workflows/profile-3d.yml">
-      <img src="https://github.com/Diplex09/Diplex09/actions/workflows/profile-3d.yml/badge.svg" alt="3D contribution graph CI status" title="3D contribution graph">
-    </a>
-  </p>
 </details>
 
 <details>
@@ -858,11 +853,6 @@
       </td>
     </tr>
   </table>
-  <p align="center" >
-    <a href="https://github.com/Diplex09/Diplex09/actions/workflows/metrics.yml">
-      <img src="https://github.com/Diplex09/Diplex09/actions/workflows/metrics.yml/badge.svg" alt="Metrics CI status" title="Metrics">
-    </a>
-  </p>
 </details>
 
 
@@ -871,11 +861,6 @@
 <p align="center">
   <img align="center" img alt="Snake eating contribution graph" title="Snake eating contribution graph" src="https://raw.githubusercontent.com/diplex09/diplex09/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
   <img align="center" img alt="Snake eating contribution graph" title="Snake eating contribution graph" src="https://raw.githubusercontent.com/diplex09/diplex09/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
-</p>
-<p align="center" >
-  <a href="https://github.com/Diplex09/Diplex09/actions/workflows/snake-animation.yml">
-    <img src="https://github.com/Diplex09/Diplex09/actions/workflows/snake-animation.yml/badge.svg" alt="Snake animation CI status" title="Snake animation">
-  </a>
 </p>
 
 
@@ -905,6 +890,13 @@ Other   4 hrs 27 mins   ▓▓▓▓▓▓▓▓░░░░░░░░░░�
 
 <!--START_SECTION:activity-->
 
+<br>
+
+<p align="center" >
+    <a href="https://github.com/Diplex09/Diplex09/actions/workflows/update-readme.yml">
+      <img src="https://github.com/Diplex09/Diplex09/actions/workflows/update-readme.yml/badge.svg" alt="Update README CI status" title="Update README Action">
+    </a>
+</p>
 
 <!--- 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Aldo+%F0%9F%91%8B;I'm+a+mexican+game+developer+%F0%9F%8E%AE;I+support+Cruz+Azul+%F0%9F%92%99)](https://git.io/typing-svg)
