@@ -72,3 +72,374 @@ jobs:
           git add -A .
           git commit -m "generated"
           git push
+          
+  job5:
+    name: 📐 Update metrics
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+
+      - name: 🌐 General
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: general.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, activity, community, repositories, metadata
+          base_indepth: yes
+          config_order: base.header, people
+          output_action: gist
+          committer_gist: ${{ secrets.GIST_TOKEN }}
+          plugin_people: yes
+          plugin_people_types: followers
+          
+      - name: 📅 Isocalendar
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: isocalendar.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          output_action: gist
+          committer_gist: ${{ secrets.GIST_TOKEN }}
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          
+      - name: 🔠 Languages
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          output_action: gist
+          committer_gist: ${{ secrets.GIST_TOKEN }}
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_ignored: jupyter notebook, html, makefile
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_sections: most-used, recently-used
+          plugin_languages_analysis_timeout: 60
+          
+      - name: 🌤️ GitHub Skyline
+        uses: lowlighter/metrics@latest
+        with:
+          filename: skyline.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          output_action: gist
+          committer_gist: ${{ secrets.GIST_TOKEN }}
+          base: ""
+          plugin_skyline: yes
+          plugin_skyline_frames: 60
+          plugin_skyline_quality: 1
+          
+      - name: 🌁 GitHub City
+        uses: lowlighter/metrics@latest
+        with:
+          filename: skylineCity.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          output_action: gist
+          committer_gist: ${{ secrets.GIST_TOKEN }}
+          base: ""
+          plugin_skyline: yes
+          plugin_skyline_frames: 60
+          plugin_skyline_quality: 1
+          plugin_skyline_settings: |
+            {
+              "url": "https://honzaap.github.io/GithubCity?name=${login}&year=${year}",
+              "ready": "[...document.querySelectorAll('.display-info span')].map(span => span.innerText).includes('${login}')",
+              "wait": 4,
+              "hide": ".github-corner, .footer-link, .buttons-options, .mobile-rotate, .display-info span:first-child"
+            }
+          
+      - name: 📌 Pinned repositories
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: pinnedRepositories.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          output_action: gist
+          committer_gist: ${{ secrets.GIST_TOKEN }}
+          plugin_repositories: yes
+          plugin_repositories_pinned: 6
+          
+      - name: 🎯 Projects
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: projects.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          output_action: gist
+          committer_gist: ${{ secrets.GIST_TOKEN }}
+          plugin_projects: yes
+          plugin_projects_descriptions: yes
+
+      - name: 🏆 Achievements compact
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: achievementsCompact.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          output_action: gist
+          committer_gist: ${{ secrets.GIST_TOKEN }}
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          
+      - name: 🏅 Achievements detailed
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: achievementsDetailed.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          output_action: gist
+          committer_gist: ${{ secrets.GIST_TOKEN }}
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+          
+      - name: 🔮 Fortune
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: fortune.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          output_action: gist
+          committer_gist: ${{ secrets.GIST_TOKEN }}
+          plugin_fortune: yes
+          
+      - name: 🆕 Recent activity
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: recentActivity.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          output_action: gist
+          committer_gist: ${{ secrets.GIST_TOKEN }}
+          plugin_activity: yes
+          plugin_activity_limit: 10
+          plugin_activity_days: 14
+          
+      - name: 🌟 Notable contributions
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: notableContributions.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          output_action: gist
+          committer_gist: ${{ secrets.GIST_TOKEN }}
+          plugin_notable: yes
+          plugin_notable_indepth: yes
+          plugin_notable_repositories: yes
+
+      - name: 📆 Full history calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: calendarFull.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          output_action: gist
+          committer_gist: ${{ secrets.GIST_TOKEN }}
+          plugin_calendar: yes
+          plugin_calendar_limit: 0
+          
+      - name: 🚩 Issues and pull requests opened on my repositories
+        uses: lowlighter/metrics@latest
+        with:
+          filename: issuesAndPullRequestsOnMyRepositories.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          output_action: gist
+          committer_gist: ${{ secrets.GIST_TOKEN }}
+          plugin_followup: yes
+          plugin_followup_indepth: yes
+          
+      - name: 🐛 Issues and pull requests opened by me
+        uses: lowlighter/metrics@latest
+        with:
+          filename: issuesAndPullRequestsByMe.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          output_action: gist
+          committer_gist: ${{ secrets.GIST_TOKEN }}
+          plugin_followup: yes
+          plugin_followup_sections: user
+          
+      - name: 👨🏼‍💻 Coding habits
+        uses: lowlighter/metrics@latest
+        with:
+          filename: habitsAndFacts.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          output_action: gist
+          committer_gist: ${{ secrets.GIST_TOKEN }}
+          plugin_habits: yes
+          plugin_habits_from: 500
+          plugin_habits_days: 30
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugin_habits_charts_type: charlist
+          config_timezone: America/Mexico_City
+          
+      - name: 📤 Repositories and diff history
+        uses: lowlighter/metrics@latest
+        with:
+          filename: linesHistory.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          output_action: gist
+          committer_gist: ${{ secrets.GIST_TOKEN }}
+          plugin_lines: yes
+          plugin_lines_sections: repositories, history
+          plugin_lines_repositories_limit: 6
+          plugin_lines_history_limit: 1
+          
+      - name: ▶ Spotify recent
+        uses: lowlighter/metrics@latest
+        with:
+          filename: spotifyRecent.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          output_action: gist
+          committer_gist: ${{ secrets.GIST_TOKEN }}
+          plugin_music: yes
+          plugin_music_provider: spotify
+          plugin_music_user: aldodegollado
+          plugin_music_mode: recent
+          plugin_music_token: ${{ secrets.METRICS_SPOTIFY_TOKENS }}
+          plugin_music_limit: 20
+          
+      - name: 🎲 Spotify random track form playlist
+        uses: lowlighter/metrics@latest
+        with:
+          filename: spotifyRandomTrack.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          output_action: gist
+          committer_gist: ${{ secrets.GIST_TOKEN }}
+          plugin_music: yes
+          plugin_music_playlist: https://open.spotify.com/embed/playlist/6mjZMbWerfNjjqj2LuCJxV
+          plugin_music_limit: 10
+          
+      - name: 🎵 Spotify top tracks last month
+        uses: lowlighter/metrics@latest
+        with:
+          filename: spotifyTopTracksLastMonth.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          output_action: gist
+          committer_gist: ${{ secrets.GIST_TOKEN }}
+          plugin_music: yes
+          plugin_music_provider: spotify
+          plugin_music_user: aldodegollado
+          plugin_music_mode: top
+          plugin_music_token: ${{ secrets.METRICS_SPOTIFY_TOKENS }}
+          plugin_music_limit: 20
+          plugin_music_time_range: short
+          plugin_music_top_type: tracks
+          plugin_music_played_at: true
+          
+      - name: 🎶 Spotify top tracks last half year
+        uses: lowlighter/metrics@latest
+        with:
+          filename: spotifyTopTracksLastHalfYear.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          output_action: gist
+          committer_gist: ${{ secrets.GIST_TOKEN }}
+          plugin_music: yes
+          plugin_music_provider: spotify
+          plugin_music_user: aldodegollado
+          plugin_music_mode: top
+          plugin_music_token: ${{ secrets.METRICS_SPOTIFY_TOKENS }}
+          plugin_music_limit: 20
+          plugin_music_time_range: medium
+          plugin_music_top_type: tracks
+          plugin_music_played_at: true
+          
+      - name: 🕺🏼 Spotify top tracks all time
+        uses: lowlighter/metrics@latest
+        with:
+          filename: spotifyTopTracksAllTime.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          output_action: gist
+          committer_gist: ${{ secrets.GIST_TOKEN }}
+          plugin_music: yes
+          plugin_music_provider: spotify
+          plugin_music_user: aldodegollado
+          plugin_music_mode: top
+          plugin_music_token: ${{ secrets.METRICS_SPOTIFY_TOKENS }}
+          plugin_music_limit: 20
+          plugin_music_time_range: long
+          plugin_music_top_type: tracks
+          plugin_music_played_at: true
+          
+      - name: 🎼 Spotify top artists last month
+        uses: lowlighter/metrics@latest
+        with:
+          filename: spotifyTopArtistsLastMonth.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          output_action: gist
+          committer_gist: ${{ secrets.GIST_TOKEN }}
+          plugin_music: yes
+          plugin_music_provider: spotify
+          plugin_music_user: aldodegollado
+          plugin_music_mode: top
+          plugin_music_token: ${{ secrets.METRICS_SPOTIFY_TOKENS }}
+          plugin_music_limit: 20
+          plugin_music_time_range: short
+          plugin_music_top_type: artists
+          
+      - name: 🎤 Spotify top artists last half year
+        uses: lowlighter/metrics@latest
+        with:
+          filename: spotifyTopArtistsLastHalfYear.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          output_action: gist
+          committer_gist: ${{ secrets.GIST_TOKEN }}
+          plugin_music: yes
+          plugin_music_provider: spotify
+          plugin_music_user: aldodegollado
+          plugin_music_mode: top
+          plugin_music_token: ${{ secrets.METRICS_SPOTIFY_TOKENS }}
+          plugin_music_limit: 20
+          plugin_music_time_range: medium
+          plugin_music_top_type: artists
+          
+      - name: 👨🏼‍🎤️ Spotify top artists all time
+        uses: lowlighter/metrics@latest
+        with:
+          filename: spotifyTopArtistsAllTime.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          output_action: gist
+          committer_gist: ${{ secrets.GIST_TOKEN }}
+          plugin_music: yes
+          plugin_music_provider: spotify
+          plugin_music_user: aldodegollado
+          plugin_music_mode: top
+          plugin_music_token: ${{ secrets.METRICS_SPOTIFY_TOKENS }}
+          plugin_music_limit: 20
+          plugin_music_time_range: long
+          plugin_music_top_type: artists
+          
+      - name: ⏰ Wakatime stats
+        uses: lowlighter/metrics@latest
+        with:
+          filename: wakatime.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          output_action: gist
+          committer_gist: ${{ secrets.GIST_TOKEN }}
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
