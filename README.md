@@ -893,6 +893,13 @@ Other   4 hrs 27 mins   ▓▓▓▓▓▓▓▓░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
+
+## ⏰ Recent activity:
+<!--START_SECTION:activity-->
+
+<!--START_SECTION:activity-->
+
+
 <!--- 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Aldo+%F0%9F%91%8B;I'm+a+mexican+game+developer+%F0%9F%8E%AE;I+support+Cruz+Azul+%F0%9F%92%99)](https://git.io/typing-svg)
 <br>
