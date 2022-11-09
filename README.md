@@ -402,7 +402,7 @@
       <img alt="GitHub Desktop" title="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-832291?logo=github&logoColor=white&style=for-the-badge"></a>
   
   <!--- gitignore.io --->
-  <a href="https://desktop.github.com/" target="_blank" rel="noreferrer">
+  <a href="https://gitignore.io/" target="_blank" rel="noreferrer">
       <img alt="gitignore.io" title="gitignore.io" src="https://img.shields.io/badge/gitignore.io-204ECF?logo=gitignoredotio&logoColor=white&style=for-the-badge"></a>
   
   <!--- Perforce Helix Core --->
@@ -494,7 +494,7 @@
       <img alt="Jira Software" title="Jira Software" src="https://custom-icon-badges.demolab.com/badge/Jira%20Software-253858?logo=jira-software-color&style=for-the-badge"></a>
   
   <!--- Kaspersky --->
-  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
+  <a href="https://www.kaspersky.com/" target="_blank" rel="noreferrer">
       <img alt="Kaspersky" title="Kaspersky" src="https://img.shields.io/badge/Kaspersky-009982?logo=kaspersky&logoColor=fff&style=for-the-badge"></a>
   
   <!--- Kaspersky Password Manager --->
