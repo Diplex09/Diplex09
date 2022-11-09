@@ -1,4 +1,4 @@
-name: Update README
+name: 🗒📖 Update README
 on:
   # Schedule 00:00 GMT-6 == 12:00 GMT-6
   schedule:
