@@ -1,4 +1,4 @@
-name: Snake animation
+name: 🐍 Snake animation
 
 on:
   # runs at 00:00 GMT-6 and 12:00 GMT-6 everyday
@@ -17,6 +17,7 @@ on:
 
 jobs:
   generate:
+    name: 🐍 Update snake animation
     runs-on: ubuntu-latest
     timeout-minutes: 10
     
