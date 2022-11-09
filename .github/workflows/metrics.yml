@@ -1,4 +1,4 @@
-name: Metrics
+name: 📐 Metrics
 on:
   # Schedule 00:00 GMT-6 == 12:00 GMT-6
   schedule: [{cron: "0 6,18 * * *"}]
@@ -6,12 +6,13 @@ on:
   workflow_dispatch:
 jobs:
   github-metrics:
+    name: 📐 Update metrics
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
 
-      - name: General
+      - name: 🌐 General
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
@@ -25,7 +26,7 @@ jobs:
           plugin_people: yes
           plugin_people_types: followers
           
-      - name: Isocalendar
+      - name: 📅 Isocalendar
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
@@ -37,7 +38,7 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           
-      - name: Languages
+      - name: 🔠 Languages
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
@@ -53,7 +54,7 @@ jobs:
           plugin_languages_sections: most-used, recently-used
           plugin_languages_analysis_timeout: 60
           
-      - name: GitHub Skyline
+      - name: 🌤️ GitHub Skyline
         uses: lowlighter/metrics@latest
         with:
           filename: skyline.svg
@@ -65,7 +66,7 @@ jobs:
           plugin_skyline_frames: 60
           plugin_skyline_quality: 1
           
-      - name: GitHub City
+      - name: 🌁 GitHub City
         uses: lowlighter/metrics@latest
         with:
           filename: skylineCity.svg
@@ -84,7 +85,7 @@ jobs:
               "hide": ".github-corner, .footer-link, .buttons-options, .mobile-rotate, .display-info span:first-child"
             }
           
-      - name: Pinned repositories
+      - name: 📌 Pinned repositories
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
@@ -96,7 +97,7 @@ jobs:
           plugin_repositories: yes
           plugin_repositories_pinned: 6
           
-      - name: Projects
+      - name: 🎯 Projects
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
@@ -108,7 +109,7 @@ jobs:
           plugin_projects: yes
           plugin_projects_descriptions: yes
 
-      - name: Achievements compact
+      - name: 🏆 Achievements compact
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
@@ -120,7 +121,7 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_display: compact
           
-      - name: Achievements detailed
+      - name: 🏅 Achievements detailed
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
@@ -132,7 +133,7 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_display: detailed
           
-      - name: Fortune
+      - name: 🔮 Fortune
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
@@ -143,7 +144,7 @@ jobs:
           committer_gist: ${{ secrets.GIST_TOKEN }}
           plugin_fortune: yes
           
-      - name: Recent activity
+      - name: 🆕 Recent activity
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
@@ -156,7 +157,7 @@ jobs:
           plugin_activity_limit: 10
           plugin_activity_days: 14
           
-      - name: Notable contributions
+      - name: 🌟 Notable contributions
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
@@ -169,7 +170,7 @@ jobs:
           plugin_notable_indepth: yes
           plugin_notable_repositories: yes
 
-      - name: Full history calendar
+      - name: 📆 Full history calendar
         uses: lowlighter/metrics@latest
         with:
           filename: calendarFull.svg
@@ -180,7 +181,7 @@ jobs:
           plugin_calendar: yes
           plugin_calendar_limit: 0
           
-      - name: Issues and pull requests opened on my repositories
+      - name: 🚩 Issues and pull requests opened on my repositories
         uses: lowlighter/metrics@latest
         with:
           filename: issuesAndPullRequestsOnMyRepositories.svg
@@ -191,7 +192,7 @@ jobs:
           plugin_followup: yes
           plugin_followup_indepth: yes
           
-      - name: Issues and pull requests opened by me
+      - name: 🐛 Issues and pull requests opened by me
         uses: lowlighter/metrics@latest
         with:
           filename: issuesAndPullRequestsByMe.svg
@@ -202,7 +203,7 @@ jobs:
           plugin_followup: yes
           plugin_followup_sections: user
           
-      - name: Coding habits
+      - name: 👨🏼‍💻 Coding habits
         uses: lowlighter/metrics@latest
         with:
           filename: habitsAndFacts.svg
@@ -218,7 +219,7 @@ jobs:
           plugin_habits_charts_type: charlist
           config_timezone: America/Mexico_City
           
-      - name: Repositories and diff history
+      - name: 📤 Repositories and diff history
         uses: lowlighter/metrics@latest
         with:
           filename: linesHistory.svg
@@ -231,7 +232,7 @@ jobs:
           plugin_lines_repositories_limit: 6
           plugin_lines_history_limit: 1
           
-      - name: Spotify recent
+      - name: ▶ Spotify recent
         uses: lowlighter/metrics@latest
         with:
           filename: spotifyRecent.svg
@@ -246,7 +247,7 @@ jobs:
           plugin_music_token: ${{ secrets.METRICS_SPOTIFY_TOKENS }}
           plugin_music_limit: 20
           
-      - name: Spotify random track form playlist
+      - name: 🎲 Spotify random track form playlist
         uses: lowlighter/metrics@latest
         with:
           filename: spotifyRandomTrack.svg
@@ -258,7 +259,7 @@ jobs:
           plugin_music_playlist: https://open.spotify.com/embed/playlist/6mjZMbWerfNjjqj2LuCJxV
           plugin_music_limit: 10
           
-      - name: Spotify top tracks last month
+      - name: 🎵 Spotify top tracks last month
         uses: lowlighter/metrics@latest
         with:
           filename: spotifyTopTracksLastMonth.svg
@@ -276,7 +277,7 @@ jobs:
           plugin_music_top_type: tracks
           plugin_music_played_at: true
           
-      - name: Spotify top tracks last half year
+      - name: 🎶 Spotify top tracks last half year
         uses: lowlighter/metrics@latest
         with:
           filename: spotifyTopTracksLastHalfYear.svg
@@ -294,7 +295,7 @@ jobs:
           plugin_music_top_type: tracks
           plugin_music_played_at: true
           
-      - name: Spotify top tracks all time
+      - name: 🕺🏼 Spotify top tracks all time
         uses: lowlighter/metrics@latest
         with:
           filename: spotifyTopTracksAllTime.svg
@@ -312,7 +313,7 @@ jobs:
           plugin_music_top_type: tracks
           plugin_music_played_at: true
           
-      - name: Spotify top artists last month
+      - name: 🎼 Spotify top artists last month
         uses: lowlighter/metrics@latest
         with:
           filename: spotifyTopArtistsLastMonth.svg
@@ -329,7 +330,7 @@ jobs:
           plugin_music_time_range: short
           plugin_music_top_type: artists
           
-      - name: Spotify top artists last half year
+      - name: 🎤 Spotify top artists last half year
         uses: lowlighter/metrics@latest
         with:
           filename: spotifyTopArtistsLastHalfYear.svg
@@ -346,7 +347,7 @@ jobs:
           plugin_music_time_range: medium
           plugin_music_top_type: artists
           
-      - name: Spotify top artists all time
+      - name: 👨🏼‍🎤️ Spotify top artists all time
         uses: lowlighter/metrics@latest
         with:
           filename: spotifyTopArtistsAllTime.svg
@@ -363,7 +364,7 @@ jobs:
           plugin_music_time_range: long
           plugin_music_top_type: artists
           
-      - name: Wakatime stats
+      - name: ⏰ Wakatime stats
         uses: lowlighter/metrics@latest
         with:
           filename: wakatime.svg
