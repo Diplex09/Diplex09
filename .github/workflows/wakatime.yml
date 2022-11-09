@@ -1,4 +1,4 @@
-name: WakaTime stats
+name: Update README
 on:
   # Schedule 00:00 GMT-6 == 12:00 GMT-6
   schedule:
@@ -8,18 +8,27 @@ on:
 
 jobs:
   job1:
-      name: WakaTime stats
-      runs-on: ubuntu-latest
-      steps:
-        - uses: athul/waka-readme@master
-          with:
-            WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-            SHOW_TITLE: true
-            BLOCKS: ░▓
-            TIME_RANGE: all_time
-            SHOW_TIME: true
-            SHOW_MASKED_TIME: true
-            # following flags are required, only if this is not on
-            # profile readme, remove the leading `#` to use them
-            #GH_TOKEN: ${{ secrets.GH_TOKEN }}
-            #REPOSITORY: <gh_username/gh_username>
+    name: Update WakaTime stats
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          BLOCKS: ░▓
+          TIME_RANGE: all_time
+          SHOW_TIME: true
+          SHOW_MASKED_TIME: true
+          # following flags are required, only if this is not on
+          # profile readme, remove the leading `#` to use them
+          #GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          #REPOSITORY: <gh_username/gh_username>
+  
+  job2:
+    name: Update recent activity
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
