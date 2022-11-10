@@ -1,4 +1,3 @@
-
 name: Test
 on:
   # Schedule 00:00 GMT-6 == 12:00 GMT-6
@@ -7,8 +6,8 @@ on:
   # (optional) Run workflow manually
   workflow_dispatch:
   
-  jobs:
-    job1:
+jobs:
+  job1:
     name: ⏰ Update Readme stats
     runs-on: ubuntu-latest
     steps:
