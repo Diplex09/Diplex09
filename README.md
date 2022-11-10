@@ -955,9 +955,9 @@ Last Updated on 10/11/2022 07:18:24 UTC
   <div align="center">
     <a href="https://spotify-github-profile.vercel.app/api/view?uid=aldodegollado&redirect=true" target="_blank" rel="noreferrer">
       <picture>
-        <source media="(prefers-color-scheme: dark)"https://spotify-github-profile.vercel.app/api/view?uid=aldodegollado&cover_image=true&theme=default&show_offline=false&background_color=ffffff&bar_color=53b14f&bar_color_cover=true">
-        <source media="(prefers-color-scheme: light)"https://spotify-github-profile.vercel.app/api/view?uid=aldodegollado&cover_image=true&theme=default&show_offline=false&background_color=000000&bar_color=53b14f&bar_color_cover=true">
-        <img alt="Unity" title="Unity" src="https://spotify-github-profile.vercel.app/api/view?uid=aldodegollado&cover_image=true&theme=default&show_offline=false&background_color=000000&bar_color=53b14f&bar_color_cover=true">
+        <source media="(prefers-color-scheme: dark)" srcset="https://spotify-github-profile.vercel.app/api/view?uid=aldodegollado&cover_image=true&theme=default&show_offline=false&background_color=ffffff&bar_color=53b14f&bar_color_cover=true">
+        <source media="(prefers-color-scheme: light)" srcset="https://spotify-github-profile.vercel.app/api/view?uid=aldodegollado&cover_image=true&theme=default&show_offline=false&background_color=000000&bar_color=53b14f&bar_color_cover=true">
+        <img alt="My Spotify activity" title="My Spotify activity" src="https://spotify-github-profile.vercel.app/api/view?uid=aldodegollado&cover_image=true&theme=default&show_offline=false&background_color=000000&bar_color=53b14f&bar_color_cover=true">
       </picture></a>
   </div>
 </details>
