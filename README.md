@@ -857,6 +857,7 @@
 
 <details>
   <summary align="center">⏰ WakaTime stats</summary>
+  
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2045%20mins-blue)
 
@@ -865,15 +866,15 @@
 **🐱 My GitHub Data** 
 
 > 🏆 450 Contributions in the Year 2022
- > 
+> 
 > 📦 2.1 MB Used in GitHub's Storage 
- > 
+> 
 > 🚫 Not Opted to Hire
- > 
+> 
 > 📜 16 Public Repositories 
- > 
+> 
 > 🔑 2 Private Repositories  
- > 
+> 
 **I'm a Night 🦉** 
 
 ```text
@@ -934,18 +935,19 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 10/11/2022 07:18:24 UTC
-<!--END_SECTION:waka-->
+Last Updated on 10/11/2022 07:18:24 UTC
+   <!--END_SECTION:waka-->
+     
 </details>
 
 <details>
   <summary align="center">🆕 Recent activity (issues and pull requests)</summary>
-  <p align="center">
-    <!--START_SECTION:activity-->
+  
+<!--START_SECTION:activity-->
 1. ❗️ Closed issue [#143](https://github.com/Diplex09/videogame-prototipe/issues/143) in [Diplex09/videogame-prototipe](https://github.com/Diplex09/videogame-prototipe)
 2. 🗣 Commented on [#143](https://github.com/Diplex09/videogame-prototipe/issues/143) in [Diplex09/videogame-prototipe](https://github.com/Diplex09/videogame-prototipe)
-    <!--END_SECTION:activity-->
-  </p>
+<!--END_SECTION:activity-->
+    
 </details>
 
 
