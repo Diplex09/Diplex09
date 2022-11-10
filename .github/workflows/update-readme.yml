@@ -419,15 +419,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
   job4:
-    name: ❗ Update recent activity
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
-  job5:
     name: ⏰ Update WakaTime stats complete
     runs-on: ubuntu-latest
     steps:
@@ -447,6 +438,15 @@ jobs:
 
           SHOW_LANGUAGE_PER_REPO: "True"
           SHOW_PROJECTS: "True"
-          SHOW_LOC_CHART: "True"
+          SHOW_LOC_CHART: "False"
           LOCALE: "en"
+          
+  job5:
+    name: ❗ Update recent activity
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     
