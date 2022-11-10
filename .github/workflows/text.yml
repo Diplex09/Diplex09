@@ -1,0 +1,18 @@
+
+name: Test
+on:
+  # Schedule 00:00 GMT-6 == 12:00 GMT-6
+  schedule:
+   - cron: "0 6,18 * * *"
+  # (optional) Run workflow manually
+  workflow_dispatch:
+  
+  jobs:
+    job1:
+    name: ⏰ Update Readme stats
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
