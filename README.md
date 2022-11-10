@@ -867,15 +867,6 @@
 ## ⏰ WakaTime stats:
 <!--START_SECTION:waka-->
 
-```text
-From: 25 October 2022 - To: 09 November 2022
-
-Total Time: 14 hrs 45 mins
-
-C#      10 hrs 17 mins  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░   69.80 %
-Other   4 hrs 27 mins   ▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░   30.20 %
-```
-
 <!--END_SECTION:waka-->
 
 
