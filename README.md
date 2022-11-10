@@ -25,11 +25,11 @@
 
 <p align="center">
   <!--- Mail --->
-  <a href="mailto:aldodegollado@hotmail.com" target="blank">
+  <a href="mailto:aldodegollado@hotmail.com" target="_blank" rel="noreferrer">
     <img alt="Email" title="Email" src="https://shields.io/badge/%F0%9F%93%AC%20aldodegollado@hotmail.com-beige?style=for-the-badge" /></a>
 
   <!--- LinkedIn --->
-  <a href="https://linkedin.com/in/aldo-alejandro-degollado-padilla" target="blank">
+  <a href="https://linkedin.com/in/aldo-alejandro-degollado-padilla" target="_blank" rel="noreferrer">
     <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
   <br>
   
@@ -37,24 +37,24 @@
   <img alt="Discord" title="Discord" src="https://dcbadge.vercel.app/api/shield/219490225481580544" />
   
   <!--- Facebook --->
-  <a href="https://fb.com/aldoalejandro.degolladopadilla" target="blank">
+  <a href="https://fb.com/aldoalejandro.degolladopadilla" target="_blank" rel="noreferrer">
     <img alt="Facebook" title="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge" /></a>
   
   <!--- Instagram --->
-  <a href="https://instagram.com/aldodegollado" target="blank">
+  <a href="https://instagram.com/aldodegollado" target="_blank" rel="noreferrer">
     <img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" /></a>
   
   <!--- Twitter --->
-  <a href="https://twitter.com/aldodegollado" target="blank">
+  <a href="https://twitter.com/aldodegollado" target="_blank" rel="noreferrer">
     <img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge" /></a>
   <br>
   
   <!--- Steam --->
-  <a href="https://steamcommunity.com/id/diplex_/" target="blank">
+  <a href="https://steamcommunity.com/id/diplex_/" target="_blank" rel="noreferrer">
     <img alt="Steam" title="Steam" src="https://img.shields.io/badge/Steam-2A475E.svg?logo=Steam&logoColor=white&style=for-the-badge" /></a>
   
   <!--- Xbox --->
-  <a href="https://account.xbox.com/es-mx/Profile?xr=mebarnav" target="blank">
+  <a href="https://account.xbox.com/es-mx/Profile?xr=mebarnav" target="_blank" rel="noreferrer">
     <img alt="Xbox" title="Xbox" src="https://img.shields.io/badge/Xbox-107C10.svg?logo=Xbox&logoColor=white&style=for-the-badge" /></a>
 </p>
 
@@ -961,9 +961,10 @@ Last Updated on 10/11/2022 07:18:24 UTC
 <br>
 
 <p align="center" >
-    <a href="https://github.com/Diplex09/Diplex09/actions/workflows/update-readme.yml">
-      <img src="https://github.com/Diplex09/Diplex09/actions/workflows/update-readme.yml/badge.svg" alt="Update README CI status" title="Update README Action">
-    </a>
+    <a href="https://github.com/Diplex09/Diplex09/commits" target="_blank" rel="noreferrer">
+    <img alt="Last update badge" title="Last update" src="https://img.shields.io/github/last-commit/Diplex09/Diplex09?label=Last%20Updated&style=flat" /></a>
+  <a href="https://github.com/Diplex09/Diplex09/actions/workflows/update-readme.yml">
+      <img src="https://github.com/Diplex09/Diplex09/actions/workflows/update-readme.yml/badge.svg" alt="Update README CI status" title="Update README Action"></a>
 </p>
 
 <!--- 
