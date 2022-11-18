@@ -1,24 +1,23 @@
+<!---
 <h1 align="center">
   Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" height="35px">, I'm Aldo Degollado
 </h1>
+--->
 
 <h3 align="center">
-  A passionate videogame developer from Mexico.
+  <img src="https://readme-typing-svg.demolab.com?font=Arimo&size=35&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=1000&multiline=false&lines=Hi!+I'm+Aldo+Degollado+%F0%9F%91%8B;I'm+Mexican+%F0%9F%8C%AE%F0%9F%87%B2%F0%9F%87%BD;I'm+a+Computer+Science+student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I'm+a+%F0%9F%91%BE+game+developer+%F0%9F%8E%AE;I'm+a+Tec+de+Monterrey+student+%F0%9F%90%8F%F0%9F%92%99;I'm+a+big+soccer+fan+%E2%9A%BD;I'm+a+Cruz+Azul+fan+%F0%9F%94%B5%E2%9A%AA;I+love+challenges!+%F0%9F%8F%86">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=1000&multiline=false&lines=Hi!+I'm+Aldo+Degollado+%F0%9F%91%8B;I'm+Mexican+%F0%9F%8C%AE%F0%9F%87%B2%F0%9F%87%BD;I'm+a+Computer+Science+student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I'm+a+%F0%9F%91%BE+game+developer+%F0%9F%8E%AE;I'm+a+Tec+de+Monterrey+student+%F0%9F%90%8F%F0%9F%92%99;I'm+a+big+soccer+fan+%E2%9A%BD;I'm+a+Cruz+Azul+fan+%F0%9F%94%B5%E2%9A%AA;I+love+challenges!+%F0%9F%8F%86">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=35&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=1000&multiline=false&lines=Hi!+I'm+Aldo+Degollado+%F0%9F%91%8B;I'm+Mexican+%F0%9F%8C%AE%F0%9F%87%B2%F0%9F%87%BD;I'm+a+Computer+Science+student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I'm+a+%F0%9F%91%BE+game+developer+%F0%9F%8E%AE;I'm+a+Tec+de+Monterrey+student+%F0%9F%90%8F%F0%9F%92%99;I'm+a+big+soccer+fan+%E2%9A%BD;I'm+a+Cruz+Azul+fan+%F0%9F%94%B5%E2%9A%AA;I+love+challenges!+%F0%9F%8F%86">
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&size=35&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=1000&multiline=false&lines=Hi!+I'm+Aldo+Degollado+%F0%9F%91%8B;I'm+Mexican+%F0%9F%8C%AE%F0%9F%87%B2%F0%9F%87%BD;I'm+a+Computer+Science+student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I'm+a+%F0%9F%91%BE+game+developer+%F0%9F%8E%AE;I'm+a+Tec+de+Monterrey+student+%F0%9F%90%8F%F0%9F%92%99;I'm+a+big+soccer+fan+%E2%9A%BD;I'm+a+Cruz+Azul+fan+%F0%9F%94%B5%E2%9A%AA;I+love+challenges!+%F0%9F%8F%86">
+  <img src="https://readme-typing-svg.demolab.com?font=Barlow&size=35&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=1000&multiline=false&lines=Hi!+I'm+Aldo+Degollado+%F0%9F%91%8B;I'm+Mexican+%F0%9F%8C%AE%F0%9F%87%B2%F0%9F%87%BD;I'm+a+Computer+Science+student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I'm+a+%F0%9F%91%BE+game+developer+%F0%9F%8E%AE;I'm+a+Tec+de+Monterrey+student+%F0%9F%90%8F%F0%9F%92%99;I'm+a+big+soccer+fan+%E2%9A%BD;I'm+a+Cruz+Azul+fan+%F0%9F%94%B5%E2%9A%AA;I+love+challenges!+%F0%9F%8F%86">
+  <img src="https://readme-typing-svg.demolab.com?font=Cairo&size=35&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=1000&multiline=false&lines=Hi!+I'm+Aldo+Degollado+%F0%9F%91%8B;I'm+Mexican+%F0%9F%8C%AE%F0%9F%87%B2%F0%9F%87%BD;I'm+a+Computer+Science+student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I'm+a+%F0%9F%91%BE+game+developer+%F0%9F%8E%AE;I'm+a+Tec+de+Monterrey+student+%F0%9F%90%8F%F0%9F%92%99;I'm+a+big+soccer+fan+%E2%9A%BD;I'm+a+Cruz+Azul+fan+%F0%9F%94%B5%E2%9A%AA;I+love+challenges!+%F0%9F%8F%86">
 </h3>
-
+<!---
 <p align="center">
   <img alt="Visitor badge" Title="Visitors badge" src="https://visitor-badge.laobi.icu/badge?page_id=diplex09.diplex09"/>
 </p>
+--->
 
-- 🔭 I’m currently studying a **B.S. in Computer Science @ Tec de Monterrey**
-
-- 📫 How to reach me **aldodegollado@hotmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/aldo-alejandro-degollado-padilla/](https://www.linkedin.com/in/aldo-alejandro-degollado-padilla/)
-
-- ⚡ Fun fact: **I support Cruz Azul**
-
-<br>
 
 
 ## 🗣️ Connect with me: 
@@ -970,26 +969,9 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 <br>
 
 <p align="center" >
-    <a href="https://github.com/Diplex09/Diplex09/commits" target="_blank" rel="noreferrer">
+  <a href="https://github.com/Diplex09/Diplex09/commits" target="_blank" rel="noreferrer">
     <img alt="Last update badge" title="Last update" src="https://img.shields.io/github/last-commit/Diplex09/Diplex09?label=Last%20Updated&style=flat" /></a>
+  <img alt="Visitor badge" Title="Visitors badge" src="https://visitor-badge.laobi.icu/badge?page_id=diplex09.diplex09"/>
   <a href="https://github.com/Diplex09/Diplex09/actions/workflows/update-readme.yml">
       <img src="https://github.com/Diplex09/Diplex09/actions/workflows/update-readme.yml/badge.svg" alt="Update README CI status" title="Update README Action"></a>
 </p>
-
-<!--- 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Aldo+%F0%9F%91%8B;I'm+a+mexican+game+developer+%F0%9F%8E%AE;I+support+Cruz+Azul+%F0%9F%92%99)](https://git.io/typing-svg)
-<br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Sans+Pro&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hi!+I'm+Aldo+%F0%9F%91%8B;I'm+a+mexican+%F0%9F%91%BE+game+developer+%F0%9F%8E%AE;I'm+a+computer+science+student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I'm+a+big+soccer+fan+%E2%9A%BD;I+love+challenges!+%F0%9F%8F%86)](https://git.io/typing-svg)
-<br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hi!+I'm+Aldo+%F0%9F%91%8B;I'm+a+mexican+%F0%9F%91%BE+game+developer+%F0%9F%8E%AE;I'm+a+computer+science+student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I'm+a+big+soccer+fan+%E2%9A%BD;I+love+challenges!+%F0%9F%8F%86)](https://git.io/typing-svg)
-<br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hi!+I'm+Aldo+%F0%9F%91%8B;I'm+a+mexican+%F0%9F%91%BE+game+developer+%F0%9F%8E%AE;I'm+a+computer+science+student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I'm+a+big+soccer+fan+%E2%9A%BD;I+love+challenges!+%F0%9F%8F%86)](https://git.io/typing-svg)
-<br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Barlow&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hi!+I'm+Aldo+%F0%9F%91%8B;I'm+a+mexican+%F0%9F%91%BE+game+developer+%F0%9F%8E%AE;I'm+a+computer+science+student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I'm+a+big+soccer+fan+%E2%9A%BD;I+love+challenges!+%F0%9F%8F%86)](https://git.io/typing-svg)
-<br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cairo&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hi!+I'm+Aldo+%F0%9F%91%8B;I'm+Mexican+%F0%9F%8C%AE%F0%9F%87%B2%F0%9F%87%BD;I'm+a+computer+science+student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I'm+a+%F0%9F%91%BE+game+developer+%F0%9F%8E%AE;I'm+a+big+soccer+fan+%E2%9A%BD;I+love+challenges!+%F0%9F%8F%86)](https://git.io/typing-svg)
-<br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hi!+I'm+Aldo+%F0%9F%91%8B;I'm+Mexican+%F0%9F%8C%AE%F0%9F%87%B2%F0%9F%87%BD;I'm+a+computer+science+student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I'm+a+%F0%9F%91%BE+game+developer+%F0%9F%8E%AE;I'm+a+big+soccer+fan+%E2%9A%BD;I+love+challenges!+%F0%9F%8F%86)](https://git.io/typing-svg)
-<br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arimo&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hi!+I'm+Aldo+%F0%9F%91%8B;I'm+Mexican+%F0%9F%8C%AE%F0%9F%87%B2%F0%9F%87%BD;I'm+a+computer+science+student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I'm+a+%F0%9F%91%BE+game+developer+%F0%9F%8E%AE;I'm+a+big+soccer+fan+%E2%9A%BD;I+love+challenges!+%F0%9F%8F%86)](https://git.io/typing-svg)
---->
