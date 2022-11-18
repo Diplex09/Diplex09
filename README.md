@@ -5,19 +5,8 @@
 --->
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Arimo&size=35&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=1000&multiline=false&lines=Hi!+I'm+Aldo+Degollado+%F0%9F%91%8B;I'm+Mexican+%F0%9F%8C%AE%F0%9F%87%B2%F0%9F%87%BD;I'm+a+Computer+Science+student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I'm+a+%F0%9F%91%BE+game+developer+%F0%9F%8E%AE;I'm+a+Tec+de+Monterrey+student+%F0%9F%90%8F%F0%9F%92%99;I'm+a+big+soccer+fan+%E2%9A%BD;I'm+a+Cruz+Azul+fan+%F0%9F%94%B5%E2%9A%AA;I+love+challenges!+%F0%9F%8F%86">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=1000&multiline=false&lines=Hi!+I'm+Aldo+Degollado+%F0%9F%91%8B;I'm+Mexican+%F0%9F%8C%AE%F0%9F%87%B2%F0%9F%87%BD;I'm+a+Computer+Science+student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I'm+a+%F0%9F%91%BE+game+developer+%F0%9F%8E%AE;I'm+a+Tec+de+Monterrey+student+%F0%9F%90%8F%F0%9F%92%99;I'm+a+big+soccer+fan+%E2%9A%BD;I'm+a+Cruz+Azul+fan+%F0%9F%94%B5%E2%9A%AA;I+love+challenges!+%F0%9F%8F%86">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=35&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=1000&multiline=false&lines=Hi!+I'm+Aldo+Degollado+%F0%9F%91%8B;I'm+Mexican+%F0%9F%8C%AE%F0%9F%87%B2%F0%9F%87%BD;I'm+a+Computer+Science+student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I'm+a+%F0%9F%91%BE+game+developer+%F0%9F%8E%AE;I'm+a+Tec+de+Monterrey+student+%F0%9F%90%8F%F0%9F%92%99;I'm+a+big+soccer+fan+%E2%9A%BD;I'm+a+Cruz+Azul+fan+%F0%9F%94%B5%E2%9A%AA;I+love+challenges!+%F0%9F%8F%86">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&size=35&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=1000&multiline=false&lines=Hi!+I'm+Aldo+Degollado+%F0%9F%91%8B;I'm+Mexican+%F0%9F%8C%AE%F0%9F%87%B2%F0%9F%87%BD;I'm+a+Computer+Science+student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I'm+a+%F0%9F%91%BE+game+developer+%F0%9F%8E%AE;I'm+a+Tec+de+Monterrey+student+%F0%9F%90%8F%F0%9F%92%99;I'm+a+big+soccer+fan+%E2%9A%BD;I'm+a+Cruz+Azul+fan+%F0%9F%94%B5%E2%9A%AA;I+love+challenges!+%F0%9F%8F%86">
-  <img src="https://readme-typing-svg.demolab.com?font=Barlow&size=35&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=1000&multiline=false&lines=Hi!+I'm+Aldo+Degollado+%F0%9F%91%8B;I'm+Mexican+%F0%9F%8C%AE%F0%9F%87%B2%F0%9F%87%BD;I'm+a+Computer+Science+student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I'm+a+%F0%9F%91%BE+game+developer+%F0%9F%8E%AE;I'm+a+Tec+de+Monterrey+student+%F0%9F%90%8F%F0%9F%92%99;I'm+a+big+soccer+fan+%E2%9A%BD;I'm+a+Cruz+Azul+fan+%F0%9F%94%B5%E2%9A%AA;I+love+challenges!+%F0%9F%8F%86">
-  <img src="https://readme-typing-svg.demolab.com?font=Cairo&size=35&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=1000&multiline=false&lines=Hi!+I'm+Aldo+Degollado+%F0%9F%91%8B;I'm+Mexican+%F0%9F%8C%AE%F0%9F%87%B2%F0%9F%87%BD;I'm+a+Computer+Science+student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I'm+a+%F0%9F%91%BE+game+developer+%F0%9F%8E%AE;I'm+a+Tec+de+Monterrey+student+%F0%9F%90%8F%F0%9F%92%99;I'm+a+big+soccer+fan+%E2%9A%BD;I'm+a+Cruz+Azul+fan+%F0%9F%94%B5%E2%9A%AA;I+love+challenges!+%F0%9F%8F%86">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=35&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=1000&multiline=false&lines=Hi!+I'm+Aldo+Degollado+%F0%9F%91%8B;I'm+Mexican+%F0%9F%8C%AE%F0%9F%87%B2%F0%9F%87%BD;I'm+a+Computer+Science+student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I'm+a+%F0%9F%91%BE+game+developer+%F0%9F%8E%AE;I'm+a+Tec+de+Monterrey+student+%F0%9F%90%8F%F0%9F%92%99;I'm+a+big+soccer+enthusiast+%E2%9A%BD;I'm+a+Cruz+Azul+fan+%F0%9F%94%B5%E2%9A%AA;I+love+challenges!+%F0%9F%8F%86">
 </h3>
-<!---
-<p align="center">
-  <img alt="Visitor badge" Title="Visitors badge" src="https://visitor-badge.laobi.icu/badge?page_id=diplex09.diplex09"/>
-</p>
---->
-
 
 
 ## 🗣️ Connect with me: 
