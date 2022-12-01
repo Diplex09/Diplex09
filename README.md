@@ -936,8 +936,8 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
   <summary align="center">🆕 Recent activity (issues and pull requests)</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#159](https://github.com/Diplex09/videogame-prototipe/issues/159) in [Diplex09/videogame-prototipe](https://github.com/Diplex09/videogame-prototipe)
-2. ❗️ Opened issue [#158](https://github.com/Diplex09/videogame-prototipe/issues/158) in [Diplex09/videogame-prototipe](https://github.com/Diplex09/videogame-prototipe)
+1. 🎉 Merged PR [#165](https://github.com/Diplex09/videogame-prototipe/pull/165) in [Diplex09/videogame-prototipe](https://github.com/Diplex09/videogame-prototipe)
+2. 🎉 Merged PR [#164](https://github.com/Diplex09/videogame-prototipe/pull/164) in [Diplex09/videogame-prototipe](https://github.com/Diplex09/videogame-prototipe)
 <!--END_SECTION:activity-->
     
 </details>
