@@ -850,7 +850,7 @@
   <summary align="center">⏰ WakaTime stats</summary>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-31%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-32%20hrs%2037%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5%20Million%20lines%20of%20code-blue)
 
@@ -895,17 +895,17 @@ Sunday       17 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-C++                      1 hr 8 mins         █████████████████████████   100.0%
+C++                      1 hr 55 mins        █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  1 hr 8 mins         █████████████████████████   100.0%
+VS Code                  1 hr 55 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-OracleTest               1 hr 3 mins         ███████████████████████░░   92.07% 
-Unknown Project          5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   7.93%
+OracleTest               1 hr 49 mins        ███████████████████████░░   95.28% 
+Unknown Project          5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.72%
 
 💻 Operating System: 
-Windows                  1 hr 8 mins         █████████████████████████   100.0%
+Windows                  1 hr 55 mins        █████████████████████████   100.0%
 
 ```
 
@@ -922,7 +922,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2022 06:26:55 UTC
+ Last Updated on 31/12/2022 18:26:04 UTC
 <!--END_SECTION:waka-->
      
 </details>
