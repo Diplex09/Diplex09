@@ -431,6 +431,10 @@
       <source media="(prefers-color-scheme: light)" srcset="https://custom-icon-badges.demolab.com/badge/Boxy%20SVG-242424?logo=boxy-svg-color&style=for-the-badge">
       <img alt="Boxy SVG" title="Boxy SVG" src="https://custom-icon-badges.demolab.com/badge/Boxy%20SVG-3A3A3A?logo=boxy-svg-color&style=for-the-badge"></a>
     </picture></a>
+    
+  <!--- ChatGPT --->
+  <a href="https://chat.openai.com/" target="_blank" rel="noreferrer">
+      <img alt="ChatGPT" title="ChatGPT" src="https://custom-icon-badges.demolab.com/badge/ChatGPT-10A37F.svg?logo=gpt-3&color=10A37F&style=for-the-badge"></a>
   
   <!--- Chocolatey --->
   <a href="https://chocolatey.org/" target="_blank" rel="noreferrer">
@@ -489,8 +493,12 @@
       <img alt="Kaspersky" title="Kaspersky" src="https://img.shields.io/badge/Kaspersky-009982?logo=kaspersky&logoColor=fff&style=for-the-badge"></a>
   
   <!--- Kaspersky Password Manager --->
-  <a href="https://www.kaspersky.com/password-manager" target="_blank" rel="noreferrer">
+  <a href="https://usa.kaspersky.com/password-manager" target="_blank" rel="noreferrer">
       <img alt="Kaspersky Password Manager" title="Kaspersky Password Manager" src="https://custom-icon-badges.demolab.com/badge/Kaspersky%20Password%20Manager-1E856F?logo=kaspersky-password-manager-color&style=for-the-badge"></a>
+      
+  <!--- Kaspersky VPN --->
+  <a href="https://usa.kaspersky.com/vpn-secure-connection" target="_blank" rel="noreferrer">
+      <img alt="Kaspersky VPN" title="Kaspersky VPN" src="https://custom-icon-badges.demolab.com/badge/Kaspersky%20VPN-1E856F?logo=kaspersky-vpn&style=for-the-badge"></a>
   
   <!--- Microsoft Excel --->
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
@@ -522,6 +530,14 @@
       <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/Miro-FFD02F?logo=miro-color&style=for-the-badge">
       <source media="(prefers-color-scheme: light)" srcset="https://custom-icon-badges.demolab.com/badge/Miro-050038?logo=miro-color&style=for-the-badge">
       <img alt="Miro" title="Miro" src="https://custom-icon-badges.demolab.com/badge/Miro-050038?logo=miro-color&style=for-the-badge">
+    </picture></a>
+    
+  <!--- Notion --->
+  <a href="https://www.notion.so/" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/Notion-FFFFFF.svg?logo=notion&color=white&logoColor=black&style=for-the-badge">
+      <source media="(prefers-color-scheme: light)" srcset="https://custom-icon-badges.demolab.com/badge/Notion-000000.svg?logo=notion&color=black&style=for-the-badge">
+      <img alt="Notion" title="Notion" src="https://custom-icon-badges.demolab.com/badge/Notion-000000.svg?logo=notion&color=black&style=for-the-badge">
     </picture></a>
   
   <!--- Paint.net --->
