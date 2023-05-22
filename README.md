@@ -866,7 +866,7 @@
   <summary align="center">⏰ WakaTime stats</summary>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-41%20hrs%2015%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.1%20million%20lines%20of%20code-blue)
 
@@ -909,17 +909,17 @@ Sunday                   28 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-Python                   31 mins             █████████████████████████   100.00 % 
+Python                   1 hr 21 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  31 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 21 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          20 mins             ████████████████░░░░░░░░░   63.82 % 
-Métodos cuantitativos    11 mins             █████████░░░░░░░░░░░░░░░░   36.18 % 
+MarkovMusicGenerator     1 hr 15 mins        ███████████████████████░░   92.42 % 
+Métodos cuantitativos    6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
 
 💻 Operating System: 
-Windows                  31 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 21 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -935,7 +935,7 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 22/05/2023 06:24:40 UTC
+ Last Updated on 22/05/2023 18:23:24 UTC
 <!--END_SECTION:waka-->
      
 </details>
