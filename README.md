@@ -866,7 +866,7 @@
   <summary align="center">⏰ WakaTime stats</summary>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs%2034%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.1%20million%20lines%20of%20code-blue)
 
@@ -909,16 +909,18 @@ Sunday                   28 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-Python                   5 mins              █████████████████████████   100.00 % 
+Python                   1 hr 13 mins        ████████████████████████░   97.52 % 
+C++                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
 
 🔥 Editors: 
-VS Code                  5 mins              █████████████████████████   100.00 % 
+VS Code                  1 hr 15 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          5 mins              █████████████████████████   100.00 % 
+Unknown Project          55 mins             ███████████████████░░░░░░   74.28 % 
+OracleInterviews         19 mins             ██████░░░░░░░░░░░░░░░░░░░   25.72 % 
 
 💻 Operating System: 
-Windows                  5 mins              █████████████████████████   100.00 % 
+Windows                  1 hr 15 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -934,7 +936,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/08/2023 18:22:40 UTC
+ Last Updated on 17/08/2023 18:22:45 UTC
 <!--END_SECTION:waka-->
      
 </details>
