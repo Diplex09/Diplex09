@@ -361,7 +361,7 @@
   
   <!--- Windows Terminal --->
   <a href="https://github.com/microsoft/terminal" target="_blank" rel="noreferrer">
-      <img alt="Windows Terminal" title="Windows Terminal" src="https://custom-icon-badges.demolab.com/badge/Windows%20Terminal-4D4D4D?logo=windows-terminal-color&style=for-the-badge"></a>
+      <img alt="Windows Terminal" title="Windows Terminal" src="https://custom-icon-badges.demolab.com/badge/Windows%20Terminal-4D4D4D?logo=windows-terminal-color-2&style=for-the-badge"></a>
   
   <!--- Xcode --->
   <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer">
@@ -442,7 +442,7 @@
   
   <!--- Cisco Packet Tracer --->
   <a href="https://www.netacad.com/courses/packet-tracer" target="_blank" rel="noreferrer">
-      <img alt="Cisco Packet Tracer" title="Cisco Packet Tracer" src="https://custom-icon-badges.demolab.com/badge/Cisco%20Packet%20Tracer-00465E?logo=cisco-packet-tracer&style=for-the-badge"></a>
+      <img alt="Cisco Packet Tracer" title="Cisco Packet Tracer" src="https://custom-icon-badges.demolab.com/badge/Cisco%20Packet%20Tracer-00465E?logo=cisco-packet-tracer-2&style=for-the-badge"></a>
   
   <!--- DeepL --->
   <a href="https://www.deepl.com/translator" target="_blank" rel="noreferrer">
@@ -498,7 +498,7 @@
       
   <!--- Kaspersky VPN --->
   <a href="https://usa.kaspersky.com/vpn-secure-connection" target="_blank" rel="noreferrer">
-      <img alt="Kaspersky VPN" title="Kaspersky VPN" src="https://custom-icon-badges.demolab.com/badge/Kaspersky%20VPN-1E856F?logo=kaspersky-vpn&style=for-the-badge"></a>
+      <img alt="Kaspersky VPN" title="Kaspersky VPN" src="https://custom-icon-badges.demolab.com/badge/Kaspersky%20VPN-1E856F?logo=kaspersky-vpn-old&style=for-the-badge"></a>
   
   <!--- Microsoft Excel --->
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
