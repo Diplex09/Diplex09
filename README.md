@@ -6,9 +6,9 @@
 
 <h3 align="center">
   <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Montserrat&size=35&duration=2000&pause=1000&color=ffffff&center=true&vCenter=true&width=1000&multiline=false&lines=Hi!+I'm+Aldo+Degollado+%F0%9F%91%8B;I'm+Mexican+%F0%9F%8C%AE%F0%9F%87%B2%F0%9F%87%BD;I'm+a+Computer+Science+student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I'm+a+%F0%9F%91%BE+game+developer+%F0%9F%8E%AE;I'm+a+Tec+de+Monterrey+student+%F0%9F%90%8F%F0%9F%92%99;I'm+a+big+soccer+enthusiast+%E2%9A%BD;I'm+a+Cruz+Azul+fan+%F0%9F%94%B5%E2%9A%AA;I+love+challenges!+%F0%9F%8F%86">
-      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Montserrat&size=35&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=1000&multiline=false&lines=Hi!+I'm+Aldo+Degollado+%F0%9F%91%8B;I'm+Mexican+%F0%9F%8C%AE%F0%9F%87%B2%F0%9F%87%BD;I'm+a+Computer+Science+student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I'm+a+%F0%9F%91%BE+game+developer+%F0%9F%8E%AE;I'm+a+Tec+de+Monterrey+student+%F0%9F%90%8F%F0%9F%92%99;I'm+a+big+soccer+enthusiast+%E2%9A%BD;I'm+a+Cruz+Azul+fan+%F0%9F%94%B5%E2%9A%AA;I+love+challenges!+%F0%9F%8F%86">
-      <img alt="Introduction svg" title="Introduction svg" src="https://readme-typing-svg.demolab.com?font=Montserrat&size=35&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=1000&multiline=false&lines=Hi!+I'm+Aldo+Degollado+%F0%9F%91%8B;I'm+Mexican+%F0%9F%8C%AE%F0%9F%87%B2%F0%9F%87%BD;I'm+a+Computer+Science+student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I'm+a+%F0%9F%91%BE+game+developer+%F0%9F%8E%AE;I'm+a+Tec+de+Monterrey+student+%F0%9F%90%8F%F0%9F%92%99;I'm+a+big+soccer+enthusiast+%E2%9A%BD;I'm+a+Cruz+Azul+fan+%F0%9F%94%B5%E2%9A%AA;I+love+challenges!+%F0%9F%8F%86">
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Montserrat&weight=600&size=35&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Hi!+I%27m+Aldo+Degollado+%F0%9F%91%8B%F0%9F%8F%BB;I%27m+Mexican+%F0%9F%87%B2%F0%9F%87%BD%F0%9F%8C%AE;I%27m+a+Software+Engineer+%F0%9F%91%A8%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB;I%27m+an+Exatec+%F0%9F%90%8F%F0%9F%92%99;I%27m+a+big+soccer+enthusiast+%E2%9A%BD;I+love+challenges!+%F0%9F%8F%86">
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Montserrat&weight=600&size=35&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=1000&lines=Hi!+I%27m+Aldo+Degollado+%F0%9F%91%8B%F0%9F%8F%BB;I%27m+Mexican+%F0%9F%87%B2%F0%9F%87%BD%F0%9F%8C%AE;I%27m+a+Software+Engineer+%F0%9F%91%A8%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB;I%27m+an+Exatec+%F0%9F%90%8F%F0%9F%92%99;I%27m+a+big+soccer+enthusiast+%E2%9A%BD;I+love+challenges!+%F0%9F%8F%86">
+      <img alt="Introduction svg" title="Introduction svg" src="https://readme-typing-svg.demolab.com/?font=Montserrat&weight=600&size=35&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=1000&lines=Hi!+I%27m+Aldo+Degollado+%F0%9F%91%8B%F0%9F%8F%BB;I%27m+Mexican+%F0%9F%87%B2%F0%9F%87%BD%F0%9F%8C%AE;I%27m+a+Software+Engineer+%F0%9F%91%A8%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB;I%27m+an+Exatec+%F0%9F%90%8F%F0%9F%92%99;I%27m+a+big+soccer+enthusiast+%E2%9A%BD;I+love+challenges!+%F0%9F%8F%86">
     </picture></a>
 
 
@@ -42,7 +42,7 @@
   
   <!--- Steam --->
   <a href="https://steamcommunity.com/id/diplex_/" target="_blank" rel="noreferrer">
-    <img alt="Steam" title="Steam" src="https://img.shields.io/badge/Steam-2A475E.svg?logo=Steam&logoColor=white&style=for-the-badge" /></a>
+    <img alt="Steam" title="Steam" src="https://img.shields.io/badge/Steam-1C3C6D.svg?logo=Steam&logoColor=white&style=for-the-badge" /></a>
   
   <!--- Xbox --->
   <a href="https://account.xbox.com/es-mx/Profile?xr=mebarnav" target="_blank" rel="noreferrer">
@@ -270,9 +270,9 @@
   <!--- MongoDB --->
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MongoDB-00EE64?style=for-the-badge&logo=mongodb&logoColor=white">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/MongoDB-011E2A?style=for-the-badge&logo=mongodb&logoColor=white">
-      <img alt="MongoDB" title="MongoDB" src="https://img.shields.io/badge/MongoDB-011E2A?style=for-the-badge&logo=mongodb&logoColor=white">
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MongoDB-00EE64?style=for-the-badge&logo=mongodb&logoColor=011E2A">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/MongoDB-011E2A?style=for-the-badge&logo=mongodb&logoColor=00ED64">
+      <img alt="MongoDB" title="MongoDB" src="https://img.shields.io/badge/MongoDB-011E2A?style=for-the-badge&logo=mongodb&logoColor=00ED64">
     </picture></a>
   
   <!--- MySQL --->
@@ -328,7 +328,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/MySQL%20Workbench-fff?logo=mysql_official_logo_icon_169938&style=for-the-badge">
       <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/MySQL%20Workbench-00618A?logo=mysql&logoColor=E48E00&style=for-the-badge">
-      <img alt="MySQL Workbench" title="MySQL Workbench" src="https://img.shields.io/badge/MySQL&20Workbench-00618A?style=for-the-badge&logo=mysql&logoColor=white">
+      <img alt="MySQL Workbench" title="MySQL Workbench" src="https://img.shields.io/badge/MySQL%20Workbench-00618A?logo=mysql&logoColor=E48E00&style=for-the-badge">
     </picture></a>
   
   <!--- Notepad++ --->
