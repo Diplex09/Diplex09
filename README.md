@@ -422,7 +422,7 @@
   
   <!--- Autodesk Maya --->
   <a href="https://www.autodesk.com/products/maya/overview" target="_blank" rel="noreferrer">
-      <img alt="Autodesk Maya" title="Autodesk Maya" src="https://custom-icon-badges.demolab.com/badge/Autodesk%20Maya-02AAAB?logo=autodesk-maya-logo&style=for-the-badge"></a>
+      <img alt="Autodesk Maya" title="Autodesk Maya" src="https://custom-icon-badges.demolab.com/badge/Autodesk%20Maya-2F94B8?logo=autodesk-maya-logo-new&style=for-the-badge"></a>
   
   <!--- Boxy SVG --->
   <a href="https://boxy-svg.com/" target="_blank" rel="noreferrer">
@@ -494,11 +494,11 @@
   
   <!--- Kaspersky Password Manager --->
   <a href="https://usa.kaspersky.com/password-manager" target="_blank" rel="noreferrer">
-      <img alt="Kaspersky Password Manager" title="Kaspersky Password Manager" src="https://custom-icon-badges.demolab.com/badge/Kaspersky%20Password%20Manager-1E856F?logo=kaspersky-password-manager-color&style=for-the-badge"></a>
+      <img alt="Kaspersky Password Manager" title="Kaspersky Password Manager" src="https://custom-icon-badges.demolab.com/badge/Kaspersky%20Password%20Manager-009982?logo=kaspersky-password-manager-new&style=for-the-badge"></a>
       
   <!--- Kaspersky VPN --->
   <a href="https://usa.kaspersky.com/vpn-secure-connection" target="_blank" rel="noreferrer">
-      <img alt="Kaspersky VPN" title="Kaspersky VPN" src="https://custom-icon-badges.demolab.com/badge/Kaspersky%20VPN-1E856F?logo=kaspersky-vpn-old&style=for-the-badge"></a>
+      <img alt="Kaspersky VPN" title="Kaspersky VPN" src="https://custom-icon-badges.demolab.com/badge/Kaspersky%20VPN-009982?logo=kaspersky-vpn-new&style=for-the-badge"></a>
   
   <!--- Microsoft Excel --->
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
@@ -551,9 +551,9 @@
   <!--- Simple Icons --->
   <a href="https://simpleicons.org/" target="_blank" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Simple%20Icons-fff?logo=simpleicons&logoColor=111&style=for-the-badge">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Simple%20Icons-111?logo=simpleicons&logoColor=fff&style=for-the-badge">
-      <img alt="Simple Icons" title="Simple Icons" src="https://img.shields.io/badge/Simple%20Icons-111?logo=simpleicons&logoColor=fff&style=for-the-badge">
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Simple%20Icons-FFFFFF?logo=simpleicons&logoColor=111&style=for-the-badge">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Simple%20Icons-000000?logo=simpleicons&logoColor=fff&style=for-the-badge">
+      <img alt="Simple Icons" title="Simple Icons" src="https://img.shields.io/badge/Simple%20Icons-000000?logo=simpleicons&logoColor=fff&style=for-the-badge">
     </picture></a>
   
   <!--- Sketchfab --->
@@ -586,7 +586,7 @@
   
   <!--- Zoom --->
   <a href="https://zoom.us/" target="_blank" rel="noreferrer">
-      <img alt="Zoom" title="Zoom" src="https://custom-icon-badges.demolab.com/badge/Zoom-39394D?logo=zoom-color&style=for-the-badge"></a>
+      <img alt="Zoom" title="Zoom" src="https://img.shields.io/badge/Zoom-0D58EF.svg?logo=Zoom&logoColor=white&style=for-the-badge"></a>
 </p>
 
 ### 📚 Learning platforms
@@ -603,17 +603,17 @@
   <!--- Duolingo --->
   <a href="https://www.duolingo.com/" target="_blank" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/Duolingo-89e219?logo=duolingo-icon-color&style=for-the-badge">
-      <source media="(prefers-color-scheme: light)" srcset="https://custom-icon-badges.demolab.com/badge/Duolingo-89e219?logo=duolingo-color&style=for-the-badge">
-      <img alt="Duolingo" title="Duolingo" src="https://custom-icon-badges.demolab.com/badge/Duolingo-89e219?logo=duolingo-color&style=for-the-badge">
+      <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/Duolingo-89E219?logo=duolingo-icon-color&style=for-the-badge">
+      <source media="(prefers-color-scheme: light)" srcset="https://custom-icon-badges.demolab.com/badge/Duolingo-89E219?logo=duolingo-color&style=for-the-badge">
+      <img alt="Duolingo" title="Duolingo" src="https://custom-icon-badges.demolab.com/badge/Duolingo-89E219?logo=duolingo-color&style=for-the-badge">
     </picture></a>
   
   <!--- EBAC --->
   <a href="https://ebac.mx/" target="_blank" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/EBAC-fff?logo=ebac&logoColor=black&style=for-the-badge">
-      <source media="(prefers-color-scheme: light)" srcset="https://custom-icon-badges.demolab.com/badge/EBAC-000?logo=ebac&logoColor=white&style=for-the-badge">
-      <img alt="EBAC" title="EBAC" src="https://custom-icon-badges.demolab.com/badge/EBAC-000?logo=ebac&logoColor=white&style=for-the-badge">
+      <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/EBAC-FFFFFF?logo=ebac&logoColor=black&style=for-the-badge">
+      <source media="(prefers-color-scheme: light)" srcset="https://custom-icon-badges.demolab.com/badge/EBAC-000000?logo=ebac&logoColor=white&style=for-the-badge">
+      <img alt="EBAC" title="EBAC" src="https://custom-icon-badges.demolab.com/badge/EBAC-000000?logo=ebac&logoColor=white&style=for-the-badge">
     </picture></a>
   
   <!--- HackerRank --->
@@ -622,11 +622,7 @@
   
   <!--- Khan Academy --->
   <a href="https://es.khanacademy.org/" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://custom-icon-badges.demolab.com/badge/Khan%20Academy-14BF96?logo=khan-academy&logoColor=white&style=for-the-badge">
-      <source media="(prefers-color-scheme: light)" srcset="https://custom-icon-badges.demolab.com/badge/Khan%20Academy-0A2A66?logo=khan-academy-color&style=for-the-badge">
       <img alt="Khan Academy" title="Khan Academy" src="https://custom-icon-badges.demolab.com/badge/Khan%20Academy-0A2A66?logo=khan-academy-color&style=for-the-badge">
-    </picture></a>
   
   <!--- Platzi --->
   <a href="https://platzi.com/" target="_blank" rel="noreferrer">
